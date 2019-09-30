@@ -1,13 +1,14 @@
 {
-
   "name":"Emoji Translator",
   "version":"1.0",
   "description":"Translates emotes into their respective descriptions.",
   "author":"Jennifer Du",
+  "manifest_version":2,
 
   "permissions":[
     "declarativeContent",
-    "storage"
+    "storage",
+    "activeTab"
   ],
   "background":{
     "scripts":["bg.js"],
@@ -21,7 +22,5 @@
       "48":"images/logo48.png",
       "128":"images/logo128.png"
     }
-  },
-  "manifest_version":2
-
+  }
 }
