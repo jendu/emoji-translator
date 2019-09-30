@@ -1,0 +1,13 @@
+body{
+  margin:0 auto;
+  background-color:#FAF1D8;
+  text-align:center;
+}
+h1{
+  color:#873A00;
+  font-size:30px;
+}
+#main{
+  height:350px;
+  width:250px;
+}
