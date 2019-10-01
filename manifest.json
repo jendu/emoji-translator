@@ -11,11 +11,11 @@
     "activeTab"
   ],
   "background":{
-    "scripts":["bg.js"],
+    "scripts":["scripts/bg.js"],
     "persistent":false
   },
   "page_action":{
-    "default_popup":"popup.html",
+    "default_popup":"popup/popup.html",
     "default_icon":{
       "16":"images/logo16.png",
       "32":"images/logo32.png",
