@@ -1,4 +1,5 @@
 //this script controls what happens when popup is interacted with
+//calls replace.js
 
 var button=document.getElementById('button');
 
