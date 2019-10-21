@@ -10,6 +10,9 @@
     "storage",
     "activeTab"
   ],
+  "web_accessible_resources":[
+    "scripts/emojiDict.json"
+  ],
   "background":{
     "scripts":["scripts/bg.js"],
     "persistent":false
