@@ -1,21 +1,4 @@
-//this script replaces a string with another
-//currently does "a" to "b", will modify later to replace emojis with text
-
-//parse json emojis into variable
-var emojis;
-var req=new XMLHttpRequest();
-req.open('GET',chrome.extension.getURL('/scripts/emojiDict.json'),true);
-req.onload=function(){
-  if(req.readyState==4&&req.status==200){
-    emojis=JSON.parse(req.response);
-
-    var emoj='U+1F600';//example unicode point
-    console.log(emojis[emoj].name);//retrieves corresponding emoji description
-
-  }
-}
-req.send();
-//console.log(emojis);
+//this script replaces emojis with text description
 
 //get all elements in webpage
 var elements=document.getElementsByTagName('*');
@@ -27,10 +10,24 @@ for(var i=0;i<elements.length;i++){
     //if nodeType is text
     if(node.nodeType===3){
       var text=node.nodeValue;
+      var replacedText=text;
       //g=global, i=case-insensitive. Unicode emojis are case-insensitive
-      //therefore \uD83D\uDE00 is same as \ud83d\ude00
-      var replacedText=text.replace(/a/gi,'b');
-      elements[i].replaceChild(document.createTextNode(replacedText),node);
-    }
-  }
-}
+      //using regex from https://www.regextester.com/106421
+      var emojisInText=text.match(/\u00a9|\u00ae|[\u2000-\u3300]|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]|\ud83e[\ud000-\udfff]/gi);
+
+      //if there are emojis in text
+      if(emojisInText!=null){
+        //loop through emojis
+        for(var k=0;k<emojisInText.length;k++){
+//          console.log('Char:'+emojisInText[k]+' Name:'+emojis[emojisInText[k]].name);
+          if(emojis.hasOwnProperty(emojisInText[k])){
+            console.log(emojisInText[k]+emojis[emojisInText[k]].name);
+            var replacedText=replacedText.replace(emojisInText[k],'[emoji: '+emojis[emojisInText[k]].name+']');
+            // elements[i].replaceChild(document.createTextNode(replacedText),node);
+            }
+        }//for
+        elements[i].replaceChild(document.createTextNode(replacedText),node);
+      }//if
+    }//if
+  }//for
+}//for

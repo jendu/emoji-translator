@@ -18,6 +18,7 @@
     "persistent":false
   },
   "page_action":{
+    "default_title":"Emoji Translator",
     "default_popup":"popup/popup.html",
     "default_icon":{
       "16":"images/logo16.png",
