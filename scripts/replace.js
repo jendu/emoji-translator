@@ -7,6 +7,7 @@ var elements=document.getElementsByTagName('*');
 for(var i=0;i<elements.length;i++){
   for(var j=0;j<elements[i].childNodes.length;j++){
     var node=elements[i].childNodes[j];
+
     //if nodeType is text
     if(node.nodeType===3){
       var text=node.nodeValue;
@@ -19,15 +20,15 @@ for(var i=0;i<elements.length;i++){
       if(emojisInText!=null){
         //loop through emojis
         for(var k=0;k<emojisInText.length;k++){
-//          console.log('Char:'+emojisInText[k]+' Name:'+emojis[emojisInText[k]].name);
           if(emojis.hasOwnProperty(emojisInText[k])){
             console.log(emojisInText[k]+emojis[emojisInText[k]].name);
             var replacedText=replacedText.replace(emojisInText[k],'[emoji: '+emojis[emojisInText[k]].name+']');
-            // elements[i].replaceChild(document.createTextNode(replacedText),node);
             }
-        }//for
+        }
         elements[i].replaceChild(document.createTextNode(replacedText),node);
-      }//if
-    }//if
-  }//for
-}//for
+      }
+
+    }
+
+  }
+}

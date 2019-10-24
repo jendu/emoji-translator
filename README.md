@@ -9,6 +9,6 @@ A chrome extension to translate emoji unicode to their textual descriptions.
 ## Resources
 * [Regex Tester](https://www.regextester.com/106421) - Emoji regex
 * [Unicode](https://unicode.org/emoji/charts/full-emoji-list.html) - Unicode Database
-
+* [JQuery](https://jquery.com/) - Expanded JS library
 ## Authors
 * [JenDu](https://github.com/jendu)
