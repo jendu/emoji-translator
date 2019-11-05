@@ -19,17 +19,19 @@ for(var i=0;i<elements.length;i++){
 
           //if there are emojis in text
           if(emojisInText!=null){
+            var originalText=emojisInText;
             emojisInText=emojisInText.toString().replace(/\[emoji: /gi,'');
             emojisInText=emojisInText.replace(/\]/gi,'');
-            emojisInText=emojisInText.toString();
+            var emojiArray=emojisInText.split(',');
 
-            if(textEmojis.hasOwnProperty(emojisInText)){
-              replacedText=replacedText.toString().replace(/\[emoji: /gi,'');
-              replacedText=replacedText.replace(/\]/gi,'');
-              replacedText=replacedText.toString();
-              replacedText=replacedText.replace(emojisInText,textEmojis[emojisInText].char);
-              elements[i].replaceChild(document.createTextNode(replacedText),node);
+            for(var k=0;k<emojiArray.length;k++){
+              emojiArray[k]=emojiArray[k].toString();
+              console.log(emojiArray[k]);
+              if(textEmojis.hasOwnProperty(emojiArray[k])){
+                replacedText=replacedText.replace(originalText[k],textEmojis[emojiArray[k]].char);
+              }
             }
+            elements[i].replaceChild(document.createTextNode(replacedText),node);
           }
 
         }
