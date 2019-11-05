@@ -10,16 +10,6 @@ body.onload=function(element){
   });
 };
 
-//button
-function translate(){
-  chrome.tabs.query({active:true,currentWindow:true},function(tabs){
-    chrome.tabs.executeScript(
-      tabs[0].id,{file:'/scripts/replace.js'}
-    );
-  });
-}
-document.getElementById('button').addEventListener('click',translate);
-
 //toggle mode
 var modeToggle=document.querySelector('input[name=modeToggle]');
 function toggleMode(){
