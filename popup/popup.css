@@ -1,3 +1,4 @@
+/* body */
 body{
   margin:0 auto;
   background-color:#FAF1D8;
@@ -8,6 +9,39 @@ h1{
   font-size:30px;
 }
 #main{
-  height:350px;
+  height:150px;
   width:250px;
 }
+
+/* toggle switches */
+.toggle{
+  position:relative;
+  display:inline-block;
+  width:50px;
+  height:30px;
+}
+.toggle input{display:none;}
+.switch{
+  position:absolute;
+  cursor:pointer;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:#AE0204;
+  -webkit-transition:.4s;
+}
+.switch.round{border-radius:50px;}
+.on{display: none;}
+.on,.off{
+  color:#FFFFFF;
+  position:absolute;
+  transform:translate(-50%,-50%);
+  top:50%;
+  left:50%;
+  font-family:Verdana, sans-serif;
+}
+input:checked + .switch{background-color:#077801;}
+input:checked + .switch:before{-webkit-transform:translateX(55px);}
+input:checked+ .switch .on{display:block;}
+input:checked + .switch .off{display:none;}

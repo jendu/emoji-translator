@@ -1,0 +1,6970 @@
+{
+  "grinning face": {
+    "char": "😀",
+    "code": "U+1F600"
+  },
+  "grinning face with big eyes": {
+    "char": "😃",
+    "code": "U+1F603"
+  },
+  "grinning face with smiling eyes": {
+    "char": "😄",
+    "code": "U+1F604"
+  },
+  "beaming face with smiling eyes": {
+    "char": "😁",
+    "code": "U+1F601"
+  },
+  "grinning squinting face": {
+    "char": "😆",
+    "code": "U+1F606"
+  },
+  "grinning face with sweat": {
+    "char": "😅",
+    "code": "U+1F605"
+  },
+  "rolling on the floor laughing": {
+    "char": "🤣",
+    "code": "U+1F923"
+  },
+  "face with tears of joy": {
+    "char": "😂",
+    "code": "U+1F602"
+  },
+  "slightly smiling face": {
+    "char": "🙂",
+    "code": "U+1F642"
+  },
+  "upside-down face": {
+    "char": "🙃",
+    "code": "U+1F643"
+  },
+  "winking face": {
+    "char": "😉",
+    "code": "U+1F609"
+  },
+  "smiling face with smiling eyes": {
+    "char": "😊",
+    "code": "U+1F60A"
+  },
+  "smiling face with halo": {
+    "char": "😇",
+    "code": "U+1F607"
+  },
+  "smiling face with hearts": {
+    "char": "🥰",
+    "code": "U+1F970"
+  },
+  "smiling face with heart-eyes": {
+    "char": "😍",
+    "code": "U+1F60D"
+  },
+  "star-struck": {
+    "char": "🤩",
+    "code": "U+1F929"
+  },
+  "face blowing a kiss": {
+    "char": "😘",
+    "code": "U+1F618"
+  },
+  "kissing face": {
+    "char": "😗",
+    "code": "U+1F617"
+  },
+  "smiling face": {
+    "char": "☺",
+    "code": "U+263A"
+  },
+  "kissing face with closed eyes": {
+    "char": "😚",
+    "code": "U+1F61A"
+  },
+  "kissing face with smiling eyes": {
+    "char": "😙",
+    "code": "U+1F619"
+  },
+  "face savoring food": {
+    "char": "😋",
+    "code": "U+1F60B"
+  },
+  "face with tongue": {
+    "char": "😛",
+    "code": "U+1F61B"
+  },
+  "winking face with tongue": {
+    "char": "😜",
+    "code": "U+1F61C"
+  },
+  "zany face": {
+    "char": "🤪",
+    "code": "U+1F92A"
+  },
+  "squinting face with tongue": {
+    "char": "😝",
+    "code": "U+1F61D"
+  },
+  "money-mouth face": {
+    "char": "🤑",
+    "code": "U+1F911"
+  },
+  "hugging face": {
+    "char": "🤗",
+    "code": "U+1F917"
+  },
+  "face with hand over mouth": {
+    "char": "🤭",
+    "code": "U+1F92D"
+  },
+  "shushing face": {
+    "char": "🤫",
+    "code": "U+1F92B"
+  },
+  "thinking face": {
+    "char": "🤔",
+    "code": "U+1F914"
+  },
+  "zipper-mouth face": {
+    "char": "🤐",
+    "code": "U+1F910"
+  },
+  "face with raised eyebrow": {
+    "char": "🤨",
+    "code": "U+1F928"
+  },
+  "neutral face": {
+    "char": "😐",
+    "code": "U+1F610"
+  },
+  "expressionless face": {
+    "char": "😑",
+    "code": "U+1F611"
+  },
+  "face without mouth": {
+    "char": "😶",
+    "code": "U+1F636"
+  },
+  "smirking face": {
+    "char": "😏",
+    "code": "U+1F60F"
+  },
+  "unamused face": {
+    "char": "😒",
+    "code": "U+1F612"
+  },
+  "face with rolling eyes": {
+    "char": "🙄",
+    "code": "U+1F644"
+  },
+  "grimacing face": {
+    "char": "😬",
+    "code": "U+1F62C"
+  },
+  "lying face": {
+    "char": "🤥",
+    "code": "U+1F925"
+  },
+  "relieved face": {
+    "char": "😌",
+    "code": "U+1F60C"
+  },
+  "pensive face": {
+    "char": "😔",
+    "code": "U+1F614"
+  },
+  "sleepy face": {
+    "char": "😪",
+    "code": "U+1F62A"
+  },
+  "drooling face": {
+    "char": "🤤",
+    "code": "U+1F924"
+  },
+  "sleeping face": {
+    "char": "😴",
+    "code": "U+1F634"
+  },
+  "face with medical mask": {
+    "char": "😷",
+    "code": "U+1F637"
+  },
+  "face with thermometer": {
+    "char": "🤒",
+    "code": "U+1F912"
+  },
+  "face with head-bandage": {
+    "char": "🤕",
+    "code": "U+1F915"
+  },
+  "nauseated face": {
+    "char": "🤢",
+    "code": "U+1F922"
+  },
+  "face vomiting": {
+    "char": "🤮",
+    "code": "U+1F92E"
+  },
+  "sneezing face": {
+    "char": "🤧",
+    "code": "U+1F927"
+  },
+  "hot face": {
+    "char": "🥵",
+    "code": "U+1F975"
+  },
+  "cold face": {
+    "char": "🥶",
+    "code": "U+1F976"
+  },
+  "woozy face": {
+    "char": "🥴",
+    "code": "U+1F974"
+  },
+  "dizzy face": {
+    "char": "😵",
+    "code": "U+1F635"
+  },
+  "exploding head": {
+    "char": "🤯",
+    "code": "U+1F92F"
+  },
+  "cowboy hat face": {
+    "char": "🤠",
+    "code": "U+1F920"
+  },
+  "partying face": {
+    "char": "🥳",
+    "code": "U+1F973"
+  },
+  "smiling face with sunglasses": {
+    "char": "😎",
+    "code": "U+1F60E"
+  },
+  "nerd face": {
+    "char": "🤓",
+    "code": "U+1F913"
+  },
+  "face with monocle": {
+    "char": "🧐",
+    "code": "U+1F9D0"
+  },
+  "confused face": {
+    "char": "😕",
+    "code": "U+1F615"
+  },
+  "worried face": {
+    "char": "😟",
+    "code": "U+1F61F"
+  },
+  "slightly frowning face": {
+    "char": "🙁",
+    "code": "U+1F641"
+  },
+  "frowning face": {
+    "char": "☹",
+    "code": "U+2639"
+  },
+  "face with open mouth": {
+    "char": "😮",
+    "code": "U+1F62E"
+  },
+  "hushed face": {
+    "char": "😯",
+    "code": "U+1F62F"
+  },
+  "astonished face": {
+    "char": "😲",
+    "code": "U+1F632"
+  },
+  "flushed face": {
+    "char": "😳",
+    "code": "U+1F633"
+  },
+  "pleading face": {
+    "char": "🥺",
+    "code": "U+1F97A"
+  },
+  "frowning face with open mouth": {
+    "char": "😦",
+    "code": "U+1F626"
+  },
+  "anguished face": {
+    "char": "😧",
+    "code": "U+1F627"
+  },
+  "fearful face": {
+    "char": "😨",
+    "code": "U+1F628"
+  },
+  "anxious face with sweat": {
+    "char": "😰",
+    "code": "U+1F630"
+  },
+  "sad but relieved face": {
+    "char": "😥",
+    "code": "U+1F625"
+  },
+  "crying face": {
+    "char": "😢",
+    "code": "U+1F622"
+  },
+  "loudly crying face": {
+    "char": "😭",
+    "code": "U+1F62D"
+  },
+  "face screaming in fear": {
+    "char": "😱",
+    "code": "U+1F631"
+  },
+  "confounded face": {
+    "char": "😖",
+    "code": "U+1F616"
+  },
+  "persevering face": {
+    "char": "😣",
+    "code": "U+1F623"
+  },
+  "disappointed face": {
+    "char": "😞",
+    "code": "U+1F61E"
+  },
+  "downcast face with sweat": {
+    "char": "😓",
+    "code": "U+1F613"
+  },
+  "weary face": {
+    "char": "😩",
+    "code": "U+1F629"
+  },
+  "tired face": {
+    "char": "😫",
+    "code": "U+1F62B"
+  },
+  "yawning face": {
+    "char": "🥱",
+    "code": "U+1F971"
+  },
+  "face with steam from nose": {
+    "char": "😤",
+    "code": "U+1F624"
+  },
+  "pouting face": {
+    "char": "😡",
+    "code": "U+1F621"
+  },
+  "angry face": {
+    "char": "😠",
+    "code": "U+1F620"
+  },
+  "face with symbols on mouth": {
+    "char": "🤬",
+    "code": "U+1F92C"
+  },
+  "smiling face with horns": {
+    "char": "😈",
+    "code": "U+1F608"
+  },
+  "angry face with horns": {
+    "char": "👿",
+    "code": "U+1F47F"
+  },
+  "skull": {
+    "char": "💀",
+    "code": "U+1F480"
+  },
+  "skull and crossbones": {
+    "char": "☠",
+    "code": "U+2620"
+  },
+  "pile of poo": {
+    "char": "💩",
+    "code": "U+1F4A9"
+  },
+  "clown face": {
+    "char": "🤡",
+    "code": "U+1F921"
+  },
+  "ogre": {
+    "char": "👹",
+    "code": "U+1F479"
+  },
+  "goblin": {
+    "char": "👺",
+    "code": "U+1F47A"
+  },
+  "ghost": {
+    "char": "👻",
+    "code": "U+1F47B"
+  },
+  "alien": {
+    "char": "👽",
+    "code": "U+1F47D"
+  },
+  "alien monster": {
+    "char": "👾",
+    "code": "U+1F47E"
+  },
+  "robot": {
+    "char": "🤖",
+    "code": "U+1F916"
+  },
+  "grinning cat": {
+    "char": "😺",
+    "code": "U+1F63A"
+  },
+  "grinning cat with smiling eyes": {
+    "char": "😸",
+    "code": "U+1F638"
+  },
+  "cat with tears of joy": {
+    "char": "😹",
+    "code": "U+1F639"
+  },
+  "smiling cat with heart-eyes": {
+    "char": "😻",
+    "code": "U+1F63B"
+  },
+  "cat with wry smile": {
+    "char": "😼",
+    "code": "U+1F63C"
+  },
+  "kissing cat": {
+    "char": "😽",
+    "code": "U+1F63D"
+  },
+  "weary cat": {
+    "char": "🙀",
+    "code": "U+1F640"
+  },
+  "crying cat": {
+    "char": "😿",
+    "code": "U+1F63F"
+  },
+  "pouting cat": {
+    "char": "😾",
+    "code": "U+1F63E"
+  },
+  "see-no-evil monkey": {
+    "char": "🙈",
+    "code": "U+1F648"
+  },
+  "hear-no-evil monkey": {
+    "char": "🙉",
+    "code": "U+1F649"
+  },
+  "speak-no-evil monkey": {
+    "char": "🙊",
+    "code": "U+1F64A"
+  },
+  "kiss mark": {
+    "char": "💋",
+    "code": "U+1F48B"
+  },
+  "love letter": {
+    "char": "💌",
+    "code": "U+1F48C"
+  },
+  "heart with arrow": {
+    "char": "💘",
+    "code": "U+1F498"
+  },
+  "heart with ribbon": {
+    "char": "💝",
+    "code": "U+1F49D"
+  },
+  "sparkling heart": {
+    "char": "💖",
+    "code": "U+1F496"
+  },
+  "growing heart": {
+    "char": "💗",
+    "code": "U+1F497"
+  },
+  "beating heart": {
+    "char": "💓",
+    "code": "U+1F493"
+  },
+  "revolving hearts": {
+    "char": "💞",
+    "code": "U+1F49E"
+  },
+  "two hearts": {
+    "char": "💕",
+    "code": "U+1F495"
+  },
+  "heart decoration": {
+    "char": "💟",
+    "code": "U+1F49F"
+  },
+  "heart exclamation": {
+    "char": "❣",
+    "code": "U+2763"
+  },
+  "broken heart": {
+    "char": "💔",
+    "code": "U+1F494"
+  },
+  "red heart": {
+    "char": "❤",
+    "code": "U+2764"
+  },
+  "orange heart": {
+    "char": "🧡",
+    "code": "U+1F9E1"
+  },
+  "yellow heart": {
+    "char": "💛",
+    "code": "U+1F49B"
+  },
+  "green heart": {
+    "char": "💚",
+    "code": "U+1F49A"
+  },
+  "blue heart": {
+    "char": "💙",
+    "code": "U+1F499"
+  },
+  "purple heart": {
+    "char": "💜",
+    "code": "U+1F49C"
+  },
+  "brown heart": {
+    "char": "🤎",
+    "code": "U+1F90E"
+  },
+  "black heart": {
+    "char": "🖤",
+    "code": "U+1F5A4"
+  },
+  "white heart": {
+    "char": "🤍",
+    "code": "U+1F90D"
+  },
+  "hundred points": {
+    "char": "💯",
+    "code": "U+1F4AF"
+  },
+  "anger symbol": {
+    "char": "💢",
+    "code": "U+1F4A2"
+  },
+  "collision": {
+    "char": "💥",
+    "code": "U+1F4A5"
+  },
+  "dizzy": {
+    "char": "💫",
+    "code": "U+1F4AB"
+  },
+  "sweat droplets": {
+    "char": "💦",
+    "code": "U+1F4A6"
+  },
+  "dashing away": {
+    "char": "💨",
+    "code": "U+1F4A8"
+  },
+  "hole": {
+    "char": "🕳",
+    "code": "U+1F573"
+  },
+  "bomb": {
+    "char": "💣",
+    "code": "U+1F4A3"
+  },
+  "speech balloon": {
+    "char": "💬",
+    "code": "U+1F4AC"
+  },
+  "eye in speech bubble": {
+    "char": "👁️‍🗨️",
+    "code": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F"
+  },
+  "left speech bubble": {
+    "char": "🗨",
+    "code": "U+1F5E8"
+  },
+  "right anger bubble": {
+    "char": "🗯",
+    "code": "U+1F5EF"
+  },
+  "thought balloon": {
+    "char": "💭",
+    "code": "U+1F4AD"
+  },
+  "zzz": {
+    "char": "💤",
+    "code": "U+1F4A4"
+  },
+  "waving hand": {
+    "char": "👋",
+    "code": "U+1F44B"
+  },
+  "raised back of hand": {
+    "char": "🤚",
+    "code": "U+1F91A"
+  },
+  "hand with fingers splayed": {
+    "char": "🖐",
+    "code": "U+1F590"
+  },
+  "raised hand": {
+    "char": "✋",
+    "code": "U+270B"
+  },
+  "vulcan salute": {
+    "char": "🖖",
+    "code": "U+1F596"
+  },
+  "OK hand": {
+    "char": "👌",
+    "code": "U+1F44C"
+  },
+  "pinching hand": {
+    "char": "🤏",
+    "code": "U+1F90F"
+  },
+  "victory hand": {
+    "char": "✌",
+    "code": "U+270C"
+  },
+  "crossed fingers": {
+    "char": "🤞",
+    "code": "U+1F91E"
+  },
+  "love-you gesture": {
+    "char": "🤟",
+    "code": "U+1F91F"
+  },
+  "sign of the horns": {
+    "char": "🤘",
+    "code": "U+1F918"
+  },
+  "call me hand": {
+    "char": "🤙",
+    "code": "U+1F919"
+  },
+  "backhand index pointing left": {
+    "char": "👈",
+    "code": "U+1F448"
+  },
+  "backhand index pointing right": {
+    "char": "👉",
+    "code": "U+1F449"
+  },
+  "backhand index pointing up": {
+    "char": "👆",
+    "code": "U+1F446"
+  },
+  "middle finger": {
+    "char": "🖕",
+    "code": "U+1F595"
+  },
+  "backhand index pointing down": {
+    "char": "👇",
+    "code": "U+1F447"
+  },
+  "index pointing up": {
+    "char": "☝",
+    "code": "U+261D"
+  },
+  "thumbs up": {
+    "char": "👍",
+    "code": "U+1F44D"
+  },
+  "thumbs down": {
+    "char": "👎",
+    "code": "U+1F44E"
+  },
+  "raised fist": {
+    "char": "✊",
+    "code": "U+270A"
+  },
+  "oncoming fist": {
+    "char": "👊",
+    "code": "U+1F44A"
+  },
+  "left-facing fist": {
+    "char": "🤛",
+    "code": "U+1F91B"
+  },
+  "right-facing fist": {
+    "char": "🤜",
+    "code": "U+1F91C"
+  },
+  "clapping hands": {
+    "char": "👏",
+    "code": "U+1F44F"
+  },
+  "raising hands": {
+    "char": "🙌",
+    "code": "U+1F64C"
+  },
+  "open hands": {
+    "char": "👐",
+    "code": "U+1F450"
+  },
+  "palms up together": {
+    "char": "🤲",
+    "code": "U+1F932"
+  },
+  "handshake": {
+    "char": "🤝",
+    "code": "U+1F91D"
+  },
+  "folded hands": {
+    "char": "🙏",
+    "code": "U+1F64F"
+  },
+  "writing hand": {
+    "char": "✍",
+    "code": "U+270D"
+  },
+  "nail polish": {
+    "char": "💅",
+    "code": "U+1F485"
+  },
+  "selfie": {
+    "char": "🤳",
+    "code": "U+1F933"
+  },
+  "flexed biceps": {
+    "char": "💪",
+    "code": "U+1F4AA"
+  },
+  "mechanical arm": {
+    "char": "🦾",
+    "code": "U+1F9BE"
+  },
+  "mechanical leg": {
+    "char": "🦿",
+    "code": "U+1F9BF"
+  },
+  "leg": {
+    "char": "🦵",
+    "code": "U+1F9B5"
+  },
+  "foot": {
+    "char": "🦶",
+    "code": "U+1F9B6"
+  },
+  "ear": {
+    "char": "👂",
+    "code": "U+1F442"
+  },
+  "ear with hearing aid": {
+    "char": "🦻",
+    "code": "U+1F9BB"
+  },
+  "nose": {
+    "char": "👃",
+    "code": "U+1F443"
+  },
+  "brain": {
+    "char": "🧠",
+    "code": "U+1F9E0"
+  },
+  "tooth": {
+    "char": "🦷",
+    "code": "U+1F9B7"
+  },
+  "bone": {
+    "char": "🦴",
+    "code": "U+1F9B4"
+  },
+  "eyes": {
+    "char": "👀",
+    "code": "U+1F440"
+  },
+  "eye": {
+    "char": "👁",
+    "code": "U+1F441"
+  },
+  "tongue": {
+    "char": "👅",
+    "code": "U+1F445"
+  },
+  "mouth": {
+    "char": "👄",
+    "code": "U+1F444"
+  },
+  "baby": {
+    "char": "👶",
+    "code": "U+1F476"
+  },
+  "child": {
+    "char": "🧒",
+    "code": "U+1F9D2"
+  },
+  "boy": {
+    "char": "👦",
+    "code": "U+1F466"
+  },
+  "girl": {
+    "char": "👧",
+    "code": "U+1F467"
+  },
+  "person": {
+    "char": "🧑",
+    "code": "U+1F9D1"
+  },
+  "person: blond hair": {
+    "char": "👱",
+    "code": "U+1F471"
+  },
+  "man": {
+    "char": "👨",
+    "code": "U+1F468"
+  },
+  "man: beard": {
+    "char": "🧔",
+    "code": "U+1F9D4"
+  },
+  "man: red hair": {
+    "char": "👨‍🦰",
+    "code": "U+1F468 U+200D U+1F9B0"
+  },
+  "man: curly hair": {
+    "char": "👨‍🦱",
+    "code": "U+1F468 U+200D U+1F9B1"
+  },
+  "man: white hair": {
+    "char": "👨‍🦳",
+    "code": "U+1F468 U+200D U+1F9B3"
+  },
+  "man: bald": {
+    "char": "👨‍🦲",
+    "code": "U+1F468 U+200D U+1F9B2"
+  },
+  "woman": {
+    "char": "👩",
+    "code": "U+1F469"
+  },
+  "woman: red hair": {
+    "char": "👩‍🦰",
+    "code": "U+1F469 U+200D U+1F9B0"
+  },
+  "⊛ person: red hair": {
+    "char": "🧑‍🦰",
+    "code": "U+1F9D1 U+200D U+1F9B0"
+  },
+  "woman: curly hair": {
+    "char": "👩‍🦱",
+    "code": "U+1F469 U+200D U+1F9B1"
+  },
+  "⊛ person: curly hair": {
+    "char": "🧑‍🦱",
+    "code": "U+1F9D1 U+200D U+1F9B1"
+  },
+  "woman: white hair": {
+    "char": "👩‍🦳",
+    "code": "U+1F469 U+200D U+1F9B3"
+  },
+  "⊛ person: white hair": {
+    "char": "🧑‍🦳",
+    "code": "U+1F9D1 U+200D U+1F9B3"
+  },
+  "woman: bald": {
+    "char": "👩‍🦲",
+    "code": "U+1F469 U+200D U+1F9B2"
+  },
+  "⊛ person: bald": {
+    "char": "🧑‍🦲",
+    "code": "U+1F9D1 U+200D U+1F9B2"
+  },
+  "woman: blond hair": {
+    "char": "👱‍♀️",
+    "code": "U+1F471 U+200D U+2640 U+FE0F"
+  },
+  "man: blond hair": {
+    "char": "👱‍♂️",
+    "code": "U+1F471 U+200D U+2642 U+FE0F"
+  },
+  "older person": {
+    "char": "🧓",
+    "code": "U+1F9D3"
+  },
+  "old man": {
+    "char": "👴",
+    "code": "U+1F474"
+  },
+  "old woman": {
+    "char": "👵",
+    "code": "U+1F475"
+  },
+  "person frowning": {
+    "char": "🙍",
+    "code": "U+1F64D"
+  },
+  "man frowning": {
+    "char": "🙍‍♂️",
+    "code": "U+1F64D U+200D U+2642 U+FE0F"
+  },
+  "woman frowning": {
+    "char": "🙍‍♀️",
+    "code": "U+1F64D U+200D U+2640 U+FE0F"
+  },
+  "person pouting": {
+    "char": "🙎",
+    "code": "U+1F64E"
+  },
+  "man pouting": {
+    "char": "🙎‍♂️",
+    "code": "U+1F64E U+200D U+2642 U+FE0F"
+  },
+  "woman pouting": {
+    "char": "🙎‍♀️",
+    "code": "U+1F64E U+200D U+2640 U+FE0F"
+  },
+  "person gesturing NO": {
+    "char": "🙅",
+    "code": "U+1F645"
+  },
+  "man gesturing NO": {
+    "char": "🙅‍♂️",
+    "code": "U+1F645 U+200D U+2642 U+FE0F"
+  },
+  "woman gesturing NO": {
+    "char": "🙅‍♀️",
+    "code": "U+1F645 U+200D U+2640 U+FE0F"
+  },
+  "person gesturing OK": {
+    "char": "🙆",
+    "code": "U+1F646"
+  },
+  "man gesturing OK": {
+    "char": "🙆‍♂️",
+    "code": "U+1F646 U+200D U+2642 U+FE0F"
+  },
+  "woman gesturing OK": {
+    "char": "🙆‍♀️",
+    "code": "U+1F646 U+200D U+2640 U+FE0F"
+  },
+  "person tipping hand": {
+    "char": "💁",
+    "code": "U+1F481"
+  },
+  "man tipping hand": {
+    "char": "💁‍♂️",
+    "code": "U+1F481 U+200D U+2642 U+FE0F"
+  },
+  "woman tipping hand": {
+    "char": "💁‍♀️",
+    "code": "U+1F481 U+200D U+2640 U+FE0F"
+  },
+  "person raising hand": {
+    "char": "🙋",
+    "code": "U+1F64B"
+  },
+  "man raising hand": {
+    "char": "🙋‍♂️",
+    "code": "U+1F64B U+200D U+2642 U+FE0F"
+  },
+  "woman raising hand": {
+    "char": "🙋‍♀️",
+    "code": "U+1F64B U+200D U+2640 U+FE0F"
+  },
+  "deaf person": {
+    "char": "🧏",
+    "code": "U+1F9CF"
+  },
+  "deaf man": {
+    "char": "🧏‍♂️",
+    "code": "U+1F9CF U+200D U+2642 U+FE0F"
+  },
+  "deaf woman": {
+    "char": "🧏‍♀️",
+    "code": "U+1F9CF U+200D U+2640 U+FE0F"
+  },
+  "person bowing": {
+    "char": "🙇",
+    "code": "U+1F647"
+  },
+  "man bowing": {
+    "char": "🙇‍♂️",
+    "code": "U+1F647 U+200D U+2642 U+FE0F"
+  },
+  "woman bowing": {
+    "char": "🙇‍♀️",
+    "code": "U+1F647 U+200D U+2640 U+FE0F"
+  },
+  "person facepalming": {
+    "char": "🤦",
+    "code": "U+1F926"
+  },
+  "man facepalming": {
+    "char": "🤦‍♂️",
+    "code": "U+1F926 U+200D U+2642 U+FE0F"
+  },
+  "woman facepalming": {
+    "char": "🤦‍♀️",
+    "code": "U+1F926 U+200D U+2640 U+FE0F"
+  },
+  "person shrugging": {
+    "char": "🤷",
+    "code": "U+1F937"
+  },
+  "man shrugging": {
+    "char": "🤷‍♂️",
+    "code": "U+1F937 U+200D U+2642 U+FE0F"
+  },
+  "woman shrugging": {
+    "char": "🤷‍♀️",
+    "code": "U+1F937 U+200D U+2640 U+FE0F"
+  },
+  "⊛ health worker": {
+    "char": "🧑‍⚕️",
+    "code": "U+1F9D1 U+200D U+2695 U+FE0F"
+  },
+  "man health worker": {
+    "char": "👨‍⚕️",
+    "code": "U+1F468 U+200D U+2695 U+FE0F"
+  },
+  "woman health worker": {
+    "char": "👩‍⚕️",
+    "code": "U+1F469 U+200D U+2695 U+FE0F"
+  },
+  "⊛ student": {
+    "char": "🧑‍🎓",
+    "code": "U+1F9D1 U+200D U+1F393"
+  },
+  "man student": {
+    "char": "👨‍🎓",
+    "code": "U+1F468 U+200D U+1F393"
+  },
+  "woman student": {
+    "char": "👩‍🎓",
+    "code": "U+1F469 U+200D U+1F393"
+  },
+  "⊛ teacher": {
+    "char": "🧑‍🏫",
+    "code": "U+1F9D1 U+200D U+1F3EB"
+  },
+  "man teacher": {
+    "char": "👨‍🏫",
+    "code": "U+1F468 U+200D U+1F3EB"
+  },
+  "woman teacher": {
+    "char": "👩‍🏫",
+    "code": "U+1F469 U+200D U+1F3EB"
+  },
+  "⊛ judge": {
+    "char": "🧑‍⚖️",
+    "code": "U+1F9D1 U+200D U+2696 U+FE0F"
+  },
+  "man judge": {
+    "char": "👨‍⚖️",
+    "code": "U+1F468 U+200D U+2696 U+FE0F"
+  },
+  "woman judge": {
+    "char": "👩‍⚖️",
+    "code": "U+1F469 U+200D U+2696 U+FE0F"
+  },
+  "⊛ farmer": {
+    "char": "🧑‍🌾",
+    "code": "U+1F9D1 U+200D U+1F33E"
+  },
+  "man farmer": {
+    "char": "👨‍🌾",
+    "code": "U+1F468 U+200D U+1F33E"
+  },
+  "woman farmer": {
+    "char": "👩‍🌾",
+    "code": "U+1F469 U+200D U+1F33E"
+  },
+  "⊛ cook": {
+    "char": "🧑‍🍳",
+    "code": "U+1F9D1 U+200D U+1F373"
+  },
+  "man cook": {
+    "char": "👨‍🍳",
+    "code": "U+1F468 U+200D U+1F373"
+  },
+  "woman cook": {
+    "char": "👩‍🍳",
+    "code": "U+1F469 U+200D U+1F373"
+  },
+  "⊛ mechanic": {
+    "char": "🧑‍🔧",
+    "code": "U+1F9D1 U+200D U+1F527"
+  },
+  "man mechanic": {
+    "char": "👨‍🔧",
+    "code": "U+1F468 U+200D U+1F527"
+  },
+  "woman mechanic": {
+    "char": "👩‍🔧",
+    "code": "U+1F469 U+200D U+1F527"
+  },
+  "⊛ factory worker": {
+    "char": "🧑‍🏭",
+    "code": "U+1F9D1 U+200D U+1F3ED"
+  },
+  "man factory worker": {
+    "char": "👨‍🏭",
+    "code": "U+1F468 U+200D U+1F3ED"
+  },
+  "woman factory worker": {
+    "char": "👩‍🏭",
+    "code": "U+1F469 U+200D U+1F3ED"
+  },
+  "⊛ office worker": {
+    "char": "🧑‍💼",
+    "code": "U+1F9D1 U+200D U+1F4BC"
+  },
+  "man office worker": {
+    "char": "👨‍💼",
+    "code": "U+1F468 U+200D U+1F4BC"
+  },
+  "woman office worker": {
+    "char": "👩‍💼",
+    "code": "U+1F469 U+200D U+1F4BC"
+  },
+  "⊛ scientist": {
+    "char": "🧑‍🔬",
+    "code": "U+1F9D1 U+200D U+1F52C"
+  },
+  "man scientist": {
+    "char": "👨‍🔬",
+    "code": "U+1F468 U+200D U+1F52C"
+  },
+  "woman scientist": {
+    "char": "👩‍🔬",
+    "code": "U+1F469 U+200D U+1F52C"
+  },
+  "⊛ technologist": {
+    "char": "🧑‍💻",
+    "code": "U+1F9D1 U+200D U+1F4BB"
+  },
+  "man technologist": {
+    "char": "👨‍💻",
+    "code": "U+1F468 U+200D U+1F4BB"
+  },
+  "woman technologist": {
+    "char": "👩‍💻",
+    "code": "U+1F469 U+200D U+1F4BB"
+  },
+  "⊛ singer": {
+    "char": "🧑‍🎤",
+    "code": "U+1F9D1 U+200D U+1F3A4"
+  },
+  "man singer": {
+    "char": "👨‍🎤",
+    "code": "U+1F468 U+200D U+1F3A4"
+  },
+  "woman singer": {
+    "char": "👩‍🎤",
+    "code": "U+1F469 U+200D U+1F3A4"
+  },
+  "⊛ artist": {
+    "char": "🧑‍🎨",
+    "code": "U+1F9D1 U+200D U+1F3A8"
+  },
+  "man artist": {
+    "char": "👨‍🎨",
+    "code": "U+1F468 U+200D U+1F3A8"
+  },
+  "woman artist": {
+    "char": "👩‍🎨",
+    "code": "U+1F469 U+200D U+1F3A8"
+  },
+  "⊛ pilot": {
+    "char": "🧑‍✈️",
+    "code": "U+1F9D1 U+200D U+2708 U+FE0F"
+  },
+  "man pilot": {
+    "char": "👨‍✈️",
+    "code": "U+1F468 U+200D U+2708 U+FE0F"
+  },
+  "woman pilot": {
+    "char": "👩‍✈️",
+    "code": "U+1F469 U+200D U+2708 U+FE0F"
+  },
+  "⊛ astronaut": {
+    "char": "🧑‍🚀",
+    "code": "U+1F9D1 U+200D U+1F680"
+  },
+  "man astronaut": {
+    "char": "👨‍🚀",
+    "code": "U+1F468 U+200D U+1F680"
+  },
+  "woman astronaut": {
+    "char": "👩‍🚀",
+    "code": "U+1F469 U+200D U+1F680"
+  },
+  "⊛ firefighter": {
+    "char": "🧑‍🚒",
+    "code": "U+1F9D1 U+200D U+1F692"
+  },
+  "man firefighter": {
+    "char": "👨‍🚒",
+    "code": "U+1F468 U+200D U+1F692"
+  },
+  "woman firefighter": {
+    "char": "👩‍🚒",
+    "code": "U+1F469 U+200D U+1F692"
+  },
+  "police officer": {
+    "char": "👮",
+    "code": "U+1F46E"
+  },
+  "man police officer": {
+    "char": "👮‍♂️",
+    "code": "U+1F46E U+200D U+2642 U+FE0F"
+  },
+  "woman police officer": {
+    "char": "👮‍♀️",
+    "code": "U+1F46E U+200D U+2640 U+FE0F"
+  },
+  "detective": {
+    "char": "🕵",
+    "code": "U+1F575"
+  },
+  "man detective": {
+    "char": "🕵️‍♂️",
+    "code": "U+1F575 U+FE0F U+200D U+2642 U+FE0F"
+  },
+  "woman detective": {
+    "char": "🕵️‍♀️",
+    "code": "U+1F575 U+FE0F U+200D U+2640 U+FE0F"
+  },
+  "guard": {
+    "char": "💂",
+    "code": "U+1F482"
+  },
+  "man guard": {
+    "char": "💂‍♂️",
+    "code": "U+1F482 U+200D U+2642 U+FE0F"
+  },
+  "woman guard": {
+    "char": "💂‍♀️",
+    "code": "U+1F482 U+200D U+2640 U+FE0F"
+  },
+  "construction worker": {
+    "char": "👷",
+    "code": "U+1F477"
+  },
+  "man construction worker": {
+    "char": "👷‍♂️",
+    "code": "U+1F477 U+200D U+2642 U+FE0F"
+  },
+  "woman construction worker": {
+    "char": "👷‍♀️",
+    "code": "U+1F477 U+200D U+2640 U+FE0F"
+  },
+  "prince": {
+    "char": "🤴",
+    "code": "U+1F934"
+  },
+  "princess": {
+    "char": "👸",
+    "code": "U+1F478"
+  },
+  "person wearing turban": {
+    "char": "👳",
+    "code": "U+1F473"
+  },
+  "man wearing turban": {
+    "char": "👳‍♂️",
+    "code": "U+1F473 U+200D U+2642 U+FE0F"
+  },
+  "woman wearing turban": {
+    "char": "👳‍♀️",
+    "code": "U+1F473 U+200D U+2640 U+FE0F"
+  },
+  "man with skullcap": {
+    "char": "👲",
+    "code": "U+1F472"
+  },
+  "woman with headscarf": {
+    "char": "🧕",
+    "code": "U+1F9D5"
+  },
+  "man in tuxedo": {
+    "char": "🤵",
+    "code": "U+1F935"
+  },
+  "bride with veil": {
+    "char": "👰",
+    "code": "U+1F470"
+  },
+  "pregnant woman": {
+    "char": "🤰",
+    "code": "U+1F930"
+  },
+  "breast-feeding": {
+    "char": "🤱",
+    "code": "U+1F931"
+  },
+  "baby angel": {
+    "char": "👼",
+    "code": "U+1F47C"
+  },
+  "Santa Claus": {
+    "char": "🎅",
+    "code": "U+1F385"
+  },
+  "Mrs. Claus": {
+    "char": "🤶",
+    "code": "U+1F936"
+  },
+  "superhero": {
+    "char": "🦸",
+    "code": "U+1F9B8"
+  },
+  "man superhero": {
+    "char": "🦸‍♂️",
+    "code": "U+1F9B8 U+200D U+2642 U+FE0F"
+  },
+  "woman superhero": {
+    "char": "🦸‍♀️",
+    "code": "U+1F9B8 U+200D U+2640 U+FE0F"
+  },
+  "supervillain": {
+    "char": "🦹",
+    "code": "U+1F9B9"
+  },
+  "man supervillain": {
+    "char": "🦹‍♂️",
+    "code": "U+1F9B9 U+200D U+2642 U+FE0F"
+  },
+  "woman supervillain": {
+    "char": "🦹‍♀️",
+    "code": "U+1F9B9 U+200D U+2640 U+FE0F"
+  },
+  "mage": {
+    "char": "🧙",
+    "code": "U+1F9D9"
+  },
+  "man mage": {
+    "char": "🧙‍♂️",
+    "code": "U+1F9D9 U+200D U+2642 U+FE0F"
+  },
+  "woman mage": {
+    "char": "🧙‍♀️",
+    "code": "U+1F9D9 U+200D U+2640 U+FE0F"
+  },
+  "fairy": {
+    "char": "🧚",
+    "code": "U+1F9DA"
+  },
+  "man fairy": {
+    "char": "🧚‍♂️",
+    "code": "U+1F9DA U+200D U+2642 U+FE0F"
+  },
+  "woman fairy": {
+    "char": "🧚‍♀️",
+    "code": "U+1F9DA U+200D U+2640 U+FE0F"
+  },
+  "vampire": {
+    "char": "🧛",
+    "code": "U+1F9DB"
+  },
+  "man vampire": {
+    "char": "🧛‍♂️",
+    "code": "U+1F9DB U+200D U+2642 U+FE0F"
+  },
+  "woman vampire": {
+    "char": "🧛‍♀️",
+    "code": "U+1F9DB U+200D U+2640 U+FE0F"
+  },
+  "merperson": {
+    "char": "🧜",
+    "code": "U+1F9DC"
+  },
+  "merman": {
+    "char": "🧜‍♂️",
+    "code": "U+1F9DC U+200D U+2642 U+FE0F"
+  },
+  "mermaid": {
+    "char": "🧜‍♀️",
+    "code": "U+1F9DC U+200D U+2640 U+FE0F"
+  },
+  "elf": {
+    "char": "🧝",
+    "code": "U+1F9DD"
+  },
+  "man elf": {
+    "char": "🧝‍♂️",
+    "code": "U+1F9DD U+200D U+2642 U+FE0F"
+  },
+  "woman elf": {
+    "char": "🧝‍♀️",
+    "code": "U+1F9DD U+200D U+2640 U+FE0F"
+  },
+  "genie": {
+    "char": "🧞",
+    "code": "U+1F9DE"
+  },
+  "man genie": {
+    "char": "🧞‍♂️",
+    "code": "U+1F9DE U+200D U+2642 U+FE0F"
+  },
+  "woman genie": {
+    "char": "🧞‍♀️",
+    "code": "U+1F9DE U+200D U+2640 U+FE0F"
+  },
+  "zombie": {
+    "char": "🧟",
+    "code": "U+1F9DF"
+  },
+  "man zombie": {
+    "char": "🧟‍♂️",
+    "code": "U+1F9DF U+200D U+2642 U+FE0F"
+  },
+  "woman zombie": {
+    "char": "🧟‍♀️",
+    "code": "U+1F9DF U+200D U+2640 U+FE0F"
+  },
+  "person getting massage": {
+    "char": "💆",
+    "code": "U+1F486"
+  },
+  "man getting massage": {
+    "char": "💆‍♂️",
+    "code": "U+1F486 U+200D U+2642 U+FE0F"
+  },
+  "woman getting massage": {
+    "char": "💆‍♀️",
+    "code": "U+1F486 U+200D U+2640 U+FE0F"
+  },
+  "person getting haircut": {
+    "char": "💇",
+    "code": "U+1F487"
+  },
+  "man getting haircut": {
+    "char": "💇‍♂️",
+    "code": "U+1F487 U+200D U+2642 U+FE0F"
+  },
+  "woman getting haircut": {
+    "char": "💇‍♀️",
+    "code": "U+1F487 U+200D U+2640 U+FE0F"
+  },
+  "person walking": {
+    "char": "🚶",
+    "code": "U+1F6B6"
+  },
+  "man walking": {
+    "char": "🚶‍♂️",
+    "code": "U+1F6B6 U+200D U+2642 U+FE0F"
+  },
+  "woman walking": {
+    "char": "🚶‍♀️",
+    "code": "U+1F6B6 U+200D U+2640 U+FE0F"
+  },
+  "person standing": {
+    "char": "🧍",
+    "code": "U+1F9CD"
+  },
+  "man standing": {
+    "char": "🧍‍♂️",
+    "code": "U+1F9CD U+200D U+2642 U+FE0F"
+  },
+  "woman standing": {
+    "char": "🧍‍♀️",
+    "code": "U+1F9CD U+200D U+2640 U+FE0F"
+  },
+  "person kneeling": {
+    "char": "🧎",
+    "code": "U+1F9CE"
+  },
+  "man kneeling": {
+    "char": "🧎‍♂️",
+    "code": "U+1F9CE U+200D U+2642 U+FE0F"
+  },
+  "woman kneeling": {
+    "char": "🧎‍♀️",
+    "code": "U+1F9CE U+200D U+2640 U+FE0F"
+  },
+  "⊛ person with probing cane": {
+    "char": "🧑‍🦯",
+    "code": "U+1F9D1 U+200D U+1F9AF"
+  },
+  "man with probing cane": {
+    "char": "👨‍🦯",
+    "code": "U+1F468 U+200D U+1F9AF"
+  },
+  "woman with probing cane": {
+    "char": "👩‍🦯",
+    "code": "U+1F469 U+200D U+1F9AF"
+  },
+  "⊛ person in motorized wheelchair": {
+    "char": "🧑‍🦼",
+    "code": "U+1F9D1 U+200D U+1F9BC"
+  },
+  "man in motorized wheelchair": {
+    "char": "👨‍🦼",
+    "code": "U+1F468 U+200D U+1F9BC"
+  },
+  "woman in motorized wheelchair": {
+    "char": "👩‍🦼",
+    "code": "U+1F469 U+200D U+1F9BC"
+  },
+  "⊛ person in manual wheelchair": {
+    "char": "🧑‍🦽",
+    "code": "U+1F9D1 U+200D U+1F9BD"
+  },
+  "man in manual wheelchair": {
+    "char": "👨‍🦽",
+    "code": "U+1F468 U+200D U+1F9BD"
+  },
+  "woman in manual wheelchair": {
+    "char": "👩‍🦽",
+    "code": "U+1F469 U+200D U+1F9BD"
+  },
+  "person running": {
+    "char": "🏃",
+    "code": "U+1F3C3"
+  },
+  "man running": {
+    "char": "🏃‍♂️",
+    "code": "U+1F3C3 U+200D U+2642 U+FE0F"
+  },
+  "woman running": {
+    "char": "🏃‍♀️",
+    "code": "U+1F3C3 U+200D U+2640 U+FE0F"
+  },
+  "woman dancing": {
+    "char": "💃",
+    "code": "U+1F483"
+  },
+  "man dancing": {
+    "char": "🕺",
+    "code": "U+1F57A"
+  },
+  "man in suit levitating": {
+    "char": "🕴",
+    "code": "U+1F574"
+  },
+  "people with bunny ears": {
+    "char": "👯",
+    "code": "U+1F46F"
+  },
+  "men with bunny ears": {
+    "char": "👯‍♂️",
+    "code": "U+1F46F U+200D U+2642 U+FE0F"
+  },
+  "women with bunny ears": {
+    "char": "👯‍♀️",
+    "code": "U+1F46F U+200D U+2640 U+FE0F"
+  },
+  "person in steamy room": {
+    "char": "🧖",
+    "code": "U+1F9D6"
+  },
+  "man in steamy room": {
+    "char": "🧖‍♂️",
+    "code": "U+1F9D6 U+200D U+2642 U+FE0F"
+  },
+  "woman in steamy room": {
+    "char": "🧖‍♀️",
+    "code": "U+1F9D6 U+200D U+2640 U+FE0F"
+  },
+  "person climbing": {
+    "char": "🧗",
+    "code": "U+1F9D7"
+  },
+  "man climbing": {
+    "char": "🧗‍♂️",
+    "code": "U+1F9D7 U+200D U+2642 U+FE0F"
+  },
+  "woman climbing": {
+    "char": "🧗‍♀️",
+    "code": "U+1F9D7 U+200D U+2640 U+FE0F"
+  },
+  "person fencing": {
+    "char": "🤺",
+    "code": "U+1F93A"
+  },
+  "horse racing": {
+    "char": "🏇",
+    "code": "U+1F3C7"
+  },
+  "skier": {
+    "char": "⛷",
+    "code": "U+26F7"
+  },
+  "snowboarder": {
+    "char": "🏂",
+    "code": "U+1F3C2"
+  },
+  "person golfing": {
+    "char": "🏌",
+    "code": "U+1F3CC"
+  },
+  "man golfing": {
+    "char": "🏌️‍♂️",
+    "code": "U+1F3CC U+FE0F U+200D U+2642 U+FE0F"
+  },
+  "woman golfing": {
+    "char": "🏌️‍♀️",
+    "code": "U+1F3CC U+FE0F U+200D U+2640 U+FE0F"
+  },
+  "person surfing": {
+    "char": "🏄",
+    "code": "U+1F3C4"
+  },
+  "man surfing": {
+    "char": "🏄‍♂️",
+    "code": "U+1F3C4 U+200D U+2642 U+FE0F"
+  },
+  "woman surfing": {
+    "char": "🏄‍♀️",
+    "code": "U+1F3C4 U+200D U+2640 U+FE0F"
+  },
+  "person rowing boat": {
+    "char": "🚣",
+    "code": "U+1F6A3"
+  },
+  "man rowing boat": {
+    "char": "🚣‍♂️",
+    "code": "U+1F6A3 U+200D U+2642 U+FE0F"
+  },
+  "woman rowing boat": {
+    "char": "🚣‍♀️",
+    "code": "U+1F6A3 U+200D U+2640 U+FE0F"
+  },
+  "person swimming": {
+    "char": "🏊",
+    "code": "U+1F3CA"
+  },
+  "man swimming": {
+    "char": "🏊‍♂️",
+    "code": "U+1F3CA U+200D U+2642 U+FE0F"
+  },
+  "woman swimming": {
+    "char": "🏊‍♀️",
+    "code": "U+1F3CA U+200D U+2640 U+FE0F"
+  },
+  "person bouncing ball": {
+    "char": "⛹",
+    "code": "U+26F9"
+  },
+  "man bouncing ball": {
+    "char": "⛹️‍♂️",
+    "code": "U+26F9 U+FE0F U+200D U+2642 U+FE0F"
+  },
+  "woman bouncing ball": {
+    "char": "⛹️‍♀️",
+    "code": "U+26F9 U+FE0F U+200D U+2640 U+FE0F"
+  },
+  "person lifting weights": {
+    "char": "🏋",
+    "code": "U+1F3CB"
+  },
+  "man lifting weights": {
+    "char": "🏋️‍♂️",
+    "code": "U+1F3CB U+FE0F U+200D U+2642 U+FE0F"
+  },
+  "woman lifting weights": {
+    "char": "🏋️‍♀️",
+    "code": "U+1F3CB U+FE0F U+200D U+2640 U+FE0F"
+  },
+  "person biking": {
+    "char": "🚴",
+    "code": "U+1F6B4"
+  },
+  "man biking": {
+    "char": "🚴‍♂️",
+    "code": "U+1F6B4 U+200D U+2642 U+FE0F"
+  },
+  "woman biking": {
+    "char": "🚴‍♀️",
+    "code": "U+1F6B4 U+200D U+2640 U+FE0F"
+  },
+  "person mountain biking": {
+    "char": "🚵",
+    "code": "U+1F6B5"
+  },
+  "man mountain biking": {
+    "char": "🚵‍♂️",
+    "code": "U+1F6B5 U+200D U+2642 U+FE0F"
+  },
+  "woman mountain biking": {
+    "char": "🚵‍♀️",
+    "code": "U+1F6B5 U+200D U+2640 U+FE0F"
+  },
+  "person cartwheeling": {
+    "char": "🤸",
+    "code": "U+1F938"
+  },
+  "man cartwheeling": {
+    "char": "🤸‍♂️",
+    "code": "U+1F938 U+200D U+2642 U+FE0F"
+  },
+  "woman cartwheeling": {
+    "char": "🤸‍♀️",
+    "code": "U+1F938 U+200D U+2640 U+FE0F"
+  },
+  "people wrestling": {
+    "char": "🤼",
+    "code": "U+1F93C"
+  },
+  "men wrestling": {
+    "char": "🤼‍♂️",
+    "code": "U+1F93C U+200D U+2642 U+FE0F"
+  },
+  "women wrestling": {
+    "char": "🤼‍♀️",
+    "code": "U+1F93C U+200D U+2640 U+FE0F"
+  },
+  "person playing water polo": {
+    "char": "🤽",
+    "code": "U+1F93D"
+  },
+  "man playing water polo": {
+    "char": "🤽‍♂️",
+    "code": "U+1F93D U+200D U+2642 U+FE0F"
+  },
+  "woman playing water polo": {
+    "char": "🤽‍♀️",
+    "code": "U+1F93D U+200D U+2640 U+FE0F"
+  },
+  "person playing handball": {
+    "char": "🤾",
+    "code": "U+1F93E"
+  },
+  "man playing handball": {
+    "char": "🤾‍♂️",
+    "code": "U+1F93E U+200D U+2642 U+FE0F"
+  },
+  "woman playing handball": {
+    "char": "🤾‍♀️",
+    "code": "U+1F93E U+200D U+2640 U+FE0F"
+  },
+  "person juggling": {
+    "char": "🤹",
+    "code": "U+1F939"
+  },
+  "man juggling": {
+    "char": "🤹‍♂️",
+    "code": "U+1F939 U+200D U+2642 U+FE0F"
+  },
+  "woman juggling": {
+    "char": "🤹‍♀️",
+    "code": "U+1F939 U+200D U+2640 U+FE0F"
+  },
+  "person in lotus position": {
+    "char": "🧘",
+    "code": "U+1F9D8"
+  },
+  "man in lotus position": {
+    "char": "🧘‍♂️",
+    "code": "U+1F9D8 U+200D U+2642 U+FE0F"
+  },
+  "woman in lotus position": {
+    "char": "🧘‍♀️",
+    "code": "U+1F9D8 U+200D U+2640 U+FE0F"
+  },
+  "person taking bath": {
+    "char": "🛀",
+    "code": "U+1F6C0"
+  },
+  "person in bed": {
+    "char": "🛌",
+    "code": "U+1F6CC"
+  },
+  "people holding hands": {
+    "char": "🧑‍🤝‍🧑",
+    "code": "U+1F9D1 U+200D U+1F91D U+200D U+1F9D1"
+  },
+  "women holding hands": {
+    "char": "👭",
+    "code": "U+1F46D"
+  },
+  "woman and man holding hands": {
+    "char": "👫",
+    "code": "U+1F46B"
+  },
+  "men holding hands": {
+    "char": "👬",
+    "code": "U+1F46C"
+  },
+  "kiss": {
+    "char": "💏",
+    "code": "U+1F48F"
+  },
+  "kiss: woman, man": {
+    "char": "👩‍❤️‍💋‍👨",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468"
+  },
+  "kiss: man, man": {
+    "char": "👨‍❤️‍💋‍👨",
+    "code": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468"
+  },
+  "kiss: woman, woman": {
+    "char": "👩‍❤️‍💋‍👩",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469"
+  },
+  "couple with heart": {
+    "char": "💑",
+    "code": "U+1F491"
+  },
+  "couple with heart: woman, man": {
+    "char": "👩‍❤️‍👨",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468"
+  },
+  "couple with heart: man, man": {
+    "char": "👨‍❤️‍👨",
+    "code": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468"
+  },
+  "couple with heart: woman, woman": {
+    "char": "👩‍❤️‍👩",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469"
+  },
+  "family": {
+    "char": "👪",
+    "code": "U+1F46A"
+  },
+  "family: man, woman, boy": {
+    "char": "👨‍👩‍👦",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F466"
+  },
+  "family: man, woman, girl": {
+    "char": "👨‍👩‍👧",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F467"
+  },
+  "family: man, woman, girl, boy": {
+    "char": "👨‍👩‍👧‍👦",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466"
+  },
+  "family: man, woman, boy, boy": {
+    "char": "👨‍👩‍👦‍👦",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  "family: man, woman, girl, girl": {
+    "char": "👨‍👩‍👧‍👧",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467"
+  },
+  "family: man, man, boy": {
+    "char": "👨‍👨‍👦",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F466"
+  },
+  "family: man, man, girl": {
+    "char": "👨‍👨‍👧",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F467"
+  },
+  "family: man, man, girl, boy": {
+    "char": "👨‍👨‍👧‍👦",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466"
+  },
+  "family: man, man, boy, boy": {
+    "char": "👨‍👨‍👦‍👦",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466"
+  },
+  "family: man, man, girl, girl": {
+    "char": "👨‍👨‍👧‍👧",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467"
+  },
+  "family: woman, woman, boy": {
+    "char": "👩‍👩‍👦",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F466"
+  },
+  "family: woman, woman, girl": {
+    "char": "👩‍👩‍👧",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F467"
+  },
+  "family: woman, woman, girl, boy": {
+    "char": "👩‍👩‍👧‍👦",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466"
+  },
+  "family: woman, woman, boy, boy": {
+    "char": "👩‍👩‍👦‍👦",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  "family: woman, woman, girl, girl": {
+    "char": "👩‍👩‍👧‍👧",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467"
+  },
+  "family: man, boy": {
+    "char": "👨‍👦",
+    "code": "U+1F468 U+200D U+1F466"
+  },
+  "family: man, boy, boy": {
+    "char": "👨‍👦‍👦",
+    "code": "U+1F468 U+200D U+1F466 U+200D U+1F466"
+  },
+  "family: man, girl": {
+    "char": "👨‍👧",
+    "code": "U+1F468 U+200D U+1F467"
+  },
+  "family: man, girl, boy": {
+    "char": "👨‍👧‍👦",
+    "code": "U+1F468 U+200D U+1F467 U+200D U+1F466"
+  },
+  "family: man, girl, girl": {
+    "char": "👨‍👧‍👧",
+    "code": "U+1F468 U+200D U+1F467 U+200D U+1F467"
+  },
+  "family: woman, boy": {
+    "char": "👩‍👦",
+    "code": "U+1F469 U+200D U+1F466"
+  },
+  "family: woman, boy, boy": {
+    "char": "👩‍👦‍👦",
+    "code": "U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  "family: woman, girl": {
+    "char": "👩‍👧",
+    "code": "U+1F469 U+200D U+1F467"
+  },
+  "family: woman, girl, boy": {
+    "char": "👩‍👧‍👦",
+    "code": "U+1F469 U+200D U+1F467 U+200D U+1F466"
+  },
+  "family: woman, girl, girl": {
+    "char": "👩‍👧‍👧",
+    "code": "U+1F469 U+200D U+1F467 U+200D U+1F467"
+  },
+  "speaking head": {
+    "char": "🗣",
+    "code": "U+1F5E3"
+  },
+  "bust in silhouette": {
+    "char": "👤",
+    "code": "U+1F464"
+  },
+  "busts in silhouette": {
+    "char": "👥",
+    "code": "U+1F465"
+  },
+  "footprints": {
+    "char": "👣",
+    "code": "U+1F463"
+  },
+  "red hair": {
+    "char": "🦰",
+    "code": "U+1F9B0"
+  },
+  "curly hair": {
+    "char": "🦱",
+    "code": "U+1F9B1"
+  },
+  "white hair": {
+    "char": "🦳",
+    "code": "U+1F9B3"
+  },
+  "bald": {
+    "char": "🦲",
+    "code": "U+1F9B2"
+  },
+  "monkey face": {
+    "char": "🐵",
+    "code": "U+1F435"
+  },
+  "monkey": {
+    "char": "🐒",
+    "code": "U+1F412"
+  },
+  "gorilla": {
+    "char": "🦍",
+    "code": "U+1F98D"
+  },
+  "orangutan": {
+    "char": "🦧",
+    "code": "U+1F9A7"
+  },
+  "dog face": {
+    "char": "🐶",
+    "code": "U+1F436"
+  },
+  "dog": {
+    "char": "🐕",
+    "code": "U+1F415"
+  },
+  "guide dog": {
+    "char": "🦮",
+    "code": "U+1F9AE"
+  },
+  "service dog": {
+    "char": "🐕‍🦺",
+    "code": "U+1F415 U+200D U+1F9BA"
+  },
+  "poodle": {
+    "char": "🐩",
+    "code": "U+1F429"
+  },
+  "wolf": {
+    "char": "🐺",
+    "code": "U+1F43A"
+  },
+  "fox": {
+    "char": "🦊",
+    "code": "U+1F98A"
+  },
+  "raccoon": {
+    "char": "🦝",
+    "code": "U+1F99D"
+  },
+  "cat face": {
+    "char": "🐱",
+    "code": "U+1F431"
+  },
+  "cat": {
+    "char": "🐈",
+    "code": "U+1F408"
+  },
+  "lion": {
+    "char": "🦁",
+    "code": "U+1F981"
+  },
+  "tiger face": {
+    "char": "🐯",
+    "code": "U+1F42F"
+  },
+  "tiger": {
+    "char": "🐅",
+    "code": "U+1F405"
+  },
+  "leopard": {
+    "char": "🐆",
+    "code": "U+1F406"
+  },
+  "horse face": {
+    "char": "🐴",
+    "code": "U+1F434"
+  },
+  "horse": {
+    "char": "🐎",
+    "code": "U+1F40E"
+  },
+  "unicorn": {
+    "char": "🦄",
+    "code": "U+1F984"
+  },
+  "zebra": {
+    "char": "🦓",
+    "code": "U+1F993"
+  },
+  "deer": {
+    "char": "🦌",
+    "code": "U+1F98C"
+  },
+  "cow face": {
+    "char": "🐮",
+    "code": "U+1F42E"
+  },
+  "ox": {
+    "char": "🐂",
+    "code": "U+1F402"
+  },
+  "water buffalo": {
+    "char": "🐃",
+    "code": "U+1F403"
+  },
+  "cow": {
+    "char": "🐄",
+    "code": "U+1F404"
+  },
+  "pig face": {
+    "char": "🐷",
+    "code": "U+1F437"
+  },
+  "pig": {
+    "char": "🐖",
+    "code": "U+1F416"
+  },
+  "boar": {
+    "char": "🐗",
+    "code": "U+1F417"
+  },
+  "pig nose": {
+    "char": "🐽",
+    "code": "U+1F43D"
+  },
+  "ram": {
+    "char": "🐏",
+    "code": "U+1F40F"
+  },
+  "ewe": {
+    "char": "🐑",
+    "code": "U+1F411"
+  },
+  "goat": {
+    "char": "🐐",
+    "code": "U+1F410"
+  },
+  "camel": {
+    "char": "🐪",
+    "code": "U+1F42A"
+  },
+  "two-hump camel": {
+    "char": "🐫",
+    "code": "U+1F42B"
+  },
+  "llama": {
+    "char": "🦙",
+    "code": "U+1F999"
+  },
+  "giraffe": {
+    "char": "🦒",
+    "code": "U+1F992"
+  },
+  "elephant": {
+    "char": "🐘",
+    "code": "U+1F418"
+  },
+  "rhinoceros": {
+    "char": "🦏",
+    "code": "U+1F98F"
+  },
+  "hippopotamus": {
+    "char": "🦛",
+    "code": "U+1F99B"
+  },
+  "mouse face": {
+    "char": "🐭",
+    "code": "U+1F42D"
+  },
+  "mouse": {
+    "char": "🐁",
+    "code": "U+1F401"
+  },
+  "rat": {
+    "char": "🐀",
+    "code": "U+1F400"
+  },
+  "hamster": {
+    "char": "🐹",
+    "code": "U+1F439"
+  },
+  "rabbit face": {
+    "char": "🐰",
+    "code": "U+1F430"
+  },
+  "rabbit": {
+    "char": "🐇",
+    "code": "U+1F407"
+  },
+  "chipmunk": {
+    "char": "🐿",
+    "code": "U+1F43F"
+  },
+  "hedgehog": {
+    "char": "🦔",
+    "code": "U+1F994"
+  },
+  "bat": {
+    "char": "🦇",
+    "code": "U+1F987"
+  },
+  "bear": {
+    "char": "🐻",
+    "code": "U+1F43B"
+  },
+  "koala": {
+    "char": "🐨",
+    "code": "U+1F428"
+  },
+  "panda": {
+    "char": "🐼",
+    "code": "U+1F43C"
+  },
+  "sloth": {
+    "char": "🦥",
+    "code": "U+1F9A5"
+  },
+  "otter": {
+    "char": "🦦",
+    "code": "U+1F9A6"
+  },
+  "skunk": {
+    "char": "🦨",
+    "code": "U+1F9A8"
+  },
+  "kangaroo": {
+    "char": "🦘",
+    "code": "U+1F998"
+  },
+  "badger": {
+    "char": "🦡",
+    "code": "U+1F9A1"
+  },
+  "paw prints": {
+    "char": "🐾",
+    "code": "U+1F43E"
+  },
+  "turkey": {
+    "char": "🦃",
+    "code": "U+1F983"
+  },
+  "chicken": {
+    "char": "🐔",
+    "code": "U+1F414"
+  },
+  "rooster": {
+    "char": "🐓",
+    "code": "U+1F413"
+  },
+  "hatching chick": {
+    "char": "🐣",
+    "code": "U+1F423"
+  },
+  "baby chick": {
+    "char": "🐤",
+    "code": "U+1F424"
+  },
+  "front-facing baby chick": {
+    "char": "🐥",
+    "code": "U+1F425"
+  },
+  "bird": {
+    "char": "🐦",
+    "code": "U+1F426"
+  },
+  "penguin": {
+    "char": "🐧",
+    "code": "U+1F427"
+  },
+  "dove": {
+    "char": "🕊",
+    "code": "U+1F54A"
+  },
+  "eagle": {
+    "char": "🦅",
+    "code": "U+1F985"
+  },
+  "duck": {
+    "char": "🦆",
+    "code": "U+1F986"
+  },
+  "swan": {
+    "char": "🦢",
+    "code": "U+1F9A2"
+  },
+  "owl": {
+    "char": "🦉",
+    "code": "U+1F989"
+  },
+  "flamingo": {
+    "char": "🦩",
+    "code": "U+1F9A9"
+  },
+  "peacock": {
+    "char": "🦚",
+    "code": "U+1F99A"
+  },
+  "parrot": {
+    "char": "🦜",
+    "code": "U+1F99C"
+  },
+  "frog": {
+    "char": "🐸",
+    "code": "U+1F438"
+  },
+  "crocodile": {
+    "char": "🐊",
+    "code": "U+1F40A"
+  },
+  "turtle": {
+    "char": "🐢",
+    "code": "U+1F422"
+  },
+  "lizard": {
+    "char": "🦎",
+    "code": "U+1F98E"
+  },
+  "snake": {
+    "char": "🐍",
+    "code": "U+1F40D"
+  },
+  "dragon face": {
+    "char": "🐲",
+    "code": "U+1F432"
+  },
+  "dragon": {
+    "char": "🐉",
+    "code": "U+1F409"
+  },
+  "sauropod": {
+    "char": "🦕",
+    "code": "U+1F995"
+  },
+  "T-Rex": {
+    "char": "🦖",
+    "code": "U+1F996"
+  },
+  "spouting whale": {
+    "char": "🐳",
+    "code": "U+1F433"
+  },
+  "whale": {
+    "char": "🐋",
+    "code": "U+1F40B"
+  },
+  "dolphin": {
+    "char": "🐬",
+    "code": "U+1F42C"
+  },
+  "fish": {
+    "char": "🐟",
+    "code": "U+1F41F"
+  },
+  "tropical fish": {
+    "char": "🐠",
+    "code": "U+1F420"
+  },
+  "blowfish": {
+    "char": "🐡",
+    "code": "U+1F421"
+  },
+  "shark": {
+    "char": "🦈",
+    "code": "U+1F988"
+  },
+  "octopus": {
+    "char": "🐙",
+    "code": "U+1F419"
+  },
+  "spiral shell": {
+    "char": "🐚",
+    "code": "U+1F41A"
+  },
+  "snail": {
+    "char": "🐌",
+    "code": "U+1F40C"
+  },
+  "butterfly": {
+    "char": "🦋",
+    "code": "U+1F98B"
+  },
+  "bug": {
+    "char": "🐛",
+    "code": "U+1F41B"
+  },
+  "ant": {
+    "char": "🐜",
+    "code": "U+1F41C"
+  },
+  "honeybee": {
+    "char": "🐝",
+    "code": "U+1F41D"
+  },
+  "lady beetle": {
+    "char": "🐞",
+    "code": "U+1F41E"
+  },
+  "cricket": {
+    "char": "🦗",
+    "code": "U+1F997"
+  },
+  "spider": {
+    "char": "🕷",
+    "code": "U+1F577"
+  },
+  "spider web": {
+    "char": "🕸",
+    "code": "U+1F578"
+  },
+  "scorpion": {
+    "char": "🦂",
+    "code": "U+1F982"
+  },
+  "mosquito": {
+    "char": "🦟",
+    "code": "U+1F99F"
+  },
+  "microbe": {
+    "char": "🦠",
+    "code": "U+1F9A0"
+  },
+  "bouquet": {
+    "char": "💐",
+    "code": "U+1F490"
+  },
+  "cherry blossom": {
+    "char": "🌸",
+    "code": "U+1F338"
+  },
+  "white flower": {
+    "char": "💮",
+    "code": "U+1F4AE"
+  },
+  "rosette": {
+    "char": "🏵",
+    "code": "U+1F3F5"
+  },
+  "rose": {
+    "char": "🌹",
+    "code": "U+1F339"
+  },
+  "wilted flower": {
+    "char": "🥀",
+    "code": "U+1F940"
+  },
+  "hibiscus": {
+    "char": "🌺",
+    "code": "U+1F33A"
+  },
+  "sunflower": {
+    "char": "🌻",
+    "code": "U+1F33B"
+  },
+  "blossom": {
+    "char": "🌼",
+    "code": "U+1F33C"
+  },
+  "tulip": {
+    "char": "🌷",
+    "code": "U+1F337"
+  },
+  "seedling": {
+    "char": "🌱",
+    "code": "U+1F331"
+  },
+  "evergreen tree": {
+    "char": "🌲",
+    "code": "U+1F332"
+  },
+  "deciduous tree": {
+    "char": "🌳",
+    "code": "U+1F333"
+  },
+  "palm tree": {
+    "char": "🌴",
+    "code": "U+1F334"
+  },
+  "cactus": {
+    "char": "🌵",
+    "code": "U+1F335"
+  },
+  "sheaf of rice": {
+    "char": "🌾",
+    "code": "U+1F33E"
+  },
+  "herb": {
+    "char": "🌿",
+    "code": "U+1F33F"
+  },
+  "shamrock": {
+    "char": "☘",
+    "code": "U+2618"
+  },
+  "four leaf clover": {
+    "char": "🍀",
+    "code": "U+1F340"
+  },
+  "maple leaf": {
+    "char": "🍁",
+    "code": "U+1F341"
+  },
+  "fallen leaf": {
+    "char": "🍂",
+    "code": "U+1F342"
+  },
+  "leaf fluttering in wind": {
+    "char": "🍃",
+    "code": "U+1F343"
+  },
+  "grapes": {
+    "char": "🍇",
+    "code": "U+1F347"
+  },
+  "melon": {
+    "char": "🍈",
+    "code": "U+1F348"
+  },
+  "watermelon": {
+    "char": "🍉",
+    "code": "U+1F349"
+  },
+  "tangerine": {
+    "char": "🍊",
+    "code": "U+1F34A"
+  },
+  "lemon": {
+    "char": "🍋",
+    "code": "U+1F34B"
+  },
+  "banana": {
+    "char": "🍌",
+    "code": "U+1F34C"
+  },
+  "pineapple": {
+    "char": "🍍",
+    "code": "U+1F34D"
+  },
+  "mango": {
+    "char": "🥭",
+    "code": "U+1F96D"
+  },
+  "red apple": {
+    "char": "🍎",
+    "code": "U+1F34E"
+  },
+  "green apple": {
+    "char": "🍏",
+    "code": "U+1F34F"
+  },
+  "pear": {
+    "char": "🍐",
+    "code": "U+1F350"
+  },
+  "peach": {
+    "char": "🍑",
+    "code": "U+1F351"
+  },
+  "cherries": {
+    "char": "🍒",
+    "code": "U+1F352"
+  },
+  "strawberry": {
+    "char": "🍓",
+    "code": "U+1F353"
+  },
+  "kiwi fruit": {
+    "char": "🥝",
+    "code": "U+1F95D"
+  },
+  "tomato": {
+    "char": "🍅",
+    "code": "U+1F345"
+  },
+  "coconut": {
+    "char": "🥥",
+    "code": "U+1F965"
+  },
+  "avocado": {
+    "char": "🥑",
+    "code": "U+1F951"
+  },
+  "eggplant": {
+    "char": "🍆",
+    "code": "U+1F346"
+  },
+  "potato": {
+    "char": "🥔",
+    "code": "U+1F954"
+  },
+  "carrot": {
+    "char": "🥕",
+    "code": "U+1F955"
+  },
+  "ear of corn": {
+    "char": "🌽",
+    "code": "U+1F33D"
+  },
+  "hot pepper": {
+    "char": "🌶",
+    "code": "U+1F336"
+  },
+  "cucumber": {
+    "char": "🥒",
+    "code": "U+1F952"
+  },
+  "leafy green": {
+    "char": "🥬",
+    "code": "U+1F96C"
+  },
+  "broccoli": {
+    "char": "🥦",
+    "code": "U+1F966"
+  },
+  "garlic": {
+    "char": "🧄",
+    "code": "U+1F9C4"
+  },
+  "onion": {
+    "char": "🧅",
+    "code": "U+1F9C5"
+  },
+  "mushroom": {
+    "char": "🍄",
+    "code": "U+1F344"
+  },
+  "peanuts": {
+    "char": "🥜",
+    "code": "U+1F95C"
+  },
+  "chestnut": {
+    "char": "🌰",
+    "code": "U+1F330"
+  },
+  "bread": {
+    "char": "🍞",
+    "code": "U+1F35E"
+  },
+  "croissant": {
+    "char": "🥐",
+    "code": "U+1F950"
+  },
+  "baguette bread": {
+    "char": "🥖",
+    "code": "U+1F956"
+  },
+  "pretzel": {
+    "char": "🥨",
+    "code": "U+1F968"
+  },
+  "bagel": {
+    "char": "🥯",
+    "code": "U+1F96F"
+  },
+  "pancakes": {
+    "char": "🥞",
+    "code": "U+1F95E"
+  },
+  "waffle": {
+    "char": "🧇",
+    "code": "U+1F9C7"
+  },
+  "cheese wedge": {
+    "char": "🧀",
+    "code": "U+1F9C0"
+  },
+  "meat on bone": {
+    "char": "🍖",
+    "code": "U+1F356"
+  },
+  "poultry leg": {
+    "char": "🍗",
+    "code": "U+1F357"
+  },
+  "cut of meat": {
+    "char": "🥩",
+    "code": "U+1F969"
+  },
+  "bacon": {
+    "char": "🥓",
+    "code": "U+1F953"
+  },
+  "hamburger": {
+    "char": "🍔",
+    "code": "U+1F354"
+  },
+  "french fries": {
+    "char": "🍟",
+    "code": "U+1F35F"
+  },
+  "pizza": {
+    "char": "🍕",
+    "code": "U+1F355"
+  },
+  "hot dog": {
+    "char": "🌭",
+    "code": "U+1F32D"
+  },
+  "sandwich": {
+    "char": "🥪",
+    "code": "U+1F96A"
+  },
+  "taco": {
+    "char": "🌮",
+    "code": "U+1F32E"
+  },
+  "burrito": {
+    "char": "🌯",
+    "code": "U+1F32F"
+  },
+  "stuffed flatbread": {
+    "char": "🥙",
+    "code": "U+1F959"
+  },
+  "falafel": {
+    "char": "🧆",
+    "code": "U+1F9C6"
+  },
+  "egg": {
+    "char": "🥚",
+    "code": "U+1F95A"
+  },
+  "cooking": {
+    "char": "🍳",
+    "code": "U+1F373"
+  },
+  "shallow pan of food": {
+    "char": "🥘",
+    "code": "U+1F958"
+  },
+  "pot of food": {
+    "char": "🍲",
+    "code": "U+1F372"
+  },
+  "bowl with spoon": {
+    "char": "🥣",
+    "code": "U+1F963"
+  },
+  "green salad": {
+    "char": "🥗",
+    "code": "U+1F957"
+  },
+  "popcorn": {
+    "char": "🍿",
+    "code": "U+1F37F"
+  },
+  "butter": {
+    "char": "🧈",
+    "code": "U+1F9C8"
+  },
+  "salt": {
+    "char": "🧂",
+    "code": "U+1F9C2"
+  },
+  "canned food": {
+    "char": "🥫",
+    "code": "U+1F96B"
+  },
+  "bento box": {
+    "char": "🍱",
+    "code": "U+1F371"
+  },
+  "rice cracker": {
+    "char": "🍘",
+    "code": "U+1F358"
+  },
+  "rice ball": {
+    "char": "🍙",
+    "code": "U+1F359"
+  },
+  "cooked rice": {
+    "char": "🍚",
+    "code": "U+1F35A"
+  },
+  "curry rice": {
+    "char": "🍛",
+    "code": "U+1F35B"
+  },
+  "steaming bowl": {
+    "char": "🍜",
+    "code": "U+1F35C"
+  },
+  "spaghetti": {
+    "char": "🍝",
+    "code": "U+1F35D"
+  },
+  "roasted sweet potato": {
+    "char": "🍠",
+    "code": "U+1F360"
+  },
+  "oden": {
+    "char": "🍢",
+    "code": "U+1F362"
+  },
+  "sushi": {
+    "char": "🍣",
+    "code": "U+1F363"
+  },
+  "fried shrimp": {
+    "char": "🍤",
+    "code": "U+1F364"
+  },
+  "fish cake with swirl": {
+    "char": "🍥",
+    "code": "U+1F365"
+  },
+  "moon cake": {
+    "char": "🥮",
+    "code": "U+1F96E"
+  },
+  "dango": {
+    "char": "🍡",
+    "code": "U+1F361"
+  },
+  "dumpling": {
+    "char": "🥟",
+    "code": "U+1F95F"
+  },
+  "fortune cookie": {
+    "char": "🥠",
+    "code": "U+1F960"
+  },
+  "takeout box": {
+    "char": "🥡",
+    "code": "U+1F961"
+  },
+  "crab": {
+    "char": "🦀",
+    "code": "U+1F980"
+  },
+  "lobster": {
+    "char": "🦞",
+    "code": "U+1F99E"
+  },
+  "shrimp": {
+    "char": "🦐",
+    "code": "U+1F990"
+  },
+  "squid": {
+    "char": "🦑",
+    "code": "U+1F991"
+  },
+  "oyster": {
+    "char": "🦪",
+    "code": "U+1F9AA"
+  },
+  "soft ice cream": {
+    "char": "🍦",
+    "code": "U+1F366"
+  },
+  "shaved ice": {
+    "char": "🍧",
+    "code": "U+1F367"
+  },
+  "ice cream": {
+    "char": "🍨",
+    "code": "U+1F368"
+  },
+  "doughnut": {
+    "char": "🍩",
+    "code": "U+1F369"
+  },
+  "cookie": {
+    "char": "🍪",
+    "code": "U+1F36A"
+  },
+  "birthday cake": {
+    "char": "🎂",
+    "code": "U+1F382"
+  },
+  "shortcake": {
+    "char": "🍰",
+    "code": "U+1F370"
+  },
+  "cupcake": {
+    "char": "🧁",
+    "code": "U+1F9C1"
+  },
+  "pie": {
+    "char": "🥧",
+    "code": "U+1F967"
+  },
+  "chocolate bar": {
+    "char": "🍫",
+    "code": "U+1F36B"
+  },
+  "candy": {
+    "char": "🍬",
+    "code": "U+1F36C"
+  },
+  "lollipop": {
+    "char": "🍭",
+    "code": "U+1F36D"
+  },
+  "custard": {
+    "char": "🍮",
+    "code": "U+1F36E"
+  },
+  "honey pot": {
+    "char": "🍯",
+    "code": "U+1F36F"
+  },
+  "baby bottle": {
+    "char": "🍼",
+    "code": "U+1F37C"
+  },
+  "glass of milk": {
+    "char": "🥛",
+    "code": "U+1F95B"
+  },
+  "hot beverage": {
+    "char": "☕",
+    "code": "U+2615"
+  },
+  "teacup without handle": {
+    "char": "🍵",
+    "code": "U+1F375"
+  },
+  "sake": {
+    "char": "🍶",
+    "code": "U+1F376"
+  },
+  "bottle with popping cork": {
+    "char": "🍾",
+    "code": "U+1F37E"
+  },
+  "wine glass": {
+    "char": "🍷",
+    "code": "U+1F377"
+  },
+  "cocktail glass": {
+    "char": "🍸",
+    "code": "U+1F378"
+  },
+  "tropical drink": {
+    "char": "🍹",
+    "code": "U+1F379"
+  },
+  "beer mug": {
+    "char": "🍺",
+    "code": "U+1F37A"
+  },
+  "clinking beer mugs": {
+    "char": "🍻",
+    "code": "U+1F37B"
+  },
+  "clinking glasses": {
+    "char": "🥂",
+    "code": "U+1F942"
+  },
+  "tumbler glass": {
+    "char": "🥃",
+    "code": "U+1F943"
+  },
+  "cup with straw": {
+    "char": "🥤",
+    "code": "U+1F964"
+  },
+  "beverage box": {
+    "char": "🧃",
+    "code": "U+1F9C3"
+  },
+  "mate": {
+    "char": "🧉",
+    "code": "U+1F9C9"
+  },
+  "ice": {
+    "char": "🧊",
+    "code": "U+1F9CA"
+  },
+  "chopsticks": {
+    "char": "🥢",
+    "code": "U+1F962"
+  },
+  "fork and knife with plate": {
+    "char": "🍽",
+    "code": "U+1F37D"
+  },
+  "fork and knife": {
+    "char": "🍴",
+    "code": "U+1F374"
+  },
+  "spoon": {
+    "char": "🥄",
+    "code": "U+1F944"
+  },
+  "kitchen knife": {
+    "char": "🔪",
+    "code": "U+1F52A"
+  },
+  "amphora": {
+    "char": "🏺",
+    "code": "U+1F3FA"
+  },
+  "globe showing Europe-Africa": {
+    "char": "🌍",
+    "code": "U+1F30D"
+  },
+  "globe showing Americas": {
+    "char": "🌎",
+    "code": "U+1F30E"
+  },
+  "globe showing Asia-Australia": {
+    "char": "🌏",
+    "code": "U+1F30F"
+  },
+  "globe with meridians": {
+    "char": "🌐",
+    "code": "U+1F310"
+  },
+  "world map": {
+    "char": "🗺",
+    "code": "U+1F5FA"
+  },
+  "map of Japan": {
+    "char": "🗾",
+    "code": "U+1F5FE"
+  },
+  "compass": {
+    "char": "🧭",
+    "code": "U+1F9ED"
+  },
+  "snow-capped mountain": {
+    "char": "🏔",
+    "code": "U+1F3D4"
+  },
+  "mountain": {
+    "char": "⛰",
+    "code": "U+26F0"
+  },
+  "volcano": {
+    "char": "🌋",
+    "code": "U+1F30B"
+  },
+  "mount fuji": {
+    "char": "🗻",
+    "code": "U+1F5FB"
+  },
+  "camping": {
+    "char": "🏕",
+    "code": "U+1F3D5"
+  },
+  "beach with umbrella": {
+    "char": "🏖",
+    "code": "U+1F3D6"
+  },
+  "desert": {
+    "char": "🏜",
+    "code": "U+1F3DC"
+  },
+  "desert island": {
+    "char": "🏝",
+    "code": "U+1F3DD"
+  },
+  "national park": {
+    "char": "🏞",
+    "code": "U+1F3DE"
+  },
+  "stadium": {
+    "char": "🏟",
+    "code": "U+1F3DF"
+  },
+  "classical building": {
+    "char": "🏛",
+    "code": "U+1F3DB"
+  },
+  "building construction": {
+    "char": "🏗",
+    "code": "U+1F3D7"
+  },
+  "brick": {
+    "char": "🧱",
+    "code": "U+1F9F1"
+  },
+  "houses": {
+    "char": "🏘",
+    "code": "U+1F3D8"
+  },
+  "derelict house": {
+    "char": "🏚",
+    "code": "U+1F3DA"
+  },
+  "house": {
+    "char": "🏠",
+    "code": "U+1F3E0"
+  },
+  "house with garden": {
+    "char": "🏡",
+    "code": "U+1F3E1"
+  },
+  "office building": {
+    "char": "🏢",
+    "code": "U+1F3E2"
+  },
+  "Japanese post office": {
+    "char": "🏣",
+    "code": "U+1F3E3"
+  },
+  "post office": {
+    "char": "🏤",
+    "code": "U+1F3E4"
+  },
+  "hospital": {
+    "char": "🏥",
+    "code": "U+1F3E5"
+  },
+  "bank": {
+    "char": "🏦",
+    "code": "U+1F3E6"
+  },
+  "hotel": {
+    "char": "🏨",
+    "code": "U+1F3E8"
+  },
+  "love hotel": {
+    "char": "🏩",
+    "code": "U+1F3E9"
+  },
+  "convenience store": {
+    "char": "🏪",
+    "code": "U+1F3EA"
+  },
+  "school": {
+    "char": "🏫",
+    "code": "U+1F3EB"
+  },
+  "department store": {
+    "char": "🏬",
+    "code": "U+1F3EC"
+  },
+  "factory": {
+    "char": "🏭",
+    "code": "U+1F3ED"
+  },
+  "Japanese castle": {
+    "char": "🏯",
+    "code": "U+1F3EF"
+  },
+  "castle": {
+    "char": "🏰",
+    "code": "U+1F3F0"
+  },
+  "wedding": {
+    "char": "💒",
+    "code": "U+1F492"
+  },
+  "Tokyo tower": {
+    "char": "🗼",
+    "code": "U+1F5FC"
+  },
+  "Statue of Liberty": {
+    "char": "🗽",
+    "code": "U+1F5FD"
+  },
+  "church": {
+    "char": "⛪",
+    "code": "U+26EA"
+  },
+  "mosque": {
+    "char": "🕌",
+    "code": "U+1F54C"
+  },
+  "hindu temple": {
+    "char": "🛕",
+    "code": "U+1F6D5"
+  },
+  "synagogue": {
+    "char": "🕍",
+    "code": "U+1F54D"
+  },
+  "shinto shrine": {
+    "char": "⛩",
+    "code": "U+26E9"
+  },
+  "kaaba": {
+    "char": "🕋",
+    "code": "U+1F54B"
+  },
+  "fountain": {
+    "char": "⛲",
+    "code": "U+26F2"
+  },
+  "tent": {
+    "char": "⛺",
+    "code": "U+26FA"
+  },
+  "foggy": {
+    "char": "🌁",
+    "code": "U+1F301"
+  },
+  "night with stars": {
+    "char": "🌃",
+    "code": "U+1F303"
+  },
+  "cityscape": {
+    "char": "🏙",
+    "code": "U+1F3D9"
+  },
+  "sunrise over mountains": {
+    "char": "🌄",
+    "code": "U+1F304"
+  },
+  "sunrise": {
+    "char": "🌅",
+    "code": "U+1F305"
+  },
+  "cityscape at dusk": {
+    "char": "🌆",
+    "code": "U+1F306"
+  },
+  "sunset": {
+    "char": "🌇",
+    "code": "U+1F307"
+  },
+  "bridge at night": {
+    "char": "🌉",
+    "code": "U+1F309"
+  },
+  "hot springs": {
+    "char": "♨",
+    "code": "U+2668"
+  },
+  "carousel horse": {
+    "char": "🎠",
+    "code": "U+1F3A0"
+  },
+  "ferris wheel": {
+    "char": "🎡",
+    "code": "U+1F3A1"
+  },
+  "roller coaster": {
+    "char": "🎢",
+    "code": "U+1F3A2"
+  },
+  "barber pole": {
+    "char": "💈",
+    "code": "U+1F488"
+  },
+  "circus tent": {
+    "char": "🎪",
+    "code": "U+1F3AA"
+  },
+  "locomotive": {
+    "char": "🚂",
+    "code": "U+1F682"
+  },
+  "railway car": {
+    "char": "🚃",
+    "code": "U+1F683"
+  },
+  "high-speed train": {
+    "char": "🚄",
+    "code": "U+1F684"
+  },
+  "bullet train": {
+    "char": "🚅",
+    "code": "U+1F685"
+  },
+  "train": {
+    "char": "🚆",
+    "code": "U+1F686"
+  },
+  "metro": {
+    "char": "🚇",
+    "code": "U+1F687"
+  },
+  "light rail": {
+    "char": "🚈",
+    "code": "U+1F688"
+  },
+  "station": {
+    "char": "🚉",
+    "code": "U+1F689"
+  },
+  "tram": {
+    "char": "🚊",
+    "code": "U+1F68A"
+  },
+  "monorail": {
+    "char": "🚝",
+    "code": "U+1F69D"
+  },
+  "mountain railway": {
+    "char": "🚞",
+    "code": "U+1F69E"
+  },
+  "tram car": {
+    "char": "🚋",
+    "code": "U+1F68B"
+  },
+  "bus": {
+    "char": "🚌",
+    "code": "U+1F68C"
+  },
+  "oncoming bus": {
+    "char": "🚍",
+    "code": "U+1F68D"
+  },
+  "trolleybus": {
+    "char": "🚎",
+    "code": "U+1F68E"
+  },
+  "minibus": {
+    "char": "🚐",
+    "code": "U+1F690"
+  },
+  "ambulance": {
+    "char": "🚑",
+    "code": "U+1F691"
+  },
+  "fire engine": {
+    "char": "🚒",
+    "code": "U+1F692"
+  },
+  "police car": {
+    "char": "🚓",
+    "code": "U+1F693"
+  },
+  "oncoming police car": {
+    "char": "🚔",
+    "code": "U+1F694"
+  },
+  "taxi": {
+    "char": "🚕",
+    "code": "U+1F695"
+  },
+  "oncoming taxi": {
+    "char": "🚖",
+    "code": "U+1F696"
+  },
+  "automobile": {
+    "char": "🚗",
+    "code": "U+1F697"
+  },
+  "oncoming automobile": {
+    "char": "🚘",
+    "code": "U+1F698"
+  },
+  "sport utility vehicle": {
+    "char": "🚙",
+    "code": "U+1F699"
+  },
+  "delivery truck": {
+    "char": "🚚",
+    "code": "U+1F69A"
+  },
+  "articulated lorry": {
+    "char": "🚛",
+    "code": "U+1F69B"
+  },
+  "tractor": {
+    "char": "🚜",
+    "code": "U+1F69C"
+  },
+  "racing car": {
+    "char": "🏎",
+    "code": "U+1F3CE"
+  },
+  "motorcycle": {
+    "char": "🏍",
+    "code": "U+1F3CD"
+  },
+  "motor scooter": {
+    "char": "🛵",
+    "code": "U+1F6F5"
+  },
+  "manual wheelchair": {
+    "char": "🦽",
+    "code": "U+1F9BD"
+  },
+  "motorized wheelchair": {
+    "char": "🦼",
+    "code": "U+1F9BC"
+  },
+  "auto rickshaw": {
+    "char": "🛺",
+    "code": "U+1F6FA"
+  },
+  "bicycle": {
+    "char": "🚲",
+    "code": "U+1F6B2"
+  },
+  "kick scooter": {
+    "char": "🛴",
+    "code": "U+1F6F4"
+  },
+  "skateboard": {
+    "char": "🛹",
+    "code": "U+1F6F9"
+  },
+  "bus stop": {
+    "char": "🚏",
+    "code": "U+1F68F"
+  },
+  "motorway": {
+    "char": "🛣",
+    "code": "U+1F6E3"
+  },
+  "railway track": {
+    "char": "🛤",
+    "code": "U+1F6E4"
+  },
+  "oil drum": {
+    "char": "🛢",
+    "code": "U+1F6E2"
+  },
+  "fuel pump": {
+    "char": "⛽",
+    "code": "U+26FD"
+  },
+  "police car light": {
+    "char": "🚨",
+    "code": "U+1F6A8"
+  },
+  "horizontal traffic light": {
+    "char": "🚥",
+    "code": "U+1F6A5"
+  },
+  "vertical traffic light": {
+    "char": "🚦",
+    "code": "U+1F6A6"
+  },
+  "stop sign": {
+    "char": "🛑",
+    "code": "U+1F6D1"
+  },
+  "construction": {
+    "char": "🚧",
+    "code": "U+1F6A7"
+  },
+  "anchor": {
+    "char": "⚓",
+    "code": "U+2693"
+  },
+  "sailboat": {
+    "char": "⛵",
+    "code": "U+26F5"
+  },
+  "canoe": {
+    "char": "🛶",
+    "code": "U+1F6F6"
+  },
+  "speedboat": {
+    "char": "🚤",
+    "code": "U+1F6A4"
+  },
+  "passenger ship": {
+    "char": "🛳",
+    "code": "U+1F6F3"
+  },
+  "ferry": {
+    "char": "⛴",
+    "code": "U+26F4"
+  },
+  "motor boat": {
+    "char": "🛥",
+    "code": "U+1F6E5"
+  },
+  "ship": {
+    "char": "🚢",
+    "code": "U+1F6A2"
+  },
+  "airplane": {
+    "char": "✈",
+    "code": "U+2708"
+  },
+  "small airplane": {
+    "char": "🛩",
+    "code": "U+1F6E9"
+  },
+  "airplane departure": {
+    "char": "🛫",
+    "code": "U+1F6EB"
+  },
+  "airplane arrival": {
+    "char": "🛬",
+    "code": "U+1F6EC"
+  },
+  "parachute": {
+    "char": "🪂",
+    "code": "U+1FA82"
+  },
+  "seat": {
+    "char": "💺",
+    "code": "U+1F4BA"
+  },
+  "helicopter": {
+    "char": "🚁",
+    "code": "U+1F681"
+  },
+  "suspension railway": {
+    "char": "🚟",
+    "code": "U+1F69F"
+  },
+  "mountain cableway": {
+    "char": "🚠",
+    "code": "U+1F6A0"
+  },
+  "aerial tramway": {
+    "char": "🚡",
+    "code": "U+1F6A1"
+  },
+  "satellite": {
+    "char": "🛰",
+    "code": "U+1F6F0"
+  },
+  "rocket": {
+    "char": "🚀",
+    "code": "U+1F680"
+  },
+  "flying saucer": {
+    "char": "🛸",
+    "code": "U+1F6F8"
+  },
+  "bellhop bell": {
+    "char": "🛎",
+    "code": "U+1F6CE"
+  },
+  "luggage": {
+    "char": "🧳",
+    "code": "U+1F9F3"
+  },
+  "hourglass done": {
+    "char": "⌛",
+    "code": "U+231B"
+  },
+  "hourglass not done": {
+    "char": "⏳",
+    "code": "U+23F3"
+  },
+  "watch": {
+    "char": "⌚",
+    "code": "U+231A"
+  },
+  "alarm clock": {
+    "char": "⏰",
+    "code": "U+23F0"
+  },
+  "stopwatch": {
+    "char": "⏱",
+    "code": "U+23F1"
+  },
+  "timer clock": {
+    "char": "⏲",
+    "code": "U+23F2"
+  },
+  "mantelpiece clock": {
+    "char": "🕰",
+    "code": "U+1F570"
+  },
+  "twelve o’clock": {
+    "char": "🕛",
+    "code": "U+1F55B"
+  },
+  "twelve-thirty": {
+    "char": "🕧",
+    "code": "U+1F567"
+  },
+  "one o’clock": {
+    "char": "🕐",
+    "code": "U+1F550"
+  },
+  "one-thirty": {
+    "char": "🕜",
+    "code": "U+1F55C"
+  },
+  "two o’clock": {
+    "char": "🕑",
+    "code": "U+1F551"
+  },
+  "two-thirty": {
+    "char": "🕝",
+    "code": "U+1F55D"
+  },
+  "three o’clock": {
+    "char": "🕒",
+    "code": "U+1F552"
+  },
+  "three-thirty": {
+    "char": "🕞",
+    "code": "U+1F55E"
+  },
+  "four o’clock": {
+    "char": "🕓",
+    "code": "U+1F553"
+  },
+  "four-thirty": {
+    "char": "🕟",
+    "code": "U+1F55F"
+  },
+  "five o’clock": {
+    "char": "🕔",
+    "code": "U+1F554"
+  },
+  "five-thirty": {
+    "char": "🕠",
+    "code": "U+1F560"
+  },
+  "six o’clock": {
+    "char": "🕕",
+    "code": "U+1F555"
+  },
+  "six-thirty": {
+    "char": "🕡",
+    "code": "U+1F561"
+  },
+  "seven o’clock": {
+    "char": "🕖",
+    "code": "U+1F556"
+  },
+  "seven-thirty": {
+    "char": "🕢",
+    "code": "U+1F562"
+  },
+  "eight o’clock": {
+    "char": "🕗",
+    "code": "U+1F557"
+  },
+  "eight-thirty": {
+    "char": "🕣",
+    "code": "U+1F563"
+  },
+  "nine o’clock": {
+    "char": "🕘",
+    "code": "U+1F558"
+  },
+  "nine-thirty": {
+    "char": "🕤",
+    "code": "U+1F564"
+  },
+  "ten o’clock": {
+    "char": "🕙",
+    "code": "U+1F559"
+  },
+  "ten-thirty": {
+    "char": "🕥",
+    "code": "U+1F565"
+  },
+  "eleven o’clock": {
+    "char": "🕚",
+    "code": "U+1F55A"
+  },
+  "eleven-thirty": {
+    "char": "🕦",
+    "code": "U+1F566"
+  },
+  "new moon": {
+    "char": "🌑",
+    "code": "U+1F311"
+  },
+  "waxing crescent moon": {
+    "char": "🌒",
+    "code": "U+1F312"
+  },
+  "first quarter moon": {
+    "char": "🌓",
+    "code": "U+1F313"
+  },
+  "waxing gibbous moon": {
+    "char": "🌔",
+    "code": "U+1F314"
+  },
+  "full moon": {
+    "char": "🌕",
+    "code": "U+1F315"
+  },
+  "waning gibbous moon": {
+    "char": "🌖",
+    "code": "U+1F316"
+  },
+  "last quarter moon": {
+    "char": "🌗",
+    "code": "U+1F317"
+  },
+  "waning crescent moon": {
+    "char": "🌘",
+    "code": "U+1F318"
+  },
+  "crescent moon": {
+    "char": "🌙",
+    "code": "U+1F319"
+  },
+  "new moon face": {
+    "char": "🌚",
+    "code": "U+1F31A"
+  },
+  "first quarter moon face": {
+    "char": "🌛",
+    "code": "U+1F31B"
+  },
+  "last quarter moon face": {
+    "char": "🌜",
+    "code": "U+1F31C"
+  },
+  "thermometer": {
+    "char": "🌡",
+    "code": "U+1F321"
+  },
+  "sun": {
+    "char": "☀",
+    "code": "U+2600"
+  },
+  "full moon face": {
+    "char": "🌝",
+    "code": "U+1F31D"
+  },
+  "sun with face": {
+    "char": "🌞",
+    "code": "U+1F31E"
+  },
+  "ringed planet": {
+    "char": "🪐",
+    "code": "U+1FA90"
+  },
+  "star": {
+    "char": "⭐",
+    "code": "U+2B50"
+  },
+  "glowing star": {
+    "char": "🌟",
+    "code": "U+1F31F"
+  },
+  "shooting star": {
+    "char": "🌠",
+    "code": "U+1F320"
+  },
+  "milky way": {
+    "char": "🌌",
+    "code": "U+1F30C"
+  },
+  "cloud": {
+    "char": "☁",
+    "code": "U+2601"
+  },
+  "sun behind cloud": {
+    "char": "⛅",
+    "code": "U+26C5"
+  },
+  "cloud with lightning and rain": {
+    "char": "⛈",
+    "code": "U+26C8"
+  },
+  "sun behind small cloud": {
+    "char": "🌤",
+    "code": "U+1F324"
+  },
+  "sun behind large cloud": {
+    "char": "🌥",
+    "code": "U+1F325"
+  },
+  "sun behind rain cloud": {
+    "char": "🌦",
+    "code": "U+1F326"
+  },
+  "cloud with rain": {
+    "char": "🌧",
+    "code": "U+1F327"
+  },
+  "cloud with snow": {
+    "char": "🌨",
+    "code": "U+1F328"
+  },
+  "cloud with lightning": {
+    "char": "🌩",
+    "code": "U+1F329"
+  },
+  "tornado": {
+    "char": "🌪",
+    "code": "U+1F32A"
+  },
+  "fog": {
+    "char": "🌫",
+    "code": "U+1F32B"
+  },
+  "wind face": {
+    "char": "🌬",
+    "code": "U+1F32C"
+  },
+  "cyclone": {
+    "char": "🌀",
+    "code": "U+1F300"
+  },
+  "rainbow": {
+    "char": "🌈",
+    "code": "U+1F308"
+  },
+  "closed umbrella": {
+    "char": "🌂",
+    "code": "U+1F302"
+  },
+  "umbrella": {
+    "char": "☂",
+    "code": "U+2602"
+  },
+  "umbrella with rain drops": {
+    "char": "☔",
+    "code": "U+2614"
+  },
+  "umbrella on ground": {
+    "char": "⛱",
+    "code": "U+26F1"
+  },
+  "high voltage": {
+    "char": "⚡",
+    "code": "U+26A1"
+  },
+  "snowflake": {
+    "char": "❄",
+    "code": "U+2744"
+  },
+  "snowman": {
+    "char": "☃",
+    "code": "U+2603"
+  },
+  "snowman without snow": {
+    "char": "⛄",
+    "code": "U+26C4"
+  },
+  "comet": {
+    "char": "☄",
+    "code": "U+2604"
+  },
+  "fire": {
+    "char": "🔥",
+    "code": "U+1F525"
+  },
+  "droplet": {
+    "char": "💧",
+    "code": "U+1F4A7"
+  },
+  "water wave": {
+    "char": "🌊",
+    "code": "U+1F30A"
+  },
+  "jack-o-lantern": {
+    "char": "🎃",
+    "code": "U+1F383"
+  },
+  "Christmas tree": {
+    "char": "🎄",
+    "code": "U+1F384"
+  },
+  "fireworks": {
+    "char": "🎆",
+    "code": "U+1F386"
+  },
+  "sparkler": {
+    "char": "🎇",
+    "code": "U+1F387"
+  },
+  "firecracker": {
+    "char": "🧨",
+    "code": "U+1F9E8"
+  },
+  "sparkles": {
+    "char": "✨",
+    "code": "U+2728"
+  },
+  "balloon": {
+    "char": "🎈",
+    "code": "U+1F388"
+  },
+  "party popper": {
+    "char": "🎉",
+    "code": "U+1F389"
+  },
+  "confetti ball": {
+    "char": "🎊",
+    "code": "U+1F38A"
+  },
+  "tanabata tree": {
+    "char": "🎋",
+    "code": "U+1F38B"
+  },
+  "pine decoration": {
+    "char": "🎍",
+    "code": "U+1F38D"
+  },
+  "Japanese dolls": {
+    "char": "🎎",
+    "code": "U+1F38E"
+  },
+  "carp streamer": {
+    "char": "🎏",
+    "code": "U+1F38F"
+  },
+  "wind chime": {
+    "char": "🎐",
+    "code": "U+1F390"
+  },
+  "moon viewing ceremony": {
+    "char": "🎑",
+    "code": "U+1F391"
+  },
+  "red envelope": {
+    "char": "🧧",
+    "code": "U+1F9E7"
+  },
+  "ribbon": {
+    "char": "🎀",
+    "code": "U+1F380"
+  },
+  "wrapped gift": {
+    "char": "🎁",
+    "code": "U+1F381"
+  },
+  "reminder ribbon": {
+    "char": "🎗",
+    "code": "U+1F397"
+  },
+  "admission tickets": {
+    "char": "🎟",
+    "code": "U+1F39F"
+  },
+  "ticket": {
+    "char": "🎫",
+    "code": "U+1F3AB"
+  },
+  "military medal": {
+    "char": "🎖",
+    "code": "U+1F396"
+  },
+  "trophy": {
+    "char": "🏆",
+    "code": "U+1F3C6"
+  },
+  "sports medal": {
+    "char": "🏅",
+    "code": "U+1F3C5"
+  },
+  "1st place medal": {
+    "char": "🥇",
+    "code": "U+1F947"
+  },
+  "2nd place medal": {
+    "char": "🥈",
+    "code": "U+1F948"
+  },
+  "3rd place medal": {
+    "char": "🥉",
+    "code": "U+1F949"
+  },
+  "soccer ball": {
+    "char": "⚽",
+    "code": "U+26BD"
+  },
+  "baseball": {
+    "char": "⚾",
+    "code": "U+26BE"
+  },
+  "softball": {
+    "char": "🥎",
+    "code": "U+1F94E"
+  },
+  "basketball": {
+    "char": "🏀",
+    "code": "U+1F3C0"
+  },
+  "volleyball": {
+    "char": "🏐",
+    "code": "U+1F3D0"
+  },
+  "american football": {
+    "char": "🏈",
+    "code": "U+1F3C8"
+  },
+  "rugby football": {
+    "char": "🏉",
+    "code": "U+1F3C9"
+  },
+  "tennis": {
+    "char": "🎾",
+    "code": "U+1F3BE"
+  },
+  "flying disc": {
+    "char": "🥏",
+    "code": "U+1F94F"
+  },
+  "bowling": {
+    "char": "🎳",
+    "code": "U+1F3B3"
+  },
+  "cricket game": {
+    "char": "🏏",
+    "code": "U+1F3CF"
+  },
+  "field hockey": {
+    "char": "🏑",
+    "code": "U+1F3D1"
+  },
+  "ice hockey": {
+    "char": "🏒",
+    "code": "U+1F3D2"
+  },
+  "lacrosse": {
+    "char": "🥍",
+    "code": "U+1F94D"
+  },
+  "ping pong": {
+    "char": "🏓",
+    "code": "U+1F3D3"
+  },
+  "badminton": {
+    "char": "🏸",
+    "code": "U+1F3F8"
+  },
+  "boxing glove": {
+    "char": "🥊",
+    "code": "U+1F94A"
+  },
+  "martial arts uniform": {
+    "char": "🥋",
+    "code": "U+1F94B"
+  },
+  "goal net": {
+    "char": "🥅",
+    "code": "U+1F945"
+  },
+  "flag in hole": {
+    "char": "⛳",
+    "code": "U+26F3"
+  },
+  "ice skate": {
+    "char": "⛸",
+    "code": "U+26F8"
+  },
+  "fishing pole": {
+    "char": "🎣",
+    "code": "U+1F3A3"
+  },
+  "diving mask": {
+    "char": "🤿",
+    "code": "U+1F93F"
+  },
+  "running shirt": {
+    "char": "🎽",
+    "code": "U+1F3BD"
+  },
+  "skis": {
+    "char": "🎿",
+    "code": "U+1F3BF"
+  },
+  "sled": {
+    "char": "🛷",
+    "code": "U+1F6F7"
+  },
+  "curling stone": {
+    "char": "🥌",
+    "code": "U+1F94C"
+  },
+  "direct hit": {
+    "char": "🎯",
+    "code": "U+1F3AF"
+  },
+  "yo-yo": {
+    "char": "🪀",
+    "code": "U+1FA80"
+  },
+  "kite": {
+    "char": "🪁",
+    "code": "U+1FA81"
+  },
+  "pool 8 ball": {
+    "char": "🎱",
+    "code": "U+1F3B1"
+  },
+  "crystal ball": {
+    "char": "🔮",
+    "code": "U+1F52E"
+  },
+  "nazar amulet": {
+    "char": "🧿",
+    "code": "U+1F9FF"
+  },
+  "video game": {
+    "char": "🎮",
+    "code": "U+1F3AE"
+  },
+  "joystick": {
+    "char": "🕹",
+    "code": "U+1F579"
+  },
+  "slot machine": {
+    "char": "🎰",
+    "code": "U+1F3B0"
+  },
+  "game die": {
+    "char": "🎲",
+    "code": "U+1F3B2"
+  },
+  "puzzle piece": {
+    "char": "🧩",
+    "code": "U+1F9E9"
+  },
+  "teddy bear": {
+    "char": "🧸",
+    "code": "U+1F9F8"
+  },
+  "spade suit": {
+    "char": "♠",
+    "code": "U+2660"
+  },
+  "heart suit": {
+    "char": "♥",
+    "code": "U+2665"
+  },
+  "diamond suit": {
+    "char": "♦",
+    "code": "U+2666"
+  },
+  "club suit": {
+    "char": "♣",
+    "code": "U+2663"
+  },
+  "chess pawn": {
+    "char": "♟",
+    "code": "U+265F"
+  },
+  "joker": {
+    "char": "🃏",
+    "code": "U+1F0CF"
+  },
+  "mahjong red dragon": {
+    "char": "🀄",
+    "code": "U+1F004"
+  },
+  "flower playing cards": {
+    "char": "🎴",
+    "code": "U+1F3B4"
+  },
+  "performing arts": {
+    "char": "🎭",
+    "code": "U+1F3AD"
+  },
+  "framed picture": {
+    "char": "🖼",
+    "code": "U+1F5BC"
+  },
+  "artist palette": {
+    "char": "🎨",
+    "code": "U+1F3A8"
+  },
+  "thread": {
+    "char": "🧵",
+    "code": "U+1F9F5"
+  },
+  "yarn": {
+    "char": "🧶",
+    "code": "U+1F9F6"
+  },
+  "glasses": {
+    "char": "👓",
+    "code": "U+1F453"
+  },
+  "sunglasses": {
+    "char": "🕶",
+    "code": "U+1F576"
+  },
+  "goggles": {
+    "char": "🥽",
+    "code": "U+1F97D"
+  },
+  "lab coat": {
+    "char": "🥼",
+    "code": "U+1F97C"
+  },
+  "safety vest": {
+    "char": "🦺",
+    "code": "U+1F9BA"
+  },
+  "necktie": {
+    "char": "👔",
+    "code": "U+1F454"
+  },
+  "t-shirt": {
+    "char": "👕",
+    "code": "U+1F455"
+  },
+  "jeans": {
+    "char": "👖",
+    "code": "U+1F456"
+  },
+  "scarf": {
+    "char": "🧣",
+    "code": "U+1F9E3"
+  },
+  "gloves": {
+    "char": "🧤",
+    "code": "U+1F9E4"
+  },
+  "coat": {
+    "char": "🧥",
+    "code": "U+1F9E5"
+  },
+  "socks": {
+    "char": "🧦",
+    "code": "U+1F9E6"
+  },
+  "dress": {
+    "char": "👗",
+    "code": "U+1F457"
+  },
+  "kimono": {
+    "char": "👘",
+    "code": "U+1F458"
+  },
+  "sari": {
+    "char": "🥻",
+    "code": "U+1F97B"
+  },
+  "one-piece swimsuit": {
+    "char": "🩱",
+    "code": "U+1FA71"
+  },
+  "briefs": {
+    "char": "🩲",
+    "code": "U+1FA72"
+  },
+  "shorts": {
+    "char": "🩳",
+    "code": "U+1FA73"
+  },
+  "bikini": {
+    "char": "👙",
+    "code": "U+1F459"
+  },
+  "woman’s clothes": {
+    "char": "👚",
+    "code": "U+1F45A"
+  },
+  "purse": {
+    "char": "👛",
+    "code": "U+1F45B"
+  },
+  "handbag": {
+    "char": "👜",
+    "code": "U+1F45C"
+  },
+  "clutch bag": {
+    "char": "👝",
+    "code": "U+1F45D"
+  },
+  "shopping bags": {
+    "char": "🛍",
+    "code": "U+1F6CD"
+  },
+  "backpack": {
+    "char": "🎒",
+    "code": "U+1F392"
+  },
+  "man’s shoe": {
+    "char": "👞",
+    "code": "U+1F45E"
+  },
+  "running shoe": {
+    "char": "👟",
+    "code": "U+1F45F"
+  },
+  "hiking boot": {
+    "char": "🥾",
+    "code": "U+1F97E"
+  },
+  "flat shoe": {
+    "char": "🥿",
+    "code": "U+1F97F"
+  },
+  "high-heeled shoe": {
+    "char": "👠",
+    "code": "U+1F460"
+  },
+  "woman’s sandal": {
+    "char": "👡",
+    "code": "U+1F461"
+  },
+  "ballet shoes": {
+    "char": "🩰",
+    "code": "U+1FA70"
+  },
+  "woman’s boot": {
+    "char": "👢",
+    "code": "U+1F462"
+  },
+  "crown": {
+    "char": "👑",
+    "code": "U+1F451"
+  },
+  "woman’s hat": {
+    "char": "👒",
+    "code": "U+1F452"
+  },
+  "top hat": {
+    "char": "🎩",
+    "code": "U+1F3A9"
+  },
+  "graduation cap": {
+    "char": "🎓",
+    "code": "U+1F393"
+  },
+  "billed cap": {
+    "char": "🧢",
+    "code": "U+1F9E2"
+  },
+  "rescue worker’s helmet": {
+    "char": "⛑",
+    "code": "U+26D1"
+  },
+  "prayer beads": {
+    "char": "📿",
+    "code": "U+1F4FF"
+  },
+  "lipstick": {
+    "char": "💄",
+    "code": "U+1F484"
+  },
+  "ring": {
+    "char": "💍",
+    "code": "U+1F48D"
+  },
+  "gem stone": {
+    "char": "💎",
+    "code": "U+1F48E"
+  },
+  "muted speaker": {
+    "char": "🔇",
+    "code": "U+1F507"
+  },
+  "speaker low volume": {
+    "char": "🔈",
+    "code": "U+1F508"
+  },
+  "speaker medium volume": {
+    "char": "🔉",
+    "code": "U+1F509"
+  },
+  "speaker high volume": {
+    "char": "🔊",
+    "code": "U+1F50A"
+  },
+  "loudspeaker": {
+    "char": "📢",
+    "code": "U+1F4E2"
+  },
+  "megaphone": {
+    "char": "📣",
+    "code": "U+1F4E3"
+  },
+  "postal horn": {
+    "char": "📯",
+    "code": "U+1F4EF"
+  },
+  "bell": {
+    "char": "🔔",
+    "code": "U+1F514"
+  },
+  "bell with slash": {
+    "char": "🔕",
+    "code": "U+1F515"
+  },
+  "musical score": {
+    "char": "🎼",
+    "code": "U+1F3BC"
+  },
+  "musical note": {
+    "char": "🎵",
+    "code": "U+1F3B5"
+  },
+  "musical notes": {
+    "char": "🎶",
+    "code": "U+1F3B6"
+  },
+  "studio microphone": {
+    "char": "🎙",
+    "code": "U+1F399"
+  },
+  "level slider": {
+    "char": "🎚",
+    "code": "U+1F39A"
+  },
+  "control knobs": {
+    "char": "🎛",
+    "code": "U+1F39B"
+  },
+  "microphone": {
+    "char": "🎤",
+    "code": "U+1F3A4"
+  },
+  "headphone": {
+    "char": "🎧",
+    "code": "U+1F3A7"
+  },
+  "radio": {
+    "char": "📻",
+    "code": "U+1F4FB"
+  },
+  "saxophone": {
+    "char": "🎷",
+    "code": "U+1F3B7"
+  },
+  "guitar": {
+    "char": "🎸",
+    "code": "U+1F3B8"
+  },
+  "musical keyboard": {
+    "char": "🎹",
+    "code": "U+1F3B9"
+  },
+  "trumpet": {
+    "char": "🎺",
+    "code": "U+1F3BA"
+  },
+  "violin": {
+    "char": "🎻",
+    "code": "U+1F3BB"
+  },
+  "banjo": {
+    "char": "🪕",
+    "code": "U+1FA95"
+  },
+  "drum": {
+    "char": "🥁",
+    "code": "U+1F941"
+  },
+  "mobile phone": {
+    "char": "📱",
+    "code": "U+1F4F1"
+  },
+  "mobile phone with arrow": {
+    "char": "📲",
+    "code": "U+1F4F2"
+  },
+  "telephone": {
+    "char": "☎",
+    "code": "U+260E"
+  },
+  "telephone receiver": {
+    "char": "📞",
+    "code": "U+1F4DE"
+  },
+  "pager": {
+    "char": "📟",
+    "code": "U+1F4DF"
+  },
+  "fax machine": {
+    "char": "📠",
+    "code": "U+1F4E0"
+  },
+  "battery": {
+    "char": "🔋",
+    "code": "U+1F50B"
+  },
+  "electric plug": {
+    "char": "🔌",
+    "code": "U+1F50C"
+  },
+  "laptop": {
+    "char": "💻",
+    "code": "U+1F4BB"
+  },
+  "desktop computer": {
+    "char": "🖥",
+    "code": "U+1F5A5"
+  },
+  "printer": {
+    "char": "🖨",
+    "code": "U+1F5A8"
+  },
+  "keyboard": {
+    "char": "⌨",
+    "code": "U+2328"
+  },
+  "computer mouse": {
+    "char": "🖱",
+    "code": "U+1F5B1"
+  },
+  "trackball": {
+    "char": "🖲",
+    "code": "U+1F5B2"
+  },
+  "computer disk": {
+    "char": "💽",
+    "code": "U+1F4BD"
+  },
+  "floppy disk": {
+    "char": "💾",
+    "code": "U+1F4BE"
+  },
+  "optical disk": {
+    "char": "💿",
+    "code": "U+1F4BF"
+  },
+  "dvd": {
+    "char": "📀",
+    "code": "U+1F4C0"
+  },
+  "abacus": {
+    "char": "🧮",
+    "code": "U+1F9EE"
+  },
+  "movie camera": {
+    "char": "🎥",
+    "code": "U+1F3A5"
+  },
+  "film frames": {
+    "char": "🎞",
+    "code": "U+1F39E"
+  },
+  "film projector": {
+    "char": "📽",
+    "code": "U+1F4FD"
+  },
+  "clapper board": {
+    "char": "🎬",
+    "code": "U+1F3AC"
+  },
+  "television": {
+    "char": "📺",
+    "code": "U+1F4FA"
+  },
+  "camera": {
+    "char": "📷",
+    "code": "U+1F4F7"
+  },
+  "camera with flash": {
+    "char": "📸",
+    "code": "U+1F4F8"
+  },
+  "video camera": {
+    "char": "📹",
+    "code": "U+1F4F9"
+  },
+  "videocassette": {
+    "char": "📼",
+    "code": "U+1F4FC"
+  },
+  "magnifying glass tilted left": {
+    "char": "🔍",
+    "code": "U+1F50D"
+  },
+  "magnifying glass tilted right": {
+    "char": "🔎",
+    "code": "U+1F50E"
+  },
+  "candle": {
+    "char": "🕯",
+    "code": "U+1F56F"
+  },
+  "light bulb": {
+    "char": "💡",
+    "code": "U+1F4A1"
+  },
+  "flashlight": {
+    "char": "🔦",
+    "code": "U+1F526"
+  },
+  "red paper lantern": {
+    "char": "🏮",
+    "code": "U+1F3EE"
+  },
+  "diya lamp": {
+    "char": "🪔",
+    "code": "U+1FA94"
+  },
+  "notebook with decorative cover": {
+    "char": "📔",
+    "code": "U+1F4D4"
+  },
+  "closed book": {
+    "char": "📕",
+    "code": "U+1F4D5"
+  },
+  "open book": {
+    "char": "📖",
+    "code": "U+1F4D6"
+  },
+  "green book": {
+    "char": "📗",
+    "code": "U+1F4D7"
+  },
+  "blue book": {
+    "char": "📘",
+    "code": "U+1F4D8"
+  },
+  "orange book": {
+    "char": "📙",
+    "code": "U+1F4D9"
+  },
+  "books": {
+    "char": "📚",
+    "code": "U+1F4DA"
+  },
+  "notebook": {
+    "char": "📓",
+    "code": "U+1F4D3"
+  },
+  "ledger": {
+    "char": "📒",
+    "code": "U+1F4D2"
+  },
+  "page with curl": {
+    "char": "📃",
+    "code": "U+1F4C3"
+  },
+  "scroll": {
+    "char": "📜",
+    "code": "U+1F4DC"
+  },
+  "page facing up": {
+    "char": "📄",
+    "code": "U+1F4C4"
+  },
+  "newspaper": {
+    "char": "📰",
+    "code": "U+1F4F0"
+  },
+  "rolled-up newspaper": {
+    "char": "🗞",
+    "code": "U+1F5DE"
+  },
+  "bookmark tabs": {
+    "char": "📑",
+    "code": "U+1F4D1"
+  },
+  "bookmark": {
+    "char": "🔖",
+    "code": "U+1F516"
+  },
+  "label": {
+    "char": "🏷",
+    "code": "U+1F3F7"
+  },
+  "money bag": {
+    "char": "💰",
+    "code": "U+1F4B0"
+  },
+  "yen banknote": {
+    "char": "💴",
+    "code": "U+1F4B4"
+  },
+  "dollar banknote": {
+    "char": "💵",
+    "code": "U+1F4B5"
+  },
+  "euro banknote": {
+    "char": "💶",
+    "code": "U+1F4B6"
+  },
+  "pound banknote": {
+    "char": "💷",
+    "code": "U+1F4B7"
+  },
+  "money with wings": {
+    "char": "💸",
+    "code": "U+1F4B8"
+  },
+  "credit card": {
+    "char": "💳",
+    "code": "U+1F4B3"
+  },
+  "receipt": {
+    "char": "🧾",
+    "code": "U+1F9FE"
+  },
+  "chart increasing with yen": {
+    "char": "💹",
+    "code": "U+1F4B9"
+  },
+  "currency exchange": {
+    "char": "💱",
+    "code": "U+1F4B1"
+  },
+  "heavy dollar sign": {
+    "char": "💲",
+    "code": "U+1F4B2"
+  },
+  "envelope": {
+    "char": "✉",
+    "code": "U+2709"
+  },
+  "e-mail": {
+    "char": "📧",
+    "code": "U+1F4E7"
+  },
+  "incoming envelope": {
+    "char": "📨",
+    "code": "U+1F4E8"
+  },
+  "envelope with arrow": {
+    "char": "📩",
+    "code": "U+1F4E9"
+  },
+  "outbox tray": {
+    "char": "📤",
+    "code": "U+1F4E4"
+  },
+  "inbox tray": {
+    "char": "📥",
+    "code": "U+1F4E5"
+  },
+  "package": {
+    "char": "📦",
+    "code": "U+1F4E6"
+  },
+  "closed mailbox with raised flag": {
+    "char": "📫",
+    "code": "U+1F4EB"
+  },
+  "closed mailbox with lowered flag": {
+    "char": "📪",
+    "code": "U+1F4EA"
+  },
+  "open mailbox with raised flag": {
+    "char": "📬",
+    "code": "U+1F4EC"
+  },
+  "open mailbox with lowered flag": {
+    "char": "📭",
+    "code": "U+1F4ED"
+  },
+  "postbox": {
+    "char": "📮",
+    "code": "U+1F4EE"
+  },
+  "ballot box with ballot": {
+    "char": "🗳",
+    "code": "U+1F5F3"
+  },
+  "pencil": {
+    "char": "✏",
+    "code": "U+270F"
+  },
+  "black nib": {
+    "char": "✒",
+    "code": "U+2712"
+  },
+  "fountain pen": {
+    "char": "🖋",
+    "code": "U+1F58B"
+  },
+  "pen": {
+    "char": "🖊",
+    "code": "U+1F58A"
+  },
+  "paintbrush": {
+    "char": "🖌",
+    "code": "U+1F58C"
+  },
+  "crayon": {
+    "char": "🖍",
+    "code": "U+1F58D"
+  },
+  "memo": {
+    "char": "📝",
+    "code": "U+1F4DD"
+  },
+  "briefcase": {
+    "char": "💼",
+    "code": "U+1F4BC"
+  },
+  "file folder": {
+    "char": "📁",
+    "code": "U+1F4C1"
+  },
+  "open file folder": {
+    "char": "📂",
+    "code": "U+1F4C2"
+  },
+  "card index dividers": {
+    "char": "🗂",
+    "code": "U+1F5C2"
+  },
+  "calendar": {
+    "char": "📅",
+    "code": "U+1F4C5"
+  },
+  "tear-off calendar": {
+    "char": "📆",
+    "code": "U+1F4C6"
+  },
+  "spiral notepad": {
+    "char": "🗒",
+    "code": "U+1F5D2"
+  },
+  "spiral calendar": {
+    "char": "🗓",
+    "code": "U+1F5D3"
+  },
+  "card index": {
+    "char": "📇",
+    "code": "U+1F4C7"
+  },
+  "chart increasing": {
+    "char": "📈",
+    "code": "U+1F4C8"
+  },
+  "chart decreasing": {
+    "char": "📉",
+    "code": "U+1F4C9"
+  },
+  "bar chart": {
+    "char": "📊",
+    "code": "U+1F4CA"
+  },
+  "clipboard": {
+    "char": "📋",
+    "code": "U+1F4CB"
+  },
+  "pushpin": {
+    "char": "📌",
+    "code": "U+1F4CC"
+  },
+  "round pushpin": {
+    "char": "📍",
+    "code": "U+1F4CD"
+  },
+  "paperclip": {
+    "char": "📎",
+    "code": "U+1F4CE"
+  },
+  "linked paperclips": {
+    "char": "🖇",
+    "code": "U+1F587"
+  },
+  "straight ruler": {
+    "char": "📏",
+    "code": "U+1F4CF"
+  },
+  "triangular ruler": {
+    "char": "📐",
+    "code": "U+1F4D0"
+  },
+  "scissors": {
+    "char": "✂",
+    "code": "U+2702"
+  },
+  "card file box": {
+    "char": "🗃",
+    "code": "U+1F5C3"
+  },
+  "file cabinet": {
+    "char": "🗄",
+    "code": "U+1F5C4"
+  },
+  "wastebasket": {
+    "char": "🗑",
+    "code": "U+1F5D1"
+  },
+  "locked": {
+    "char": "🔒",
+    "code": "U+1F512"
+  },
+  "unlocked": {
+    "char": "🔓",
+    "code": "U+1F513"
+  },
+  "locked with pen": {
+    "char": "🔏",
+    "code": "U+1F50F"
+  },
+  "locked with key": {
+    "char": "🔐",
+    "code": "U+1F510"
+  },
+  "key": {
+    "char": "🔑",
+    "code": "U+1F511"
+  },
+  "old key": {
+    "char": "🗝",
+    "code": "U+1F5DD"
+  },
+  "hammer": {
+    "char": "🔨",
+    "code": "U+1F528"
+  },
+  "axe": {
+    "char": "🪓",
+    "code": "U+1FA93"
+  },
+  "pick": {
+    "char": "⛏",
+    "code": "U+26CF"
+  },
+  "hammer and pick": {
+    "char": "⚒",
+    "code": "U+2692"
+  },
+  "hammer and wrench": {
+    "char": "🛠",
+    "code": "U+1F6E0"
+  },
+  "dagger": {
+    "char": "🗡",
+    "code": "U+1F5E1"
+  },
+  "crossed swords": {
+    "char": "⚔",
+    "code": "U+2694"
+  },
+  "pistol": {
+    "char": "🔫",
+    "code": "U+1F52B"
+  },
+  "bow and arrow": {
+    "char": "🏹",
+    "code": "U+1F3F9"
+  },
+  "shield": {
+    "char": "🛡",
+    "code": "U+1F6E1"
+  },
+  "wrench": {
+    "char": "🔧",
+    "code": "U+1F527"
+  },
+  "nut and bolt": {
+    "char": "🔩",
+    "code": "U+1F529"
+  },
+  "gear": {
+    "char": "⚙",
+    "code": "U+2699"
+  },
+  "clamp": {
+    "char": "🗜",
+    "code": "U+1F5DC"
+  },
+  "balance scale": {
+    "char": "⚖",
+    "code": "U+2696"
+  },
+  "probing cane": {
+    "char": "🦯",
+    "code": "U+1F9AF"
+  },
+  "link": {
+    "char": "🔗",
+    "code": "U+1F517"
+  },
+  "chains": {
+    "char": "⛓",
+    "code": "U+26D3"
+  },
+  "toolbox": {
+    "char": "🧰",
+    "code": "U+1F9F0"
+  },
+  "magnet": {
+    "char": "🧲",
+    "code": "U+1F9F2"
+  },
+  "alembic": {
+    "char": "⚗",
+    "code": "U+2697"
+  },
+  "test tube": {
+    "char": "🧪",
+    "code": "U+1F9EA"
+  },
+  "petri dish": {
+    "char": "🧫",
+    "code": "U+1F9EB"
+  },
+  "dna": {
+    "char": "🧬",
+    "code": "U+1F9EC"
+  },
+  "microscope": {
+    "char": "🔬",
+    "code": "U+1F52C"
+  },
+  "telescope": {
+    "char": "🔭",
+    "code": "U+1F52D"
+  },
+  "satellite antenna": {
+    "char": "📡",
+    "code": "U+1F4E1"
+  },
+  "syringe": {
+    "char": "💉",
+    "code": "U+1F489"
+  },
+  "drop of blood": {
+    "char": "🩸",
+    "code": "U+1FA78"
+  },
+  "pill": {
+    "char": "💊",
+    "code": "U+1F48A"
+  },
+  "adhesive bandage": {
+    "char": "🩹",
+    "code": "U+1FA79"
+  },
+  "stethoscope": {
+    "char": "🩺",
+    "code": "U+1FA7A"
+  },
+  "door": {
+    "char": "🚪",
+    "code": "U+1F6AA"
+  },
+  "bed": {
+    "char": "🛏",
+    "code": "U+1F6CF"
+  },
+  "couch and lamp": {
+    "char": "🛋",
+    "code": "U+1F6CB"
+  },
+  "chair": {
+    "char": "🪑",
+    "code": "U+1FA91"
+  },
+  "toilet": {
+    "char": "🚽",
+    "code": "U+1F6BD"
+  },
+  "shower": {
+    "char": "🚿",
+    "code": "U+1F6BF"
+  },
+  "bathtub": {
+    "char": "🛁",
+    "code": "U+1F6C1"
+  },
+  "razor": {
+    "char": "🪒",
+    "code": "U+1FA92"
+  },
+  "lotion bottle": {
+    "char": "🧴",
+    "code": "U+1F9F4"
+  },
+  "safety pin": {
+    "char": "🧷",
+    "code": "U+1F9F7"
+  },
+  "broom": {
+    "char": "🧹",
+    "code": "U+1F9F9"
+  },
+  "basket": {
+    "char": "🧺",
+    "code": "U+1F9FA"
+  },
+  "roll of paper": {
+    "char": "🧻",
+    "code": "U+1F9FB"
+  },
+  "soap": {
+    "char": "🧼",
+    "code": "U+1F9FC"
+  },
+  "sponge": {
+    "char": "🧽",
+    "code": "U+1F9FD"
+  },
+  "fire extinguisher": {
+    "char": "🧯",
+    "code": "U+1F9EF"
+  },
+  "shopping cart": {
+    "char": "🛒",
+    "code": "U+1F6D2"
+  },
+  "cigarette": {
+    "char": "🚬",
+    "code": "U+1F6AC"
+  },
+  "coffin": {
+    "char": "⚰",
+    "code": "U+26B0"
+  },
+  "funeral urn": {
+    "char": "⚱",
+    "code": "U+26B1"
+  },
+  "moai": {
+    "char": "🗿",
+    "code": "U+1F5FF"
+  },
+  "ATM sign": {
+    "char": "🏧",
+    "code": "U+1F3E7"
+  },
+  "litter in bin sign": {
+    "char": "🚮",
+    "code": "U+1F6AE"
+  },
+  "potable water": {
+    "char": "🚰",
+    "code": "U+1F6B0"
+  },
+  "wheelchair symbol": {
+    "char": "♿",
+    "code": "U+267F"
+  },
+  "men’s room": {
+    "char": "🚹",
+    "code": "U+1F6B9"
+  },
+  "women’s room": {
+    "char": "🚺",
+    "code": "U+1F6BA"
+  },
+  "restroom": {
+    "char": "🚻",
+    "code": "U+1F6BB"
+  },
+  "baby symbol": {
+    "char": "🚼",
+    "code": "U+1F6BC"
+  },
+  "water closet": {
+    "char": "🚾",
+    "code": "U+1F6BE"
+  },
+  "passport control": {
+    "char": "🛂",
+    "code": "U+1F6C2"
+  },
+  "customs": {
+    "char": "🛃",
+    "code": "U+1F6C3"
+  },
+  "baggage claim": {
+    "char": "🛄",
+    "code": "U+1F6C4"
+  },
+  "left luggage": {
+    "char": "🛅",
+    "code": "U+1F6C5"
+  },
+  "warning": {
+    "char": "⚠",
+    "code": "U+26A0"
+  },
+  "children crossing": {
+    "char": "🚸",
+    "code": "U+1F6B8"
+  },
+  "no entry": {
+    "char": "⛔",
+    "code": "U+26D4"
+  },
+  "prohibited": {
+    "char": "🚫",
+    "code": "U+1F6AB"
+  },
+  "no bicycles": {
+    "char": "🚳",
+    "code": "U+1F6B3"
+  },
+  "no smoking": {
+    "char": "🚭",
+    "code": "U+1F6AD"
+  },
+  "no littering": {
+    "char": "🚯",
+    "code": "U+1F6AF"
+  },
+  "non-potable water": {
+    "char": "🚱",
+    "code": "U+1F6B1"
+  },
+  "no pedestrians": {
+    "char": "🚷",
+    "code": "U+1F6B7"
+  },
+  "no mobile phones": {
+    "char": "📵",
+    "code": "U+1F4F5"
+  },
+  "no one under eighteen": {
+    "char": "🔞",
+    "code": "U+1F51E"
+  },
+  "radioactive": {
+    "char": "☢",
+    "code": "U+2622"
+  },
+  "biohazard": {
+    "char": "☣",
+    "code": "U+2623"
+  },
+  "up arrow": {
+    "char": "⬆",
+    "code": "U+2B06"
+  },
+  "up-right arrow": {
+    "char": "↗",
+    "code": "U+2197"
+  },
+  "right arrow": {
+    "char": "➡",
+    "code": "U+27A1"
+  },
+  "down-right arrow": {
+    "char": "↘",
+    "code": "U+2198"
+  },
+  "down arrow": {
+    "char": "⬇",
+    "code": "U+2B07"
+  },
+  "down-left arrow": {
+    "char": "↙",
+    "code": "U+2199"
+  },
+  "left arrow": {
+    "char": "⬅",
+    "code": "U+2B05"
+  },
+  "up-left arrow": {
+    "char": "↖",
+    "code": "U+2196"
+  },
+  "up-down arrow": {
+    "char": "↕",
+    "code": "U+2195"
+  },
+  "left-right arrow": {
+    "char": "↔",
+    "code": "U+2194"
+  },
+  "right arrow curving left": {
+    "char": "↩",
+    "code": "U+21A9"
+  },
+  "left arrow curving right": {
+    "char": "↪",
+    "code": "U+21AA"
+  },
+  "right arrow curving up": {
+    "char": "⤴",
+    "code": "U+2934"
+  },
+  "right arrow curving down": {
+    "char": "⤵",
+    "code": "U+2935"
+  },
+  "clockwise vertical arrows": {
+    "char": "🔃",
+    "code": "U+1F503"
+  },
+  "counterclockwise arrows button": {
+    "char": "🔄",
+    "code": "U+1F504"
+  },
+  "BACK arrow": {
+    "char": "🔙",
+    "code": "U+1F519"
+  },
+  "END arrow": {
+    "char": "🔚",
+    "code": "U+1F51A"
+  },
+  "ON! arrow": {
+    "char": "🔛",
+    "code": "U+1F51B"
+  },
+  "SOON arrow": {
+    "char": "🔜",
+    "code": "U+1F51C"
+  },
+  "TOP arrow": {
+    "char": "🔝",
+    "code": "U+1F51D"
+  },
+  "place of worship": {
+    "char": "🛐",
+    "code": "U+1F6D0"
+  },
+  "atom symbol": {
+    "char": "⚛",
+    "code": "U+269B"
+  },
+  "om": {
+    "char": "🕉",
+    "code": "U+1F549"
+  },
+  "star of David": {
+    "char": "✡",
+    "code": "U+2721"
+  },
+  "wheel of dharma": {
+    "char": "☸",
+    "code": "U+2638"
+  },
+  "yin yang": {
+    "char": "☯",
+    "code": "U+262F"
+  },
+  "latin cross": {
+    "char": "✝",
+    "code": "U+271D"
+  },
+  "orthodox cross": {
+    "char": "☦",
+    "code": "U+2626"
+  },
+  "star and crescent": {
+    "char": "☪",
+    "code": "U+262A"
+  },
+  "peace symbol": {
+    "char": "☮",
+    "code": "U+262E"
+  },
+  "menorah": {
+    "char": "🕎",
+    "code": "U+1F54E"
+  },
+  "dotted six-pointed star": {
+    "char": "🔯",
+    "code": "U+1F52F"
+  },
+  "Aries": {
+    "char": "♈",
+    "code": "U+2648"
+  },
+  "Taurus": {
+    "char": "♉",
+    "code": "U+2649"
+  },
+  "Gemini": {
+    "char": "♊",
+    "code": "U+264A"
+  },
+  "Cancer": {
+    "char": "♋",
+    "code": "U+264B"
+  },
+  "Leo": {
+    "char": "♌",
+    "code": "U+264C"
+  },
+  "Virgo": {
+    "char": "♍",
+    "code": "U+264D"
+  },
+  "Libra": {
+    "char": "♎",
+    "code": "U+264E"
+  },
+  "Scorpio": {
+    "char": "♏",
+    "code": "U+264F"
+  },
+  "Sagittarius": {
+    "char": "♐",
+    "code": "U+2650"
+  },
+  "Capricorn": {
+    "char": "♑",
+    "code": "U+2651"
+  },
+  "Aquarius": {
+    "char": "♒",
+    "code": "U+2652"
+  },
+  "Pisces": {
+    "char": "♓",
+    "code": "U+2653"
+  },
+  "Ophiuchus": {
+    "char": "⛎",
+    "code": "U+26CE"
+  },
+  "shuffle tracks button": {
+    "char": "🔀",
+    "code": "U+1F500"
+  },
+  "repeat button": {
+    "char": "🔁",
+    "code": "U+1F501"
+  },
+  "repeat single button": {
+    "char": "🔂",
+    "code": "U+1F502"
+  },
+  "play button": {
+    "char": "▶",
+    "code": "U+25B6"
+  },
+  "fast-forward button": {
+    "char": "⏩",
+    "code": "U+23E9"
+  },
+  "next track button": {
+    "char": "⏭",
+    "code": "U+23ED"
+  },
+  "play or pause button": {
+    "char": "⏯",
+    "code": "U+23EF"
+  },
+  "reverse button": {
+    "char": "◀",
+    "code": "U+25C0"
+  },
+  "fast reverse button": {
+    "char": "⏪",
+    "code": "U+23EA"
+  },
+  "last track button": {
+    "char": "⏮",
+    "code": "U+23EE"
+  },
+  "upwards button": {
+    "char": "🔼",
+    "code": "U+1F53C"
+  },
+  "fast up button": {
+    "char": "⏫",
+    "code": "U+23EB"
+  },
+  "downwards button": {
+    "char": "🔽",
+    "code": "U+1F53D"
+  },
+  "fast down button": {
+    "char": "⏬",
+    "code": "U+23EC"
+  },
+  "pause button": {
+    "char": "⏸",
+    "code": "U+23F8"
+  },
+  "stop button": {
+    "char": "⏹",
+    "code": "U+23F9"
+  },
+  "record button": {
+    "char": "⏺",
+    "code": "U+23FA"
+  },
+  "eject button": {
+    "char": "⏏",
+    "code": "U+23CF"
+  },
+  "cinema": {
+    "char": "🎦",
+    "code": "U+1F3A6"
+  },
+  "dim button": {
+    "char": "🔅",
+    "code": "U+1F505"
+  },
+  "bright button": {
+    "char": "🔆",
+    "code": "U+1F506"
+  },
+  "antenna bars": {
+    "char": "📶",
+    "code": "U+1F4F6"
+  },
+  "vibration mode": {
+    "char": "📳",
+    "code": "U+1F4F3"
+  },
+  "mobile phone off": {
+    "char": "📴",
+    "code": "U+1F4F4"
+  },
+  "female sign": {
+    "char": "♀",
+    "code": "U+2640"
+  },
+  "male sign": {
+    "char": "♂",
+    "code": "U+2642"
+  },
+  "medical symbol": {
+    "char": "⚕",
+    "code": "U+2695"
+  },
+  "infinity": {
+    "char": "♾",
+    "code": "U+267E"
+  },
+  "recycling symbol": {
+    "char": "♻",
+    "code": "U+267B"
+  },
+  "fleur-de-lis": {
+    "char": "⚜",
+    "code": "U+269C"
+  },
+  "trident emblem": {
+    "char": "🔱",
+    "code": "U+1F531"
+  },
+  "name badge": {
+    "char": "📛",
+    "code": "U+1F4DB"
+  },
+  "Japanese symbol for beginner": {
+    "char": "🔰",
+    "code": "U+1F530"
+  },
+  "hollow red circle": {
+    "char": "⭕",
+    "code": "U+2B55"
+  },
+  "check mark button": {
+    "char": "✅",
+    "code": "U+2705"
+  },
+  "check box with check": {
+    "char": "☑",
+    "code": "U+2611"
+  },
+  "check mark": {
+    "char": "✔",
+    "code": "U+2714"
+  },
+  "multiplication sign": {
+    "char": "✖",
+    "code": "U+2716"
+  },
+  "cross mark": {
+    "char": "❌",
+    "code": "U+274C"
+  },
+  "cross mark button": {
+    "char": "❎",
+    "code": "U+274E"
+  },
+  "plus sign": {
+    "char": "➕",
+    "code": "U+2795"
+  },
+  "minus sign": {
+    "char": "➖",
+    "code": "U+2796"
+  },
+  "division sign": {
+    "char": "➗",
+    "code": "U+2797"
+  },
+  "curly loop": {
+    "char": "➰",
+    "code": "U+27B0"
+  },
+  "double curly loop": {
+    "char": "➿",
+    "code": "U+27BF"
+  },
+  "part alternation mark": {
+    "char": "〽",
+    "code": "U+303D"
+  },
+  "eight-spoked asterisk": {
+    "char": "✳",
+    "code": "U+2733"
+  },
+  "eight-pointed star": {
+    "char": "✴",
+    "code": "U+2734"
+  },
+  "sparkle": {
+    "char": "❇",
+    "code": "U+2747"
+  },
+  "double exclamation mark": {
+    "char": "‼",
+    "code": "U+203C"
+  },
+  "exclamation question mark": {
+    "char": "⁉",
+    "code": "U+2049"
+  },
+  "question mark": {
+    "char": "❓",
+    "code": "U+2753"
+  },
+  "white question mark": {
+    "char": "❔",
+    "code": "U+2754"
+  },
+  "white exclamation mark": {
+    "char": "❕",
+    "code": "U+2755"
+  },
+  "exclamation mark": {
+    "char": "❗",
+    "code": "U+2757"
+  },
+  "wavy dash": {
+    "char": "〰",
+    "code": "U+3030"
+  },
+  "copyright": {
+    "char": "©",
+    "code": "U+00A9"
+  },
+  "registered": {
+    "char": "®",
+    "code": "U+00AE"
+  },
+  "trade mark": {
+    "char": "™",
+    "code": "U+2122"
+  },
+  "keycap: #": {
+    "char": "#️⃣",
+    "code": "U+0023 U+FE0F U+20E3"
+  },
+  "keycap: *": {
+    "char": "*️⃣",
+    "code": "U+002A U+FE0F U+20E3"
+  },
+  "keycap: 0": {
+    "char": "0️⃣",
+    "code": "U+0030 U+FE0F U+20E3"
+  },
+  "keycap: 1": {
+    "char": "1️⃣",
+    "code": "U+0031 U+FE0F U+20E3"
+  },
+  "keycap: 2": {
+    "char": "2️⃣",
+    "code": "U+0032 U+FE0F U+20E3"
+  },
+  "keycap: 3": {
+    "char": "3️⃣",
+    "code": "U+0033 U+FE0F U+20E3"
+  },
+  "keycap: 4": {
+    "char": "4️⃣",
+    "code": "U+0034 U+FE0F U+20E3"
+  },
+  "keycap: 5": {
+    "char": "5️⃣",
+    "code": "U+0035 U+FE0F U+20E3"
+  },
+  "keycap: 6": {
+    "char": "6️⃣",
+    "code": "U+0036 U+FE0F U+20E3"
+  },
+  "keycap: 7": {
+    "char": "7️⃣",
+    "code": "U+0037 U+FE0F U+20E3"
+  },
+  "keycap: 8": {
+    "char": "8️⃣",
+    "code": "U+0038 U+FE0F U+20E3"
+  },
+  "keycap: 9": {
+    "char": "9️⃣",
+    "code": "U+0039 U+FE0F U+20E3"
+  },
+  "keycap: 10": {
+    "char": "🔟",
+    "code": "U+1F51F"
+  },
+  "input latin uppercase": {
+    "char": "🔠",
+    "code": "U+1F520"
+  },
+  "input latin lowercase": {
+    "char": "🔡",
+    "code": "U+1F521"
+  },
+  "input numbers": {
+    "char": "🔢",
+    "code": "U+1F522"
+  },
+  "input symbols": {
+    "char": "🔣",
+    "code": "U+1F523"
+  },
+  "input latin letters": {
+    "char": "🔤",
+    "code": "U+1F524"
+  },
+  "A button (blood type)": {
+    "char": "🅰",
+    "code": "U+1F170"
+  },
+  "AB button (blood type)": {
+    "char": "🆎",
+    "code": "U+1F18E"
+  },
+  "B button (blood type)": {
+    "char": "🅱",
+    "code": "U+1F171"
+  },
+  "CL button": {
+    "char": "🆑",
+    "code": "U+1F191"
+  },
+  "COOL button": {
+    "char": "🆒",
+    "code": "U+1F192"
+  },
+  "FREE button": {
+    "char": "🆓",
+    "code": "U+1F193"
+  },
+  "information": {
+    "char": "ℹ",
+    "code": "U+2139"
+  },
+  "ID button": {
+    "char": "🆔",
+    "code": "U+1F194"
+  },
+  "circled M": {
+    "char": "Ⓜ",
+    "code": "U+24C2"
+  },
+  "NEW button": {
+    "char": "🆕",
+    "code": "U+1F195"
+  },
+  "NG button": {
+    "char": "🆖",
+    "code": "U+1F196"
+  },
+  "O button (blood type)": {
+    "char": "🅾",
+    "code": "U+1F17E"
+  },
+  "OK button": {
+    "char": "🆗",
+    "code": "U+1F197"
+  },
+  "P button": {
+    "char": "🅿",
+    "code": "U+1F17F"
+  },
+  "SOS button": {
+    "char": "🆘",
+    "code": "U+1F198"
+  },
+  "UP! button": {
+    "char": "🆙",
+    "code": "U+1F199"
+  },
+  "VS button": {
+    "char": "🆚",
+    "code": "U+1F19A"
+  },
+  "Japanese “here” button": {
+    "char": "🈁",
+    "code": "U+1F201"
+  },
+  "Japanese “service charge” button": {
+    "char": "🈂",
+    "code": "U+1F202"
+  },
+  "Japanese “monthly amount” button": {
+    "char": "🈷",
+    "code": "U+1F237"
+  },
+  "Japanese “not free of charge” button": {
+    "char": "🈶",
+    "code": "U+1F236"
+  },
+  "Japanese “reserved” button": {
+    "char": "🈯",
+    "code": "U+1F22F"
+  },
+  "Japanese “bargain” button": {
+    "char": "🉐",
+    "code": "U+1F250"
+  },
+  "Japanese “discount” button": {
+    "char": "🈹",
+    "code": "U+1F239"
+  },
+  "Japanese “free of charge” button": {
+    "char": "🈚",
+    "code": "U+1F21A"
+  },
+  "Japanese “prohibited” button": {
+    "char": "🈲",
+    "code": "U+1F232"
+  },
+  "Japanese “acceptable” button": {
+    "char": "🉑",
+    "code": "U+1F251"
+  },
+  "Japanese “application” button": {
+    "char": "🈸",
+    "code": "U+1F238"
+  },
+  "Japanese “passing grade” button": {
+    "char": "🈴",
+    "code": "U+1F234"
+  },
+  "Japanese “vacancy” button": {
+    "char": "🈳",
+    "code": "U+1F233"
+  },
+  "Japanese “congratulations” button": {
+    "char": "㊗",
+    "code": "U+3297"
+  },
+  "Japanese “secret” button": {
+    "char": "㊙",
+    "code": "U+3299"
+  },
+  "Japanese “open for business” button": {
+    "char": "🈺",
+    "code": "U+1F23A"
+  },
+  "Japanese “no vacancy” button": {
+    "char": "🈵",
+    "code": "U+1F235"
+  },
+  "red circle": {
+    "char": "🔴",
+    "code": "U+1F534"
+  },
+  "orange circle": {
+    "char": "🟠",
+    "code": "U+1F7E0"
+  },
+  "yellow circle": {
+    "char": "🟡",
+    "code": "U+1F7E1"
+  },
+  "green circle": {
+    "char": "🟢",
+    "code": "U+1F7E2"
+  },
+  "blue circle": {
+    "char": "🔵",
+    "code": "U+1F535"
+  },
+  "purple circle": {
+    "char": "🟣",
+    "code": "U+1F7E3"
+  },
+  "brown circle": {
+    "char": "🟤",
+    "code": "U+1F7E4"
+  },
+  "black circle": {
+    "char": "⚫",
+    "code": "U+26AB"
+  },
+  "white circle": {
+    "char": "⚪",
+    "code": "U+26AA"
+  },
+  "red square": {
+    "char": "🟥",
+    "code": "U+1F7E5"
+  },
+  "orange square": {
+    "char": "🟧",
+    "code": "U+1F7E7"
+  },
+  "yellow square": {
+    "char": "🟨",
+    "code": "U+1F7E8"
+  },
+  "green square": {
+    "char": "🟩",
+    "code": "U+1F7E9"
+  },
+  "blue square": {
+    "char": "🟦",
+    "code": "U+1F7E6"
+  },
+  "purple square": {
+    "char": "🟪",
+    "code": "U+1F7EA"
+  },
+  "brown square": {
+    "char": "🟫",
+    "code": "U+1F7EB"
+  },
+  "black large square": {
+    "char": "⬛",
+    "code": "U+2B1B"
+  },
+  "white large square": {
+    "char": "⬜",
+    "code": "U+2B1C"
+  },
+  "black medium square": {
+    "char": "◼",
+    "code": "U+25FC"
+  },
+  "white medium square": {
+    "char": "◻",
+    "code": "U+25FB"
+  },
+  "black medium-small square": {
+    "char": "◾",
+    "code": "U+25FE"
+  },
+  "white medium-small square": {
+    "char": "◽",
+    "code": "U+25FD"
+  },
+  "black small square": {
+    "char": "▪",
+    "code": "U+25AA"
+  },
+  "white small square": {
+    "char": "▫",
+    "code": "U+25AB"
+  },
+  "large orange diamond": {
+    "char": "🔶",
+    "code": "U+1F536"
+  },
+  "large blue diamond": {
+    "char": "🔷",
+    "code": "U+1F537"
+  },
+  "small orange diamond": {
+    "char": "🔸",
+    "code": "U+1F538"
+  },
+  "small blue diamond": {
+    "char": "🔹",
+    "code": "U+1F539"
+  },
+  "red triangle pointed up": {
+    "char": "🔺",
+    "code": "U+1F53A"
+  },
+  "red triangle pointed down": {
+    "char": "🔻",
+    "code": "U+1F53B"
+  },
+  "diamond with a dot": {
+    "char": "💠",
+    "code": "U+1F4A0"
+  },
+  "radio button": {
+    "char": "🔘",
+    "code": "U+1F518"
+  },
+  "white square button": {
+    "char": "🔳",
+    "code": "U+1F533"
+  },
+  "black square button": {
+    "char": "🔲",
+    "code": "U+1F532"
+  },
+  "chequered flag": {
+    "char": "🏁",
+    "code": "U+1F3C1"
+  },
+  "triangular flag": {
+    "char": "🚩",
+    "code": "U+1F6A9"
+  },
+  "crossed flags": {
+    "char": "🎌",
+    "code": "U+1F38C"
+  },
+  "black flag": {
+    "char": "🏴",
+    "code": "U+1F3F4"
+  },
+  "white flag": {
+    "char": "🏳",
+    "code": "U+1F3F3"
+  },
+  "rainbow flag": {
+    "char": "🏳️‍🌈",
+    "code": "U+1F3F3 U+FE0F U+200D U+1F308"
+  },
+  "pirate flag": {
+    "char": "🏴‍☠️",
+    "code": "U+1F3F4 U+200D U+2620 U+FE0F"
+  },
+  "flag: Ascension Island": {
+    "char": "🇦🇨",
+    "code": "U+1F1E6 U+1F1E8"
+  },
+  "flag: Andorra": {
+    "char": "🇦🇩",
+    "code": "U+1F1E6 U+1F1E9"
+  },
+  "flag: United Arab Emirates": {
+    "char": "🇦🇪",
+    "code": "U+1F1E6 U+1F1EA"
+  },
+  "flag: Afghanistan": {
+    "char": "🇦🇫",
+    "code": "U+1F1E6 U+1F1EB"
+  },
+  "flag: Antigua & Barbuda": {
+    "char": "🇦🇬",
+    "code": "U+1F1E6 U+1F1EC"
+  },
+  "flag: Anguilla": {
+    "char": "🇦🇮",
+    "code": "U+1F1E6 U+1F1EE"
+  },
+  "flag: Albania": {
+    "char": "🇦🇱",
+    "code": "U+1F1E6 U+1F1F1"
+  },
+  "flag: Armenia": {
+    "char": "🇦🇲",
+    "code": "U+1F1E6 U+1F1F2"
+  },
+  "flag: Angola": {
+    "char": "🇦🇴",
+    "code": "U+1F1E6 U+1F1F4"
+  },
+  "flag: Antarctica": {
+    "char": "🇦🇶",
+    "code": "U+1F1E6 U+1F1F6"
+  },
+  "flag: Argentina": {
+    "char": "🇦🇷",
+    "code": "U+1F1E6 U+1F1F7"
+  },
+  "flag: American Samoa": {
+    "char": "🇦🇸",
+    "code": "U+1F1E6 U+1F1F8"
+  },
+  "flag: Austria": {
+    "char": "🇦🇹",
+    "code": "U+1F1E6 U+1F1F9"
+  },
+  "flag: Australia": {
+    "char": "🇦🇺",
+    "code": "U+1F1E6 U+1F1FA"
+  },
+  "flag: Aruba": {
+    "char": "🇦🇼",
+    "code": "U+1F1E6 U+1F1FC"
+  },
+  "flag: Åland Islands": {
+    "char": "🇦🇽",
+    "code": "U+1F1E6 U+1F1FD"
+  },
+  "flag: Azerbaijan": {
+    "char": "🇦🇿",
+    "code": "U+1F1E6 U+1F1FF"
+  },
+  "flag: Bosnia & Herzegovina": {
+    "char": "🇧🇦",
+    "code": "U+1F1E7 U+1F1E6"
+  },
+  "flag: Barbados": {
+    "char": "🇧🇧",
+    "code": "U+1F1E7 U+1F1E7"
+  },
+  "flag: Bangladesh": {
+    "char": "🇧🇩",
+    "code": "U+1F1E7 U+1F1E9"
+  },
+  "flag: Belgium": {
+    "char": "🇧🇪",
+    "code": "U+1F1E7 U+1F1EA"
+  },
+  "flag: Burkina Faso": {
+    "char": "🇧🇫",
+    "code": "U+1F1E7 U+1F1EB"
+  },
+  "flag: Bulgaria": {
+    "char": "🇧🇬",
+    "code": "U+1F1E7 U+1F1EC"
+  },
+  "flag: Bahrain": {
+    "char": "🇧🇭",
+    "code": "U+1F1E7 U+1F1ED"
+  },
+  "flag: Burundi": {
+    "char": "🇧🇮",
+    "code": "U+1F1E7 U+1F1EE"
+  },
+  "flag: Benin": {
+    "char": "🇧🇯",
+    "code": "U+1F1E7 U+1F1EF"
+  },
+  "flag: St. Barthélemy": {
+    "char": "🇧🇱",
+    "code": "U+1F1E7 U+1F1F1"
+  },
+  "flag: Bermuda": {
+    "char": "🇧🇲",
+    "code": "U+1F1E7 U+1F1F2"
+  },
+  "flag: Brunei": {
+    "char": "🇧🇳",
+    "code": "U+1F1E7 U+1F1F3"
+  },
+  "flag: Bolivia": {
+    "char": "🇧🇴",
+    "code": "U+1F1E7 U+1F1F4"
+  },
+  "flag: Caribbean Netherlands": {
+    "char": "🇧🇶",
+    "code": "U+1F1E7 U+1F1F6"
+  },
+  "flag: Brazil": {
+    "char": "🇧🇷",
+    "code": "U+1F1E7 U+1F1F7"
+  },
+  "flag: Bahamas": {
+    "char": "🇧🇸",
+    "code": "U+1F1E7 U+1F1F8"
+  },
+  "flag: Bhutan": {
+    "char": "🇧🇹",
+    "code": "U+1F1E7 U+1F1F9"
+  },
+  "flag: Bouvet Island": {
+    "char": "🇧🇻",
+    "code": "U+1F1E7 U+1F1FB"
+  },
+  "flag: Botswana": {
+    "char": "🇧🇼",
+    "code": "U+1F1E7 U+1F1FC"
+  },
+  "flag: Belarus": {
+    "char": "🇧🇾",
+    "code": "U+1F1E7 U+1F1FE"
+  },
+  "flag: Belize": {
+    "char": "🇧🇿",
+    "code": "U+1F1E7 U+1F1FF"
+  },
+  "flag: Canada": {
+    "char": "🇨🇦",
+    "code": "U+1F1E8 U+1F1E6"
+  },
+  "flag: Cocos (Keeling) Islands": {
+    "char": "🇨🇨",
+    "code": "U+1F1E8 U+1F1E8"
+  },
+  "flag: Congo - Kinshasa": {
+    "char": "🇨🇩",
+    "code": "U+1F1E8 U+1F1E9"
+  },
+  "flag: Central African Republic": {
+    "char": "🇨🇫",
+    "code": "U+1F1E8 U+1F1EB"
+  },
+  "flag: Congo - Brazzaville": {
+    "char": "🇨🇬",
+    "code": "U+1F1E8 U+1F1EC"
+  },
+  "flag: Switzerland": {
+    "char": "🇨🇭",
+    "code": "U+1F1E8 U+1F1ED"
+  },
+  "flag: Côte d’Ivoire": {
+    "char": "🇨🇮",
+    "code": "U+1F1E8 U+1F1EE"
+  },
+  "flag: Cook Islands": {
+    "char": "🇨🇰",
+    "code": "U+1F1E8 U+1F1F0"
+  },
+  "flag: Chile": {
+    "char": "🇨🇱",
+    "code": "U+1F1E8 U+1F1F1"
+  },
+  "flag: Cameroon": {
+    "char": "🇨🇲",
+    "code": "U+1F1E8 U+1F1F2"
+  },
+  "flag: China": {
+    "char": "🇨🇳",
+    "code": "U+1F1E8 U+1F1F3"
+  },
+  "flag: Colombia": {
+    "char": "🇨🇴",
+    "code": "U+1F1E8 U+1F1F4"
+  },
+  "flag: Clipperton Island": {
+    "char": "🇨🇵",
+    "code": "U+1F1E8 U+1F1F5"
+  },
+  "flag: Costa Rica": {
+    "char": "🇨🇷",
+    "code": "U+1F1E8 U+1F1F7"
+  },
+  "flag: Cuba": {
+    "char": "🇨🇺",
+    "code": "U+1F1E8 U+1F1FA"
+  },
+  "flag: Cape Verde": {
+    "char": "🇨🇻",
+    "code": "U+1F1E8 U+1F1FB"
+  },
+  "flag: Curaçao": {
+    "char": "🇨🇼",
+    "code": "U+1F1E8 U+1F1FC"
+  },
+  "flag: Christmas Island": {
+    "char": "🇨🇽",
+    "code": "U+1F1E8 U+1F1FD"
+  },
+  "flag: Cyprus": {
+    "char": "🇨🇾",
+    "code": "U+1F1E8 U+1F1FE"
+  },
+  "flag: Czechia": {
+    "char": "🇨🇿",
+    "code": "U+1F1E8 U+1F1FF"
+  },
+  "flag: Germany": {
+    "char": "🇩🇪",
+    "code": "U+1F1E9 U+1F1EA"
+  },
+  "flag: Diego Garcia": {
+    "char": "🇩🇬",
+    "code": "U+1F1E9 U+1F1EC"
+  },
+  "flag: Djibouti": {
+    "char": "🇩🇯",
+    "code": "U+1F1E9 U+1F1EF"
+  },
+  "flag: Denmark": {
+    "char": "🇩🇰",
+    "code": "U+1F1E9 U+1F1F0"
+  },
+  "flag: Dominica": {
+    "char": "🇩🇲",
+    "code": "U+1F1E9 U+1F1F2"
+  },
+  "flag: Dominican Republic": {
+    "char": "🇩🇴",
+    "code": "U+1F1E9 U+1F1F4"
+  },
+  "flag: Algeria": {
+    "char": "🇩🇿",
+    "code": "U+1F1E9 U+1F1FF"
+  },
+  "flag: Ceuta & Melilla": {
+    "char": "🇪🇦",
+    "code": "U+1F1EA U+1F1E6"
+  },
+  "flag: Ecuador": {
+    "char": "🇪🇨",
+    "code": "U+1F1EA U+1F1E8"
+  },
+  "flag: Estonia": {
+    "char": "🇪🇪",
+    "code": "U+1F1EA U+1F1EA"
+  },
+  "flag: Egypt": {
+    "char": "🇪🇬",
+    "code": "U+1F1EA U+1F1EC"
+  },
+  "flag: Western Sahara": {
+    "char": "🇪🇭",
+    "code": "U+1F1EA U+1F1ED"
+  },
+  "flag: Eritrea": {
+    "char": "🇪🇷",
+    "code": "U+1F1EA U+1F1F7"
+  },
+  "flag: Spain": {
+    "char": "🇪🇸",
+    "code": "U+1F1EA U+1F1F8"
+  },
+  "flag: Ethiopia": {
+    "char": "🇪🇹",
+    "code": "U+1F1EA U+1F1F9"
+  },
+  "flag: European Union": {
+    "char": "🇪🇺",
+    "code": "U+1F1EA U+1F1FA"
+  },
+  "flag: Finland": {
+    "char": "🇫🇮",
+    "code": "U+1F1EB U+1F1EE"
+  },
+  "flag: Fiji": {
+    "char": "🇫🇯",
+    "code": "U+1F1EB U+1F1EF"
+  },
+  "flag: Falkland Islands": {
+    "char": "🇫🇰",
+    "code": "U+1F1EB U+1F1F0"
+  },
+  "flag: Micronesia": {
+    "char": "🇫🇲",
+    "code": "U+1F1EB U+1F1F2"
+  },
+  "flag: Faroe Islands": {
+    "char": "🇫🇴",
+    "code": "U+1F1EB U+1F1F4"
+  },
+  "flag: France": {
+    "char": "🇫🇷",
+    "code": "U+1F1EB U+1F1F7"
+  },
+  "flag: Gabon": {
+    "char": "🇬🇦",
+    "code": "U+1F1EC U+1F1E6"
+  },
+  "flag: United Kingdom": {
+    "char": "🇬🇧",
+    "code": "U+1F1EC U+1F1E7"
+  },
+  "flag: Grenada": {
+    "char": "🇬🇩",
+    "code": "U+1F1EC U+1F1E9"
+  },
+  "flag: Georgia": {
+    "char": "🇬🇪",
+    "code": "U+1F1EC U+1F1EA"
+  },
+  "flag: French Guiana": {
+    "char": "🇬🇫",
+    "code": "U+1F1EC U+1F1EB"
+  },
+  "flag: Guernsey": {
+    "char": "🇬🇬",
+    "code": "U+1F1EC U+1F1EC"
+  },
+  "flag: Ghana": {
+    "char": "🇬🇭",
+    "code": "U+1F1EC U+1F1ED"
+  },
+  "flag: Gibraltar": {
+    "char": "🇬🇮",
+    "code": "U+1F1EC U+1F1EE"
+  },
+  "flag: Greenland": {
+    "char": "🇬🇱",
+    "code": "U+1F1EC U+1F1F1"
+  },
+  "flag: Gambia": {
+    "char": "🇬🇲",
+    "code": "U+1F1EC U+1F1F2"
+  },
+  "flag: Guinea": {
+    "char": "🇬🇳",
+    "code": "U+1F1EC U+1F1F3"
+  },
+  "flag: Guadeloupe": {
+    "char": "🇬🇵",
+    "code": "U+1F1EC U+1F1F5"
+  },
+  "flag: Equatorial Guinea": {
+    "char": "🇬🇶",
+    "code": "U+1F1EC U+1F1F6"
+  },
+  "flag: Greece": {
+    "char": "🇬🇷",
+    "code": "U+1F1EC U+1F1F7"
+  },
+  "flag: South Georgia & South Sandwich Islands": {
+    "char": "🇬🇸",
+    "code": "U+1F1EC U+1F1F8"
+  },
+  "flag: Guatemala": {
+    "char": "🇬🇹",
+    "code": "U+1F1EC U+1F1F9"
+  },
+  "flag: Guam": {
+    "char": "🇬🇺",
+    "code": "U+1F1EC U+1F1FA"
+  },
+  "flag: Guinea-Bissau": {
+    "char": "🇬🇼",
+    "code": "U+1F1EC U+1F1FC"
+  },
+  "flag: Guyana": {
+    "char": "🇬🇾",
+    "code": "U+1F1EC U+1F1FE"
+  },
+  "flag: Hong Kong SAR China": {
+    "char": "🇭🇰",
+    "code": "U+1F1ED U+1F1F0"
+  },
+  "flag: Heard & McDonald Islands": {
+    "char": "🇭🇲",
+    "code": "U+1F1ED U+1F1F2"
+  },
+  "flag: Honduras": {
+    "char": "🇭🇳",
+    "code": "U+1F1ED U+1F1F3"
+  },
+  "flag: Croatia": {
+    "char": "🇭🇷",
+    "code": "U+1F1ED U+1F1F7"
+  },
+  "flag: Haiti": {
+    "char": "🇭🇹",
+    "code": "U+1F1ED U+1F1F9"
+  },
+  "flag: Hungary": {
+    "char": "🇭🇺",
+    "code": "U+1F1ED U+1F1FA"
+  },
+  "flag: Canary Islands": {
+    "char": "🇮🇨",
+    "code": "U+1F1EE U+1F1E8"
+  },
+  "flag: Indonesia": {
+    "char": "🇮🇩",
+    "code": "U+1F1EE U+1F1E9"
+  },
+  "flag: Ireland": {
+    "char": "🇮🇪",
+    "code": "U+1F1EE U+1F1EA"
+  },
+  "flag: Israel": {
+    "char": "🇮🇱",
+    "code": "U+1F1EE U+1F1F1"
+  },
+  "flag: Isle of Man": {
+    "char": "🇮🇲",
+    "code": "U+1F1EE U+1F1F2"
+  },
+  "flag: India": {
+    "char": "🇮🇳",
+    "code": "U+1F1EE U+1F1F3"
+  },
+  "flag: British Indian Ocean Territory": {
+    "char": "🇮🇴",
+    "code": "U+1F1EE U+1F1F4"
+  },
+  "flag: Iraq": {
+    "char": "🇮🇶",
+    "code": "U+1F1EE U+1F1F6"
+  },
+  "flag: Iran": {
+    "char": "🇮🇷",
+    "code": "U+1F1EE U+1F1F7"
+  },
+  "flag: Iceland": {
+    "char": "🇮🇸",
+    "code": "U+1F1EE U+1F1F8"
+  },
+  "flag: Italy": {
+    "char": "🇮🇹",
+    "code": "U+1F1EE U+1F1F9"
+  },
+  "flag: Jersey": {
+    "char": "🇯🇪",
+    "code": "U+1F1EF U+1F1EA"
+  },
+  "flag: Jamaica": {
+    "char": "🇯🇲",
+    "code": "U+1F1EF U+1F1F2"
+  },
+  "flag: Jordan": {
+    "char": "🇯🇴",
+    "code": "U+1F1EF U+1F1F4"
+  },
+  "flag: Japan": {
+    "char": "🇯🇵",
+    "code": "U+1F1EF U+1F1F5"
+  },
+  "flag: Kenya": {
+    "char": "🇰🇪",
+    "code": "U+1F1F0 U+1F1EA"
+  },
+  "flag: Kyrgyzstan": {
+    "char": "🇰🇬",
+    "code": "U+1F1F0 U+1F1EC"
+  },
+  "flag: Cambodia": {
+    "char": "🇰🇭",
+    "code": "U+1F1F0 U+1F1ED"
+  },
+  "flag: Kiribati": {
+    "char": "🇰🇮",
+    "code": "U+1F1F0 U+1F1EE"
+  },
+  "flag: Comoros": {
+    "char": "🇰🇲",
+    "code": "U+1F1F0 U+1F1F2"
+  },
+  "flag: St. Kitts & Nevis": {
+    "char": "🇰🇳",
+    "code": "U+1F1F0 U+1F1F3"
+  },
+  "flag: North Korea": {
+    "char": "🇰🇵",
+    "code": "U+1F1F0 U+1F1F5"
+  },
+  "flag: South Korea": {
+    "char": "🇰🇷",
+    "code": "U+1F1F0 U+1F1F7"
+  },
+  "flag: Kuwait": {
+    "char": "🇰🇼",
+    "code": "U+1F1F0 U+1F1FC"
+  },
+  "flag: Cayman Islands": {
+    "char": "🇰🇾",
+    "code": "U+1F1F0 U+1F1FE"
+  },
+  "flag: Kazakhstan": {
+    "char": "🇰🇿",
+    "code": "U+1F1F0 U+1F1FF"
+  },
+  "flag: Laos": {
+    "char": "🇱🇦",
+    "code": "U+1F1F1 U+1F1E6"
+  },
+  "flag: Lebanon": {
+    "char": "🇱🇧",
+    "code": "U+1F1F1 U+1F1E7"
+  },
+  "flag: St. Lucia": {
+    "char": "🇱🇨",
+    "code": "U+1F1F1 U+1F1E8"
+  },
+  "flag: Liechtenstein": {
+    "char": "🇱🇮",
+    "code": "U+1F1F1 U+1F1EE"
+  },
+  "flag: Sri Lanka": {
+    "char": "🇱🇰",
+    "code": "U+1F1F1 U+1F1F0"
+  },
+  "flag: Liberia": {
+    "char": "🇱🇷",
+    "code": "U+1F1F1 U+1F1F7"
+  },
+  "flag: Lesotho": {
+    "char": "🇱🇸",
+    "code": "U+1F1F1 U+1F1F8"
+  },
+  "flag: Lithuania": {
+    "char": "🇱🇹",
+    "code": "U+1F1F1 U+1F1F9"
+  },
+  "flag: Luxembourg": {
+    "char": "🇱🇺",
+    "code": "U+1F1F1 U+1F1FA"
+  },
+  "flag: Latvia": {
+    "char": "🇱🇻",
+    "code": "U+1F1F1 U+1F1FB"
+  },
+  "flag: Libya": {
+    "char": "🇱🇾",
+    "code": "U+1F1F1 U+1F1FE"
+  },
+  "flag: Morocco": {
+    "char": "🇲🇦",
+    "code": "U+1F1F2 U+1F1E6"
+  },
+  "flag: Monaco": {
+    "char": "🇲🇨",
+    "code": "U+1F1F2 U+1F1E8"
+  },
+  "flag: Moldova": {
+    "char": "🇲🇩",
+    "code": "U+1F1F2 U+1F1E9"
+  },
+  "flag: Montenegro": {
+    "char": "🇲🇪",
+    "code": "U+1F1F2 U+1F1EA"
+  },
+  "flag: St. Martin": {
+    "char": "🇲🇫",
+    "code": "U+1F1F2 U+1F1EB"
+  },
+  "flag: Madagascar": {
+    "char": "🇲🇬",
+    "code": "U+1F1F2 U+1F1EC"
+  },
+  "flag: Marshall Islands": {
+    "char": "🇲🇭",
+    "code": "U+1F1F2 U+1F1ED"
+  },
+  "flag: North Macedonia": {
+    "char": "🇲🇰",
+    "code": "U+1F1F2 U+1F1F0"
+  },
+  "flag: Mali": {
+    "char": "🇲🇱",
+    "code": "U+1F1F2 U+1F1F1"
+  },
+  "flag: Myanmar (Burma)": {
+    "char": "🇲🇲",
+    "code": "U+1F1F2 U+1F1F2"
+  },
+  "flag: Mongolia": {
+    "char": "🇲🇳",
+    "code": "U+1F1F2 U+1F1F3"
+  },
+  "flag: Macao SAR China": {
+    "char": "🇲🇴",
+    "code": "U+1F1F2 U+1F1F4"
+  },
+  "flag: Northern Mariana Islands": {
+    "char": "🇲🇵",
+    "code": "U+1F1F2 U+1F1F5"
+  },
+  "flag: Martinique": {
+    "char": "🇲🇶",
+    "code": "U+1F1F2 U+1F1F6"
+  },
+  "flag: Mauritania": {
+    "char": "🇲🇷",
+    "code": "U+1F1F2 U+1F1F7"
+  },
+  "flag: Montserrat": {
+    "char": "🇲🇸",
+    "code": "U+1F1F2 U+1F1F8"
+  },
+  "flag: Malta": {
+    "char": "🇲🇹",
+    "code": "U+1F1F2 U+1F1F9"
+  },
+  "flag: Mauritius": {
+    "char": "🇲🇺",
+    "code": "U+1F1F2 U+1F1FA"
+  },
+  "flag: Maldives": {
+    "char": "🇲🇻",
+    "code": "U+1F1F2 U+1F1FB"
+  },
+  "flag: Malawi": {
+    "char": "🇲🇼",
+    "code": "U+1F1F2 U+1F1FC"
+  },
+  "flag: Mexico": {
+    "char": "🇲🇽",
+    "code": "U+1F1F2 U+1F1FD"
+  },
+  "flag: Malaysia": {
+    "char": "🇲🇾",
+    "code": "U+1F1F2 U+1F1FE"
+  },
+  "flag: Mozambique": {
+    "char": "🇲🇿",
+    "code": "U+1F1F2 U+1F1FF"
+  },
+  "flag: Namibia": {
+    "char": "🇳🇦",
+    "code": "U+1F1F3 U+1F1E6"
+  },
+  "flag: New Caledonia": {
+    "char": "🇳🇨",
+    "code": "U+1F1F3 U+1F1E8"
+  },
+  "flag: Niger": {
+    "char": "🇳🇪",
+    "code": "U+1F1F3 U+1F1EA"
+  },
+  "flag: Norfolk Island": {
+    "char": "🇳🇫",
+    "code": "U+1F1F3 U+1F1EB"
+  },
+  "flag: Nigeria": {
+    "char": "🇳🇬",
+    "code": "U+1F1F3 U+1F1EC"
+  },
+  "flag: Nicaragua": {
+    "char": "🇳🇮",
+    "code": "U+1F1F3 U+1F1EE"
+  },
+  "flag: Netherlands": {
+    "char": "🇳🇱",
+    "code": "U+1F1F3 U+1F1F1"
+  },
+  "flag: Norway": {
+    "char": "🇳🇴",
+    "code": "U+1F1F3 U+1F1F4"
+  },
+  "flag: Nepal": {
+    "char": "🇳🇵",
+    "code": "U+1F1F3 U+1F1F5"
+  },
+  "flag: Nauru": {
+    "char": "🇳🇷",
+    "code": "U+1F1F3 U+1F1F7"
+  },
+  "flag: Niue": {
+    "char": "🇳🇺",
+    "code": "U+1F1F3 U+1F1FA"
+  },
+  "flag: New Zealand": {
+    "char": "🇳🇿",
+    "code": "U+1F1F3 U+1F1FF"
+  },
+  "flag: Oman": {
+    "char": "🇴🇲",
+    "code": "U+1F1F4 U+1F1F2"
+  },
+  "flag: Panama": {
+    "char": "🇵🇦",
+    "code": "U+1F1F5 U+1F1E6"
+  },
+  "flag: Peru": {
+    "char": "🇵🇪",
+    "code": "U+1F1F5 U+1F1EA"
+  },
+  "flag: French Polynesia": {
+    "char": "🇵🇫",
+    "code": "U+1F1F5 U+1F1EB"
+  },
+  "flag: Papua New Guinea": {
+    "char": "🇵🇬",
+    "code": "U+1F1F5 U+1F1EC"
+  },
+  "flag: Philippines": {
+    "char": "🇵🇭",
+    "code": "U+1F1F5 U+1F1ED"
+  },
+  "flag: Pakistan": {
+    "char": "🇵🇰",
+    "code": "U+1F1F5 U+1F1F0"
+  },
+  "flag: Poland": {
+    "char": "🇵🇱",
+    "code": "U+1F1F5 U+1F1F1"
+  },
+  "flag: St. Pierre & Miquelon": {
+    "char": "🇵🇲",
+    "code": "U+1F1F5 U+1F1F2"
+  },
+  "flag: Pitcairn Islands": {
+    "char": "🇵🇳",
+    "code": "U+1F1F5 U+1F1F3"
+  },
+  "flag: Puerto Rico": {
+    "char": "🇵🇷",
+    "code": "U+1F1F5 U+1F1F7"
+  },
+  "flag: Palestinian Territories": {
+    "char": "🇵🇸",
+    "code": "U+1F1F5 U+1F1F8"
+  },
+  "flag: Portugal": {
+    "char": "🇵🇹",
+    "code": "U+1F1F5 U+1F1F9"
+  },
+  "flag: Palau": {
+    "char": "🇵🇼",
+    "code": "U+1F1F5 U+1F1FC"
+  },
+  "flag: Paraguay": {
+    "char": "🇵🇾",
+    "code": "U+1F1F5 U+1F1FE"
+  },
+  "flag: Qatar": {
+    "char": "🇶🇦",
+    "code": "U+1F1F6 U+1F1E6"
+  },
+  "flag: Réunion": {
+    "char": "🇷🇪",
+    "code": "U+1F1F7 U+1F1EA"
+  },
+  "flag: Romania": {
+    "char": "🇷🇴",
+    "code": "U+1F1F7 U+1F1F4"
+  },
+  "flag: Serbia": {
+    "char": "🇷🇸",
+    "code": "U+1F1F7 U+1F1F8"
+  },
+  "flag: Russia": {
+    "char": "🇷🇺",
+    "code": "U+1F1F7 U+1F1FA"
+  },
+  "flag: Rwanda": {
+    "char": "🇷🇼",
+    "code": "U+1F1F7 U+1F1FC"
+  },
+  "flag: Saudi Arabia": {
+    "char": "🇸🇦",
+    "code": "U+1F1F8 U+1F1E6"
+  },
+  "flag: Solomon Islands": {
+    "char": "🇸🇧",
+    "code": "U+1F1F8 U+1F1E7"
+  },
+  "flag: Seychelles": {
+    "char": "🇸🇨",
+    "code": "U+1F1F8 U+1F1E8"
+  },
+  "flag: Sudan": {
+    "char": "🇸🇩",
+    "code": "U+1F1F8 U+1F1E9"
+  },
+  "flag: Sweden": {
+    "char": "🇸🇪",
+    "code": "U+1F1F8 U+1F1EA"
+  },
+  "flag: Singapore": {
+    "char": "🇸🇬",
+    "code": "U+1F1F8 U+1F1EC"
+  },
+  "flag: St. Helena": {
+    "char": "🇸🇭",
+    "code": "U+1F1F8 U+1F1ED"
+  },
+  "flag: Slovenia": {
+    "char": "🇸🇮",
+    "code": "U+1F1F8 U+1F1EE"
+  },
+  "flag: Svalbard & Jan Mayen": {
+    "char": "🇸🇯",
+    "code": "U+1F1F8 U+1F1EF"
+  },
+  "flag: Slovakia": {
+    "char": "🇸🇰",
+    "code": "U+1F1F8 U+1F1F0"
+  },
+  "flag: Sierra Leone": {
+    "char": "🇸🇱",
+    "code": "U+1F1F8 U+1F1F1"
+  },
+  "flag: San Marino": {
+    "char": "🇸🇲",
+    "code": "U+1F1F8 U+1F1F2"
+  },
+  "flag: Senegal": {
+    "char": "🇸🇳",
+    "code": "U+1F1F8 U+1F1F3"
+  },
+  "flag: Somalia": {
+    "char": "🇸🇴",
+    "code": "U+1F1F8 U+1F1F4"
+  },
+  "flag: Suriname": {
+    "char": "🇸🇷",
+    "code": "U+1F1F8 U+1F1F7"
+  },
+  "flag: South Sudan": {
+    "char": "🇸🇸",
+    "code": "U+1F1F8 U+1F1F8"
+  },
+  "flag: São Tomé & Príncipe": {
+    "char": "🇸🇹",
+    "code": "U+1F1F8 U+1F1F9"
+  },
+  "flag: El Salvador": {
+    "char": "🇸🇻",
+    "code": "U+1F1F8 U+1F1FB"
+  },
+  "flag: Sint Maarten": {
+    "char": "🇸🇽",
+    "code": "U+1F1F8 U+1F1FD"
+  },
+  "flag: Syria": {
+    "char": "🇸🇾",
+    "code": "U+1F1F8 U+1F1FE"
+  },
+  "flag: Eswatini": {
+    "char": "🇸🇿",
+    "code": "U+1F1F8 U+1F1FF"
+  },
+  "flag: Tristan da Cunha": {
+    "char": "🇹🇦",
+    "code": "U+1F1F9 U+1F1E6"
+  },
+  "flag: Turks & Caicos Islands": {
+    "char": "🇹🇨",
+    "code": "U+1F1F9 U+1F1E8"
+  },
+  "flag: Chad": {
+    "char": "🇹🇩",
+    "code": "U+1F1F9 U+1F1E9"
+  },
+  "flag: French Southern Territories": {
+    "char": "🇹🇫",
+    "code": "U+1F1F9 U+1F1EB"
+  },
+  "flag: Togo": {
+    "char": "🇹🇬",
+    "code": "U+1F1F9 U+1F1EC"
+  },
+  "flag: Thailand": {
+    "char": "🇹🇭",
+    "code": "U+1F1F9 U+1F1ED"
+  },
+  "flag: Tajikistan": {
+    "char": "🇹🇯",
+    "code": "U+1F1F9 U+1F1EF"
+  },
+  "flag: Tokelau": {
+    "char": "🇹🇰",
+    "code": "U+1F1F9 U+1F1F0"
+  },
+  "flag: Timor-Leste": {
+    "char": "🇹🇱",
+    "code": "U+1F1F9 U+1F1F1"
+  },
+  "flag: Turkmenistan": {
+    "char": "🇹🇲",
+    "code": "U+1F1F9 U+1F1F2"
+  },
+  "flag: Tunisia": {
+    "char": "🇹🇳",
+    "code": "U+1F1F9 U+1F1F3"
+  },
+  "flag: Tonga": {
+    "char": "🇹🇴",
+    "code": "U+1F1F9 U+1F1F4"
+  },
+  "flag: Turkey": {
+    "char": "🇹🇷",
+    "code": "U+1F1F9 U+1F1F7"
+  },
+  "flag: Trinidad & Tobago": {
+    "char": "🇹🇹",
+    "code": "U+1F1F9 U+1F1F9"
+  },
+  "flag: Tuvalu": {
+    "char": "🇹🇻",
+    "code": "U+1F1F9 U+1F1FB"
+  },
+  "flag: Taiwan": {
+    "char": "🇹🇼",
+    "code": "U+1F1F9 U+1F1FC"
+  },
+  "flag: Tanzania": {
+    "char": "🇹🇿",
+    "code": "U+1F1F9 U+1F1FF"
+  },
+  "flag: Ukraine": {
+    "char": "🇺🇦",
+    "code": "U+1F1FA U+1F1E6"
+  },
+  "flag: Uganda": {
+    "char": "🇺🇬",
+    "code": "U+1F1FA U+1F1EC"
+  },
+  "flag: U.S. Outlying Islands": {
+    "char": "🇺🇲",
+    "code": "U+1F1FA U+1F1F2"
+  },
+  "flag: United Nations": {
+    "char": "🇺🇳",
+    "code": "U+1F1FA U+1F1F3"
+  },
+  "flag: United States": {
+    "char": "🇺🇸",
+    "code": "U+1F1FA U+1F1F8"
+  },
+  "flag: Uruguay": {
+    "char": "🇺🇾",
+    "code": "U+1F1FA U+1F1FE"
+  },
+  "flag: Uzbekistan": {
+    "char": "🇺🇿",
+    "code": "U+1F1FA U+1F1FF"
+  },
+  "flag: Vatican City": {
+    "char": "🇻🇦",
+    "code": "U+1F1FB U+1F1E6"
+  },
+  "flag: St. Vincent & Grenadines": {
+    "char": "🇻🇨",
+    "code": "U+1F1FB U+1F1E8"
+  },
+  "flag: Venezuela": {
+    "char": "🇻🇪",
+    "code": "U+1F1FB U+1F1EA"
+  },
+  "flag: British Virgin Islands": {
+    "char": "🇻🇬",
+    "code": "U+1F1FB U+1F1EC"
+  },
+  "flag: U.S. Virgin Islands": {
+    "char": "🇻🇮",
+    "code": "U+1F1FB U+1F1EE"
+  },
+  "flag: Vietnam": {
+    "char": "🇻🇳",
+    "code": "U+1F1FB U+1F1F3"
+  },
+  "flag: Vanuatu": {
+    "char": "🇻🇺",
+    "code": "U+1F1FB U+1F1FA"
+  },
+  "flag: Wallis & Futuna": {
+    "char": "🇼🇫",
+    "code": "U+1F1FC U+1F1EB"
+  },
+  "flag: Samoa": {
+    "char": "🇼🇸",
+    "code": "U+1F1FC U+1F1F8"
+  },
+  "flag: Kosovo": {
+    "char": "🇽🇰",
+    "code": "U+1F1FD U+1F1F0"
+  },
+  "flag: Yemen": {
+    "char": "🇾🇪",
+    "code": "U+1F1FE U+1F1EA"
+  },
+  "flag: Mayotte": {
+    "char": "🇾🇹",
+    "code": "U+1F1FE U+1F1F9"
+  },
+  "flag: South Africa": {
+    "char": "🇿🇦",
+    "code": "U+1F1FF U+1F1E6"
+  },
+  "flag: Zambia": {
+    "char": "🇿🇲",
+    "code": "U+1F1FF U+1F1F2"
+  },
+  "flag: Zimbabwe": {
+    "char": "🇿🇼",
+    "code": "U+1F1FF U+1F1FC"
+  },
+  "flag: England": {
+    "char": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "code": "U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F"
+  },
+  "flag: Scotland": {
+    "char": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "code": "U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F"
+  },
+  "flag: Wales": {
+    "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "code": "U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F"
+  }
+}

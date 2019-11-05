@@ -21,8 +21,7 @@ for(var i=0;i<elements.length;i++){
         //loop through emojis
         for(var k=0;k<emojisInText.length;k++){
           if(emojis.hasOwnProperty(emojisInText[k])){
-            console.log(emojisInText[k]+emojis[emojisInText[k]].name);
-            var replacedText=replacedText.replace(emojisInText[k],'[emoji: '+emojis[emojisInText[k]].name+']');
+            replacedText=replacedText.replace(emojisInText[k],'[emoji: '+emojis[emojisInText[k]].name+']');
             }
         }
         elements[i].replaceChild(document.createTextNode(replacedText),node);
@@ -32,3 +31,5 @@ for(var i=0;i<elements.length;i++){
 
   }
 }
+
+console.log('Translated emojis to plain text description');

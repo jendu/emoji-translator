@@ -11,7 +11,8 @@
     "activeTab"
   ],
   "web_accessible_resources":[
-    "scripts/emojiDict.json"
+    "scripts/emojiDict.json",
+    "scripts/textDict.json"
   ],
   "background":{
     "scripts":["scripts/bg.js"],
