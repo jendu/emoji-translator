@@ -26,7 +26,6 @@ for(var i=0;i<elements.length;i++){
 
             for(var k=0;k<emojiArray.length;k++){
               emojiArray[k]=emojiArray[k].toString();
-              console.log(emojiArray[k]);
               if(textEmojis.hasOwnProperty(emojiArray[k])){
                 replacedText=replacedText.replace(originalText[k],textEmojis[emojiArray[k]].char);
               }
