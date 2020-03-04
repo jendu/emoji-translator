@@ -14,8 +14,14 @@
     "scripts/emojiDict.json",
     "scripts/textDict.json"
   ],
+  "content_scripts":[
+    {
+      "matches":["<all_urls>"],
+      "js":["scripts/jquery-3.4.1.min.js","scripts/content.js"]
+    }
+  ],
   "background":{
-    "scripts":["scripts/bg.js"],
+    "scripts":["scripts/jquery-3.4.1.min.js","scripts/bg.js"],
     "persistent":false
   },
   "page_action":{

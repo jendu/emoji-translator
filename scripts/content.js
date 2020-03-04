@@ -19,3 +19,20 @@ loadLib(chrome.extension.getURL('/scripts/textDict.json'),function(responseText)
   textEmojis=JSON.parse(responseText);
 })
 console.log('Loaded textEmojis');
+
+$(document).ready(function(){
+  console.log('HELP');
+  chrome.storage.local.get('manualTranslate',function(value){
+    if(value.manualTranslate==true){
+      console.log('it true');
+      $('#manualTranslate').attr('checked',true);
+    }else{
+      $('#manualTranslate').attr('checked', false);
+      console.log('it false');
+    }
+  });
+
+  $('#manualTranslate').click(function(){
+    toggleMode();
+  });
+});

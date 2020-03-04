@@ -37,5 +37,4 @@ for(var i=0;i<elements.length;i++){
 
   }
 }
-
 console.log('Translated plain text emojis to utf unicode characters');
