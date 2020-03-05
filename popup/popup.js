@@ -5,11 +5,6 @@ window.onload=function(){
   var modeToggle=document.querySelector('input[name=modeToggle]');
   modeToggle.addEventListener('change',toggleMode);
 
-  //debug
-  chrome.storage.local.get('manualTranslate',function(value){
-    console.log('currently: ',value.manualTranslate);
-  });
-
   //keep button on if already on, else off
   chrome.storage.local.get('manualTranslate',function(value){
     if(value.manualTranslate==true){
@@ -18,7 +13,6 @@ window.onload=function(){
       $('#modeToggle').attr('checked', false);
     }
   });
-
 }
 
 //translates/reverts when button is clicked
@@ -39,8 +33,4 @@ function toggleMode(){
     chrome.storage.local.set({'manualTranslate':false},function(){});
   }
 
-  //debug
-  chrome.storage.local.get('manualTranslate',function(value){
-    console.log('now: ',value.manualTranslate);
-  });
 }

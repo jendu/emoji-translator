@@ -28,7 +28,7 @@ h1{
   left:0;
   right:0;
   bottom:0;
-  background-color:#077801;
+  background-color:#AE0204;
   -webkit-transition:.4s;
 }
 .switch.round{border-radius:50px;}
@@ -41,7 +41,7 @@ h1{
   left:50%;
   font-family:Verdana, sans-serif;
 }
-input:checked + .switch{background-color:#AE0204;}
+input:checked + .switch{background-color:#077801;}
 input:checked + .switch:before{-webkit-transform:translateX(55px);}
 input:checked+ .switch .on{display:block;}
 input:checked + .switch .off{display:none;}

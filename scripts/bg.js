@@ -26,13 +26,8 @@ chrome.tabs.onUpdated.addListener(function(tabId,changeInfo,tab){
             tabs[0].id,{file:'/scripts/replace.js'},_=>chrome.runtime.lastError
           );
         });
-      }else{
-        chrome.tabs.query({active:true,currentWindow:true},function(tabs){
-          chrome.tabs.executeScript(
-            tabs[0].id,{file:'/scripts/revert.js'},_=>chrome.runtime.lastError
-          );
-        });
       }
+
     });
   }
 });
