@@ -2,35 +2,52 @@
 //when popup loads...
 window.onload=function(){
   //get button
-  var modeToggle=document.querySelector('input[name=modeToggle]');
-  modeToggle.addEventListener('change',toggleMode);
+  var autoButton=document.querySelector('input[name=autoButton]');
+  autoButton.addEventListener('change',toggleMode);
 
   //keep button on if already on, else off
-  chrome.storage.local.get('manualTranslate',function(value){
-    if(value.manualTranslate==true){
-      $('#modeToggle').attr('checked',true);
+  chrome.storage.local.get('autoTranslate',function(value){
+    if(value.autoTranslate==true){
+      $('#autoButton').attr('checked',true);
+      $('#manualButton').attr('disabled',true);
+      $('.switch.manual').css('opacity','0.2');
     }else{
-      $('#modeToggle').attr('checked', false);
+      $('#autoButton').attr('checked', false);
+      $('#manualButton').attr('disabled',false);
     }
+  });
+
+  //for novelty, displays random emoji and its corresponding description!
+  $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText) {
+      var emojis=responseText;
+      var randomIndex=Math.floor(Math.random()*(Object.keys(emojis).length));
+      var randomEmoji=Object.keys(emojis)[randomIndex];
+      console.log(randomEmoji);
+      $('.emoji').html(randomEmoji);
+      $('.description').html(emojis[randomEmoji].name);
   });
 }
 
 //translates/reverts when button is clicked
 function toggleMode(){
-  if(modeToggle.checked){
+  if(autoButton.checked){
     chrome.tabs.query({active:true,currentWindow:true},function(tabs){
       chrome.tabs.executeScript(
         tabs[0].id,{file:'/scripts/replace.js'}
       );
     });
-    chrome.storage.local.set({'manualTranslate':true},function(){});
+    chrome.storage.local.set({'autoTranslate':true},function(){});
+    $('#manualButton').attr('disabled',true);
+    $('.switch.manual').css('opacity','0.2');
   }else{
     chrome.tabs.query({active:true,currentWindow:true},function(tabs){
       chrome.tabs.executeScript(
         tabs[0].id,{file:'/scripts/revert.js'}
       );
     });
-    chrome.storage.local.set({'manualTranslate':false},function(){});
+    chrome.storage.local.set({'autoTranslate':false},function(){});
+    $('#manualButton').attr('disabled',false);
+    $('.switch.manual').css('opacity','1');
   }
 
 }
