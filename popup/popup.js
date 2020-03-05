@@ -3,7 +3,9 @@
 window.onload=function(){
   //get button
   var autoButton=document.querySelector('input[name=autoButton]');
-  autoButton.addEventListener('change',toggleMode);
+  var manualButton=document.querySelector('input[name=manualButton]');
+  autoButton.addEventListener('change',toggleAuto);
+  manualButton.addEventListener('change',toggleManual);
 
   //keep button on if already on, else off
   chrome.storage.local.get('autoTranslate',function(value){
@@ -22,14 +24,13 @@ window.onload=function(){
       var emojis=responseText;
       var randomIndex=Math.floor(Math.random()*(Object.keys(emojis).length));
       var randomEmoji=Object.keys(emojis)[randomIndex];
-      console.log(randomEmoji);
       $('.emoji').html(randomEmoji);
       $('.description').html(emojis[randomEmoji].name);
   });
 }
 
 //translates/reverts when button is clicked
-function toggleMode(){
+function toggleAuto(){
   if(autoButton.checked){
     chrome.tabs.query({active:true,currentWindow:true},function(tabs){
       chrome.tabs.executeScript(
@@ -49,5 +50,20 @@ function toggleMode(){
     $('#manualButton').attr('disabled',false);
     $('.switch.manual').css('opacity','1');
   }
+}
 
+function toggleManual(){
+  if(manualButton.checked){
+    chrome.tabs.query({active:true,currentWindow:true},function(tabs){
+      chrome.tabs.executeScript(
+        tabs[0].id,{file:'/scripts/replace.js'}
+      );
+    });
+  }else{
+    chrome.tabs.query({active:true,currentWindow:true},function(tabs){
+      chrome.tabs.executeScript(
+        tabs[0].id,{file:'/scripts/revert.js'}
+      );
+    });
+  }
 }
