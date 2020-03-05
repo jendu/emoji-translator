@@ -7,7 +7,9 @@
 
   "permissions":[
     "storage",
-    "activeTab"
+    "activeTab",
+    "tabs",
+    "declarativeContent"
   ],
   "web_accessible_resources":[
     "scripts/emojiDict.json",

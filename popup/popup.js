@@ -1,5 +1,7 @@
 //this script controls what happens when popup is interacted with
+//when popup loads...
 window.onload=function(){
+  //get button
   var modeToggle=document.querySelector('input[name=modeToggle]');
   modeToggle.addEventListener('change',toggleMode);
 
@@ -8,19 +10,18 @@ window.onload=function(){
     console.log('currently: ',value.manualTranslate);
   });
 
+  //keep button on if already on, else off
   chrome.storage.local.get('manualTranslate',function(value){
-    val=value.manualTranslate;
     if(value.manualTranslate==true){
-      console.log('it true');  //debug
       $('#modeToggle').attr('checked',true);
     }else{
-      console.log('it false');  //debug
       $('#modeToggle').attr('checked', false);
     }
   });
 
 }
 
+//translates/reverts when button is clicked
 function toggleMode(){
   if(modeToggle.checked){
     chrome.tabs.query({active:true,currentWindow:true},function(tabs){
