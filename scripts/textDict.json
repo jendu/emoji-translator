@@ -507,6 +507,10 @@
     "char": "❤",
     "code": "U+2764"
   },
+  "rotated heavy black heart bullet": {
+    "char": "❥",
+    "code": "U+2765"
+  },
   "orange heart": {
     "char": "🧡",
     "code": "U+1F9E1"

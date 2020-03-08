@@ -20,13 +20,28 @@ chrome.runtime.onInstalled.addListener(function(){
 chrome.tabs.onUpdated.addListener(function(tabId,changeInfo,tab){
   if(changeInfo.status=='complete'&&tab.active){
     chrome.storage.local.get('autoTranslate',function(value){
-      if(value.autoTranslate==true){
+      if(typeof value.autoTranslate!='undefined'){
+        if(value.autoTranslate==true){
+          chrome.tabs.query({active:true,currentWindow:true},function(tabs){
+            chrome.tabs.executeScript(
+              tabs[0].id,{file:'/scripts/replace.js'},_=>chrome.runtime.lastError
+            );
+          });
+        }
+      }
+    });
+
+    chrome.storage.local.get('bgColour',function(value){
+      if(typeof value.bgColour!='undefined'){
+        var bgColour=value.bgColour;
+        console.log(bgColour);
         chrome.tabs.query({active:true,currentWindow:true},function(tabs){
           chrome.tabs.executeScript(
-            tabs[0].id,{file:'/scripts/replace.js'},_=>chrome.runtime.lastError
+            tabs[0].id,{file:'/scripts/changebgcolour.js'},_=>chrome.runtime.lastError
           );
         });
       }
     });
+
   }
 });

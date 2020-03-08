@@ -10,5 +10,7 @@ A chrome extension to translate emoji unicode to their textual descriptions.
 * [Regex Tester](https://www.regextester.com/106421) - Emoji regex
 * [Unicode](https://unicode.org/emoji/charts/full-emoji-list.html) - Unicode Database
 * [JQuery](https://jquery.com/) - Expanded JS library
+* [jscolor](http://jscolor.com/) - Colour picker
+
 ## Authors
 * [JenDu](https://github.com/jendu)

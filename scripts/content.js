@@ -1,3 +1,4 @@
+//runs every page load
 //parse json emojis into variable
 //accessed via: emojis[char].name or textEmojis[name].char
 var emojis;

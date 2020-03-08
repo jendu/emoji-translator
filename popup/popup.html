@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <script type="text/javascript" src="/scripts/jquery-3.4.1.min.js"></script>
     <script type="text/javascript" src="popup.js"></script>
+    <script type="text/javascript" src="/scripts/jscolor.js"></script>
     <link rel="stylesheet" type="text/css" href="popup.css">
   </head>
 
@@ -16,7 +17,7 @@
 
       <table>
         <tr>
-          <td>Auto-translate all pages:</td>
+          <td>Auto-translate:</td>
           <td>
             <label class="toggle">
               <input type="checkbox" id="autoButton" name="autoButton">
@@ -38,6 +39,11 @@
               </div>
             </label>
           </td>
+        </tr>
+        <tr>
+          <td>Change page bg colour:</td>
+          <td><input type="text" class="jscolor"></td>
+          <td><span class="resetBGColour" title="Reset">❌</span></td>
         </tr>
       </table>
 

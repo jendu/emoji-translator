@@ -23,17 +23,15 @@ h1{
 }
 #header p{margin-top:-25px;}
 table{
-   margin:0 auto;
+   margin:10px;
    width:auto;
-   padding-bottom:10px;
 }
 td{
-  padding-right:10px;
-  padding-left:10px;
-  padding-bottom:10px;
+  padding-left:5px;
+  padding-right:5px;
 }
 /* toggle switches */
-.toggle{
+.toggle,.jscolor{
   position:relative;
   display:inline-block;
   width:60px;
@@ -66,3 +64,19 @@ input:checked+.switch .on{display:block;}
 input:checked+.switch .off{display:none;}
 input:checked+.switch.auto{background-color:#077801;}
 input:checked+.switch.manual{background-color:#AE0204;}
+/* colour picker */
+.jscolor{
+  display:inline-block;
+  width:60px;
+  height:40px;
+  cursor:pointer;
+  -webkit-transition:.4s;
+  border-radius:30px;
+  font-family:Verdana, sans-serif;
+  text-align:center;
+}
+/* reset bg */
+.resetBGColour{
+    float:left;
+    cursor:pointer;
+}

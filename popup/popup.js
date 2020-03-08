@@ -1,12 +1,6 @@
 //this script controls what happens when popup is interacted with
 //when popup loads...
 window.onload=function(){
-  //get button
-  var autoButton=document.querySelector('input[name=autoButton]');
-  var manualButton=document.querySelector('input[name=manualButton]');
-  autoButton.addEventListener('change',toggleAuto);
-  manualButton.addEventListener('change',toggleManual);
-
   //keep button on if already on, else off
   chrome.storage.local.get('autoTranslate',function(value){
     if(value.autoTranslate==true){
@@ -26,7 +20,35 @@ window.onload=function(){
       var randomEmoji=Object.keys(emojis)[randomIndex];
       $('.emoji').html(randomEmoji);
       $('.description').html(emojis[randomEmoji].name);
+
+      $('#autoButton').on('change',toggleAuto);
+      $('#manualButton').on('change',toggleManual);
   });
+
+  //change bg colour
+  $('.jscolor').on('change paste keyup',changeBGColour);
+  chrome.storage.local.get('bgColour',function(value){
+    if(typeof value.bgColour!='undefined'){
+      $('.jscolor').css('background-color',value.bgColour);
+      $('.jscolor').val((value.bgColour).substring(1));
+    }
+  });
+
+  $('.resetBGColour').on('click',function(){
+    chrome.storage.local.remove('bgColour',function(){});
+    chrome.tabs.query({active:true,currentWindow:true},function(tabs){
+      chrome.tabs.reload(tabs[0].id);
+    });
+    window.location.reload();
+  });
+}
+
+function rgb2hex(rgb){
+ rgb = rgb.match(/^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i);
+ return (rgb && rgb.length === 4) ? "#" +
+  ("0" + parseInt(rgb[1],10).toString(16)).slice(-2) +
+  ("0" + parseInt(rgb[2],10).toString(16)).slice(-2) +
+  ("0" + parseInt(rgb[3],10).toString(16)).slice(-2) : '';
 }
 
 //translates/reverts when button is clicked
@@ -66,4 +88,15 @@ function toggleManual(){
       );
     });
   }
+}
+
+function changeBGColour(){
+  var bgColour="#"+$('.jscolor').val();
+  chrome.tabs.query({active:true,currentWindow:true},function(tabs){
+    chrome.tabs.executeScript(
+      tabs[0].id,{file:'/scripts/changebgcolour.js'}
+    );
+  });
+  chrome.storage.local.set({'bgColour':bgColour},function(){});
+  console.log('saved colour ',bgColour);
 }
