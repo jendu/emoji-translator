@@ -43,6 +43,7 @@ window.onload=function(){
   });
 }
 
+//from: https://jsfiddle.net/Mottie/xcqpF/1/light/
 function rgb2hex(rgb){
  rgb = rgb.match(/^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i);
  return (rgb && rgb.length === 4) ? "#" +
