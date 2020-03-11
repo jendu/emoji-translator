@@ -13,6 +13,7 @@ h1{
 #main{
   height:auto;
   width:380px;
+  padding-bottom:10px;
 }
 #header{
   background-color:#BDBDBD;
