@@ -10,8 +10,8 @@ $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText
         textEmojis=responseText;
         console.log('Loaded textEmojis');
 
+        //basically replace.js
         chrome.storage.local.get('autoTranslate',function(value){
-          console.log('current autoTranslate is: ',value.autoTranslate);
           if(value.autoTranslate==true){
             var elements=document.getElementsByTagName('*');
 
@@ -38,19 +38,20 @@ $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText
                     }
                     elements[i].replaceChild(document.createTextNode(replacedText),node);
                   }
-
                 }
-
               }
             }
             console.log('Translated emojis to plain text description');
           }
         });
+        //end
 
         chrome.storage.local.get('bgColour',function(value){
-          if(value.bgColour){
-            $('body,html').css('background-color',value.bgColour);
-          }
+          $('body').css('background-color',value.bgColour);
+        });
+
+        chrome.storage.local.get('fontStyle',function(value){
+          $('*').css('font-family',value.fontStyle);
         });
 
     });

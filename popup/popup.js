@@ -8,10 +8,10 @@ window.onload=function(){
       var randomEmoji=Object.keys(emojis)[randomIndex];
       $('.emoji').html(randomEmoji);
       $('.description').html(emojis[randomEmoji].name);
-
-      $('#autoButton').on('change',toggleAuto);
-      $('#manualButton').on('change',toggleManual);
   });
+
+  $('#autoButton').on('change',toggleAuto);
+  $('#manualButton').on('change',toggleManual);
 
   //auto-translate: keep button on if already on, else off
   chrome.storage.local.get('autoTranslate',function(value){
@@ -38,6 +38,33 @@ window.onload=function(){
     chrome.tabs.reload();
     window.location.reload();
   });
+
+  //change font family
+  chrome.storage.local.get('fontStyle',function(value){
+    if(typeof value.fontStyle!='undefined'){
+      $('.fontStyle').val(value.fontStyle);
+    }
+  });
+  $('.fontStyle').on('change',function(){
+    var fontFamily=$('.fontStyle').children('option:selected').val();
+    chrome.runtime.sendMessage({fontStyle:fontFamily},function(){});
+  });
+  $('.resetFontFamily').on('click',function(){
+    chrome.storage.local.remove('fontStyle',function(){});
+    chrome.tabs.reload();
+    window.location.reload();
+  });
+
+  //change font size: WIP
+  // $('.decreaseFontSize').on('click',function(){
+  //   var currentSize = $('body').css('font-size');
+  //   $('body').css('font-size', '20px');
+  // });
+  // $('.increaseFontSize').on('click',function(){
+  //   chrome.tabs.executeScript({
+  //     code: 'document.body.style.fontSize=currentSize*5;'
+  //   });
+  // });
 
   //clear all
   $('.clear').on('click',function(){

@@ -19,7 +19,7 @@
     {
       "matches":["*://*/*"],
       "js":["scripts/jquery-3.4.1.min.js","scripts/content.js"],
-      "run_at":"document_end"
+      "run_at":"document_idle"
     }
   ],
   "background":{

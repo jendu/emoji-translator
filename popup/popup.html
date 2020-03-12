@@ -42,11 +42,34 @@
         </tr>
         <tr>
           <td>Change page bg colour:</td>
-          <td><input type="text" class="jscolor"></td>
-          <td><span class="resetBGColour" title="Reset">❌</span></td>
+          <td>
+            <input type="text" class="jscolor" value="FFFFFF">
+            <span class="resetBGColour" title="Reset">❌</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Change font style:</td>
+          <td><span class="fontStyle"><select class="fontStyle">
+            <option value="Default" selected disabled hidden></option>
+            <option value="'Arial Black',Gadget,sans-serif">Arial Black</option>
+            <option value="Arial,Helvetica,sans-serif">Arial Helvetica</option>
+            <option value="'Comic Sans MS',cursive,sans-serif">Comic Sans</option>
+            <option value="'Courier New',Courier,monospace">Courier New</option>
+            <option value="Impact,Charcoal,sans-serif">Impact</option>
+            <option value="'Lucida Console',Monaco,monospace">Lucida Console</option>
+            <option value="'Lucida Sans Unicode','Lucida Grande',sans-serif">Lucida Sans</option>
+            <option value="'Times New Roman',Times, serif">Times New Roman</option>
+            <option value="'Trebuchet MS',Helvetica,sans-serif">Trebuchet</option>
+            <option value="Verdana,Geneva,sans-serif">Verdana</option>
+          </select><label class="resetFontFamily" title="Reset">❌</label></span>
+          </td>
+        </tr>
+        <tr>
+          <td>Change text size:</td>
+          <td><span class="decreaseFontSize" title="Smaller font size">➖</span> <span class="increaseFontSize" title="Bigger font size">➕</td>
         </tr>
       </table>
-      <input type="button" value="clear all storage" class="clear">
+      <input type="button" value="Reset all" class="clear">
 
     </div>
   </body>

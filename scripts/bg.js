@@ -18,7 +18,6 @@ chrome.runtime.onInstalled.addListener(function(){
 chrome.tabs.onUpdated.addListener(function(tabId,changeInfo,tab){
   if(changeInfo.status=='complete'&&tab.active){
     chrome.storage.local.get('autoTranslate',function(value){
-      console.log('value is ',value.autoTranslate);
       if(typeof value.autoTranslate!='undefined'){
         if(value.autoTranslate==true){
           chrome.tabs.executeScript(tabId,{file:'/scripts/replace.js'},_=>chrome.runtime.lastError);
@@ -44,7 +43,17 @@ chrome.runtime.onMessage.addListener(function(message){
     chrome.storage.local.set({'autoTranslate':false},function(){});
   }else if(message.colour){
     chrome.storage.local.set({'bgColour':message.colour},function(){});
-    chrome.tabs.executeScript({file:'/scripts/changebgcolour.js'},_=>chrome.runtime.lastError);
+    chrome.tabs.executeScript({code:
+      'chrome.storage.local.get(\'bgColour\',function(value){$(\'body\').css(\'background-color\',value.bgColour);});'
+    },_=>chrome.runtime.lastError);
+  }else if(message.fontStyle){
+    chrome.storage.local.set({'fontStyle':message.fontStyle},function(){});
+    chrome.tabs.executeScript({code:
+      'chrome.storage.local.get(\'fontStyle\',function(value){if(value.fontStyle){$(\'*\').css(\'font-family\',value.fontStyle);}});'
+    },_=>chrome.runtime.lastError);
+  }else if(message.fontSize){
+    chrome.storage.local.set({'fontSize':message.fontSize},function(){});
+
   }
   return true;
 });

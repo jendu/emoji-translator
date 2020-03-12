@@ -5,6 +5,8 @@ body{
   text-align:center;
   font-size:20px;
   border:10px solid #585858;
+  -webkit-user-select:none;
+  user-select:none;
 }
 h1{
   color:#873A00;
@@ -12,17 +14,17 @@ h1{
 }
 #main{
   height:auto;
-  width:380px;
+  width:420px;
   padding-bottom:10px;
 }
 #header{
   background-color:#BDBDBD;
   color:#5F4C0B;
-  font-size:5vw;
+  font-size:20px;
   padding:1px;
   margin-bottom:20px;
 }
-#header p{margin-top:-25px;}
+#header p{margin-top:-20px;}
 table{
    margin:0 auto;
    width:auto;
@@ -34,6 +36,8 @@ td{
 }
 /* toggle switches */
 .toggle,.jscolor{
+  margin-left:55px;
+  float:left;
   position:relative;
   display:inline-block;
   width:60px;
@@ -47,8 +51,9 @@ td{
   left:0;
   right:0;
   bottom:0;
-  -webkit-transition:.4s;
   border-radius:30px;
+  -webkit-transition:.4s;
+  transition:.4s;
 }
 .switch.auto{background-color:#AE0204;}
 .switch.manual{background-color:#077801;}
@@ -72,13 +77,35 @@ input:checked+.switch.manual{background-color:#AE0204;}
   width:60px;
   height:40px;
   cursor:pointer;
-  -webkit-transition:.4s;
   border-radius:30px;
   font-family:Verdana, sans-serif;
   text-align:center;
+  border:1px solid #BDBDBD;
+  -webkit-user-select:none;
+  font-size:0px;
 }
 /* reset bg */
-.resetBGColour{
-    float:left;
-    cursor:pointer;
+.resetBGColour,.resetFontFamily{
+  cursor:pointer;
+  font-size:20px;
+}
+.resetBGColour{float:right;margin-right:2px;}
+.fontStyle,.decreaseFontSize,.increaseFontSize{
+  cursor:pointer;
+}
+.fontStyle{
+  font-size:15px;
+  text-align:center;
+  border-radius:30px;
+  height:38px;
+  display:inline-block;
+  overflow:hidden;
+  background:#FFFFFF;
+  text-align-last:center;
+  outline:none;
+  border:1px solid #BDBDBD;
+}
+option{
+    font-size:15px;
+    background-color:#CCCCCC;
 }
