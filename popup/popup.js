@@ -57,6 +57,7 @@ window.onload=function(){
 
   //change font size: WIP
   // $('.decreaseFontSize').on('click',function(){
+  //   chrome.runtime.sendMessage({fontSize:null},function(){});
   //   var currentSize = $('body').css('font-size');
   //   $('body').css('font-size', '20px');
   // });
@@ -101,6 +102,5 @@ function toggleManual(){
 
 function changeBGColour(){
   var bgColour="#"+$('.jscolor').val();
-  chrome.tabs.executeScript({file:'/scripts/changebgcolour.js'});
   chrome.runtime.sendMessage({colour:bgColour},function(){});
 }

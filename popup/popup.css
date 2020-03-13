@@ -36,7 +36,7 @@ td{
 }
 /* toggle switches */
 .toggle,.jscolor{
-  margin-left:55px;
+  margin-left:43px;
   float:left;
   position:relative;
   display:inline-block;
@@ -85,14 +85,15 @@ input:checked+.switch.manual{background-color:#AE0204;}
   font-size:0px;
 }
 /* reset bg */
-.resetBGColour,.resetFontFamily{
+.resetBGColour,.resetFontFamily,.resetFontSize{
   cursor:pointer;
   font-size:20px;
 }
-.resetBGColour{float:right;margin-right:2px;}
+.resetBGColour,.resetFontSize{float:right;}
 .fontStyle,.decreaseFontSize,.increaseFontSize{
   cursor:pointer;
 }
+#fontStyle{margin-top:5px;}
 .fontStyle{
   font-size:15px;
   text-align:center;
