@@ -51,9 +51,30 @@ chrome.runtime.onMessage.addListener(function(message){
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'fontStyle\',function(value){if(value.fontStyle){$(\'*\').css(\'font-family\',value.fontStyle);}});'
     },_=>chrome.runtime.lastError);
-  }else if(message.fontSize){
-    chrome.storage.local.set({'fontSize':message.fontSize},function(){});
-
+  }else if(message.fontAction){
+    console.log('fontAction');
+    var resize=1;
+    if(message.fontAction=='decrease'){
+      resize=0.7;
+    }else if(message.fontAction=='increase'){
+      resize=1.3;
+    }
+    chrome.storage.local.get('fontSize',function(value){
+      if(typeof value.fontSize=='undefined'){
+        chrome.tabs.executeScript({code:
+          'var fSize=window.getComputedStyle(document.body).fontSize;chrome.storage.local.set({\'fontSize\':fSize},function(){});chrome.storage.local.get(\'fontSize\',function(value){console.log(value.fontSize);});'
+        },_=>chrome.runtime.lastError)
+      }
+    });
+    chrome.storage.local.get('fontSize',function(v){
+      var newSize=parseInt(v.fontSize)*resize;
+      console.log(newSize);
+      chrome.storage.local.set({'fontSize':newSize},function(){
+      });
+    });
+    chrome.tabs.executeScript({code:
+      'chrome.storage.local.get(\'fontSize\',function(value){$(\'*\').css(\'font-size\',value.fontSize);});'
+    },_=>chrome.runtime.lastError)
   }
   return true;
 });

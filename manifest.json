@@ -1,7 +1,7 @@
 {
-  "name":"Emoji Translator",
+  "name":"Emoji Translator + Accessibility",
   "version":"1.0",
-  "description":"Translates emotes into their respective descriptions.",
+  "description":"Translates emotes to text + accessibility features!",
   "author":"Jennifer Du",
   "manifest_version":2,
 

@@ -39,7 +39,7 @@ window.onload=function(){
     window.location.reload();
   });
 
-  //change font family
+  //font family:
   chrome.storage.local.get('fontStyle',function(value){
     if(typeof value.fontStyle!='undefined'){
       $('.fontStyle').val(value.fontStyle);
@@ -55,19 +55,20 @@ window.onload=function(){
     window.location.reload();
   });
 
-  //change font size: WIP
-  // $('.decreaseFontSize').on('click',function(){
-  //   chrome.runtime.sendMessage({fontSize:null},function(){});
-  //   var currentSize = $('body').css('font-size');
-  //   $('body').css('font-size', '20px');
-  // });
-  // $('.increaseFontSize').on('click',function(){
-  //   chrome.tabs.executeScript({
-  //     code: 'document.body.style.fontSize=currentSize*5;'
-  //   });
-  // });
+  //font size:
+  $('.decreaseFontSize').on('click',function(){
+     chrome.runtime.sendMessage({fontAction:'decrease'},function(){});
+  });
+  $('.increaseFontSize').on('click',function(){
+     chrome.runtime.sendMessage({fontAction:'increase'},function(){});
+  });
+  $('.resetFontSize').on('click',function(){
+    chrome.storage.local.remove('fontSize',function(){});
+    chrome.tabs.reload();
+    window.location.reload();
+  });
 
-  //clear all
+  //reset/clear all:
   $('.clear').on('click',function(){
     chrome.storage.local.clear(function() {
       var error = chrome.runtime.lastError;
@@ -100,6 +101,7 @@ function toggleManual(){
   }else{chrome.tabs.executeScript({file:'/scripts/revert.js'});}
 }
 
+//changes background colour
 function changeBGColour(){
   var bgColour="#"+$('.jscolor').val();
   chrome.runtime.sendMessage({colour:bgColour},function(){});
