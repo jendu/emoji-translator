@@ -107,6 +107,10 @@ input:checked+.switch.manual{background-color:#AE0204;}
   border:1px solid #BDBDBD;
 }
 option{
-    font-size:15px;
-    background-color:#CCCCCC;
+  font-size:20px;
+  background-color:#FFFFFF;
+}
+.fontSize{
+  width:150px;
+  font-size:20px;
 }

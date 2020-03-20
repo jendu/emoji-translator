@@ -1,6 +1,13 @@
 //this script controls what happens when popup is interacted with
 //whenever popup loads up...
 window.onload=function(){
+    chrome.storage.local.get('fontSize',function(value){
+      console.log('current size: ',value.fontSize);
+    });
+
+
+
+
   //for novelty, displays random emoji and its corresponding description!
   $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText) {
       var emojis=responseText;
@@ -57,10 +64,21 @@ window.onload=function(){
 
   //font size:
   $('.decreaseFontSize').on('click',function(){
-     chrome.runtime.sendMessage({fontAction:'decrease'},function(){});
+    chrome.runtime.sendMessage({fontAction:'decrease'},function(newSize){
+      $('.fontSize').text(newSize+'px');
+    });
   });
+  chrome.storage.local.get('fontSize',function(value){
+    if(!isNaN(value.fontSize)){
+      $('.fontSize').text(value.fontSize+'px');
+    }
+  });
+  $('.fontSize').on('mousedown',function(){return false;});
+  $('.fontSize').on('selectstart',function(){return false;});;
   $('.increaseFontSize').on('click',function(){
-     chrome.runtime.sendMessage({fontAction:'increase'},function(){});
+    chrome.runtime.sendMessage({fontAction:'increase'},function(newSize){
+      $('.fontSize').text(newSize+'px');
+    });
   });
   $('.resetFontSize').on('click',function(){
     chrome.storage.local.remove('fontSize',function(){});
