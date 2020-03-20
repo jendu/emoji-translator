@@ -69,7 +69,7 @@ chrome.runtime.onMessage.addListener(function(message){
       var newSize=parseInt(v.fontSize)*resize;
       if(newSize<8){newSize=8}
       console.log(newSize);
-      chrome.storage.local.set({'fontSize':newSize},function(return newSize;){
+      chrome.storage.local.set({'fontSize':newSize},function(){
       });
     });
     chrome.tabs.executeScript({code:
