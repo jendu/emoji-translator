@@ -1,13 +1,6 @@
 //this script controls what happens when popup is interacted with
 //whenever popup loads up...
 window.onload=function(){
-    chrome.storage.local.get('fontSize',function(value){
-      console.log('current size: ',value.fontSize);
-    });
-
-
-
-
   //for novelty, displays random emoji and its corresponding description!
   $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText) {
       var emojis=responseText;
@@ -63,22 +56,16 @@ window.onload=function(){
   });
 
   //font size:
-  $('.decreaseFontSize').on('click',function(){
-    chrome.runtime.sendMessage({fontAction:'decrease'},function(newSize){
-      $('.fontSize').text(newSize+'px');
-    });
-  });
-  chrome.storage.local.get('fontSize',function(value){
-    if(!isNaN(value.fontSize)){
-      $('.fontSize').text(value.fontSize+'px');
-    }
-  });
+  updateFontSizeVal();
   $('.fontSize').on('mousedown',function(){return false;});
   $('.fontSize').on('selectstart',function(){return false;});;
+  $('.decreaseFontSize').on('click',function(){
+    chrome.runtime.sendMessage({fontAction:-1},function(){});
+    setTimeout(()=>{updateFontSizeVal();},100);
+  });
   $('.increaseFontSize').on('click',function(){
-    chrome.runtime.sendMessage({fontAction:'increase'},function(newSize){
-      $('.fontSize').text(newSize+'px');
-    });
+    chrome.runtime.sendMessage({fontAction:1},function(){});
+    setTimeout(()=>{updateFontSizeVal();},100);
   });
   $('.resetFontSize').on('click',function(){
     chrome.storage.local.remove('fontSize',function(){});
@@ -123,4 +110,13 @@ function toggleManual(){
 function changeBGColour(){
   var bgColour="#"+$('.jscolor').val();
   chrome.runtime.sendMessage({colour:bgColour},function(){});
+}
+
+//updates font size shown
+function updateFontSizeVal(){
+  chrome.storage.local.get('fontSize',function(value){
+    if(!isNaN(value.fontSize)){
+      $('.fontSize').text(parseInt(value.fontSize).toFixed(0));
+    }
+  });
 }

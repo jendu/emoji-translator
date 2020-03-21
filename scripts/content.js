@@ -55,6 +55,13 @@ $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText
 
         //font size:
         chrome.storage.local.get('fontSize',function(value){
+          if(typeof value.fontSize=='undefined'){
+            var fSize=($('body').css('font-size')).slice(0,-2);
+            chrome.storage.local.set({'fontSize':fSize},function(){});
+            console.log('set font size');
+          }
+        });
+        chrome.storage.local.get('fontSize',function(value){
           $('*').css('font-size',value.fontSize);
         });
     });
