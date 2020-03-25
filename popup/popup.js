@@ -26,15 +26,29 @@ window.onload=function(){
   });
 
   //bg colour:
-  $('.jscolor').on('change paste keyup',changeBGColour);
+  $('#bgColour').on('change paste keyup',changeBGColour);
   chrome.storage.local.get('bgColour',function(value){
     if(typeof value.bgColour!='undefined'){
-      $('.jscolor').val((value.bgColour).substring(1));
-      $('.jscolor').css('background-color',value.bgColour);
+      $('#bgColour').val((value.bgColour).substring(1));
+      $('#bgColour').css('background-color',value.bgColour);
     }
   });
   $('.resetBGColour').on('click',function(){
     chrome.storage.local.remove('bgColour',function(){});
+    chrome.tabs.reload();
+    window.location.reload();
+  });
+
+  //font colour:
+  $('#fontColour').on('change paste keyup',changeFontColour);
+  chrome.storage.local.get('fontColour',function(value){
+    if(typeof value.fontColour!='undefined'){
+      $('#fontColour').val((value.fontColour).substring(1));
+      $('#fontColour').css('background-color',value.fontColour);
+    }
+  });
+  $('.resetFontColour').on('click',function(){
+    chrome.storage.local.remove('fontColour',function(){});
     chrome.tabs.reload();
     window.location.reload();
   });
@@ -108,8 +122,14 @@ function toggleManual(){
 
 //changes background colour
 function changeBGColour(){
-  var bgColour="#"+$('.jscolor').val();
-  chrome.runtime.sendMessage({colour:bgColour},function(){});
+  var bgColour="#"+$('#bgColour').val();
+  chrome.runtime.sendMessage({bgColour:bgColour},function(){});
+}
+
+//changes font colour
+function changeFontColour(){
+  var fontColour="#"+$('#fontColour').val();
+  chrome.runtime.sendMessage({fontColour:fontColour},function(){});
 }
 
 //updates font size shown

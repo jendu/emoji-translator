@@ -48,6 +48,11 @@ $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText
           $('body').css('background-color',value.bgColour);
         });
 
+        //font colour:
+        chrome.storage.local.get('fontColour',function(value){
+          $('*').css('color',value.fontColour);
+        });
+
         //font style/family:
         chrome.storage.local.get('fontStyle',function(value){
           $('*').css('font-family',value.fontStyle);

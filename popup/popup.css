@@ -84,12 +84,12 @@ input:checked+.switch.manual{background-color:#AE0204;}
   -webkit-user-select:none;
   font-size:0px;
 }
-/* reset bg */
-.resetBGColour,.resetFontFamily,.resetFontSize{
+/* reset */
+.resetBGColour,.resetFontColour,.resetFontFamily,.resetFontSize{
   cursor:pointer;
   font-size:20px;
 }
-.resetBGColour,.resetFontSize{float:right;}
+.resetBGColour,.resetFontColour,.resetFontSize{float:right;}
 .fontStyle,.decreaseFontSize,.increaseFontSize{
   cursor:pointer;
 }

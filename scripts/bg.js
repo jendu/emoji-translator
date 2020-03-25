@@ -41,10 +41,15 @@ chrome.runtime.onMessage.addListener(function(message){
   }else if(message.action=='revert'){
     chrome.tabs.executeScript({file:'/scripts/revert.js'},_=>chrome.runtime.lastError);
     chrome.storage.local.set({'autoTranslate':false},function(){});
-  }else if(message.colour){
-    chrome.storage.local.set({'bgColour':message.colour},function(){});
+  }else if(message.bgColour){
+    chrome.storage.local.set({'bgColour':message.bgColour},function(){});
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'bgColour\',function(value){$(\'body\').css(\'background-color\',value.bgColour);});'
+    },_=>chrome.runtime.lastError);
+  }else if(message.fontColour){
+    chrome.storage.local.set({'fontColour':message.fontColour},function(){});
+    chrome.tabs.executeScript({code:
+      'chrome.storage.local.get(\'fontColour\',function(value){$(\'*\').css(\'color\',value.fontColour);});'
     },_=>chrome.runtime.lastError);
   }else if(message.fontStyle){
     chrome.storage.local.set({'fontStyle':message.fontStyle},function(){});
@@ -58,7 +63,7 @@ chrome.runtime.onMessage.addListener(function(message){
       chrome.storage.local.set({'fontSize':newSize},function(){
         chrome.storage.local.get('fontSize',function(value){
           chrome.tabs.executeScript({code:
-            'chrome.storage.local.get(\'fontSize\',function(value){$(\'*\').css(\'font-size\',value.fontSize);console.log(\'aaaa\',value.fontSize);});'
+            'chrome.storage.local.get(\'fontSize\',function(value){$(\'*\').css(\'font-size\',value.fontSize);});'
           },_=>chrome.runtime.lastError)
         });
       });
