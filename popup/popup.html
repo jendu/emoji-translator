@@ -9,16 +9,18 @@
   </head>
 
   <body>
-    <div id="main">
-      <div id="header">
-        <h1>Emoji Translator</h1>
-        <p><span class="emoji">😌</span> ⟶ [emoji: <span class="description">relieved face</span>]</p>
-      </div>
+    <div id="header">
+      <h1>Emoji Translator</h1>
+      <p><span class="emoji">😌</span> ⟶ [emoji: <span class="description">relieved face</span>]</p>
+    </div>
 
+    <div id="main">
+            <span class="resetAll" title="Reset All">❌Reset All</span>
+      <span id="subheading">Translate Options:</span>
       <table>
         <tr>
-          <td>Auto-translate:</td>
-          <td>
+          <td style="width:190px;">Auto-Translate:</td>
+          <td style="text-align:center;">
             <label class="toggle">
               <input type="checkbox" id="autoButton" name="autoButton">
               <div class="switch auto">
@@ -29,8 +31,8 @@
           </td>
         </tr>
         <tr>
-          <td>Translate current page:</td>
-          <td>
+          <td>Translate Current Page:</td>
+          <td style="text-align:center;">
             <label class="toggle">
               <input type="checkbox" id="manualButton" name="manualButton" >
               <div class="switch manual">
@@ -40,23 +42,44 @@
             </label>
           </td>
         </tr>
+      </table>
+      <hr>
+
+      <span id="subheading">Theme Options:</span>
+      <table>
         <tr>
-          <td>Change page bg colour:</td>
-          <td>
+          <td style="width:190px;">Background Colour:</td>
+          <td style="text-align:center;">
             <input type="text" id="bgColour" class="jscolor" value="FFFFFF">
             <span class="resetBGColour" title="Reset">❌</span>
           </td>
         </tr>
         <tr>
-          <td>Change font colour:</td>
-          <td>
+          <td>Font Colour:</td>
+          <td style="text-align:center;">
             <input type="text" id="fontColour" class="jscolor" value="000000">
             <span class="resetFontColour" title="Reset">❌</span>
           </td>
         </tr>
         <tr>
-          <td>Change font style:</td>
-          <td><span id="fontStyle"><select class="fontStyle">
+          <td>Preset:</td>
+          <td style="text-align:center;">
+            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
+            <span id="theme" style="background-color:#000;color:#FFF;">Aa</span>
+            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
+            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
+            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
+            <span class="resetTheme" title="Reset">❌</span>
+          </td>
+        </tr>
+      </table>
+      <hr>
+
+      <span id="subheading">Font Options:</span>
+      <table>
+        <tr>
+          <td style="width:190px;">Style:</td>
+          <td style="text-align:center;"><select class="fontStyle">
             <option value="" selected disabled hidden>Default</option>
             <option value="'Arial Black',Gadget,sans-serif" style="font-family:'Arial Black',Gadget,sans-serif">Arial Black</option>
             <option value="Arial,Helvetica,sans-serif" style="font-family:Arial,Helvetica,sans-serif">Arial Helvetica</option>
@@ -68,12 +91,12 @@
             <option value="'Times New Roman',Times, serif" style="font-family:'Times New Roman',Times, serif">Times New Roman</option>
             <option value="'Trebuchet MS',Helvetica,sans-serif" style="font-family:'Trebuchet MS',Helvetica,sans-serif">Trebuchet</option>
             <option value="Verdana,Geneva,sans-serif" style="font-family:Verdana,Geneva,sans-serif">Verdana</option>
-          </select><label class="resetFontFamily" title="Reset">❌</label></span>
+          </select><span class="resetFontFamily" title="Reset">❌</span>
           </td>
         </tr>
         <tr>
-          <td>Change text size:</td>
-          <td>
+          <td>Size:</td>
+          <td style="text-align:center;">
             <span class="decreaseFontSize" title="Smaller">➖</span>
             <span class="fontSize"></span>
             <span class="increaseFontSize" title="Bigger">➕</span>
@@ -81,8 +104,6 @@
           </td>
         </tr>
       </table>
-      <input type="button" value="Reset all" class="clear">
-
     </div>
   </body>
 </html>

@@ -53,6 +53,13 @@ window.onload=function(){
     window.location.reload();
   });
 
+  //theme:
+  $('.resetTheme').on('click',function(){
+    chrome.storage.local.remove('theme',function(){});
+    chrome.tabs.reload();
+    window.location.reload();
+  });
+
   //font family:
   chrome.storage.local.get('fontStyle',function(value){
     if(typeof value.fontStyle!='undefined'){
@@ -88,12 +95,10 @@ window.onload=function(){
   });
 
   //reset/clear all:
-  $('.clear').on('click',function(){
-    chrome.storage.local.clear(function() {
+  $('.resetAll').on('click',function(){
+    chrome.storage.local.clear(function(){
       var error = chrome.runtime.lastError;
-      if (error) {
-        console.error(error);
-      }
+      if(error){console.error(error);}
     });
     chrome.tabs.reload();
     window.location.reload();
