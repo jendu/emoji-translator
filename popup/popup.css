@@ -104,8 +104,8 @@ input:checked+.switch.manual{background-color:#AE0204;}
 }
 /* font options */
 .fontStyle{
-  width:180px;
-  font-size:15px;
+  width:190px;
+  font-size:20px;
   border-radius:30px;
   height:38px;
   display:inline-block;
@@ -116,7 +116,7 @@ input:checked+.switch.manual{background-color:#AE0204;}
   border:1px solid #BDBDBD;
 }
 option{
-  font-size:20px;
+  font-size:18px;
   background-color:#FFFFFF;
 }
 .fontSize{
