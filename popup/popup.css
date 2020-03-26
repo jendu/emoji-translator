@@ -1,3 +1,9 @@
+@font-face {
+  font-family:OpenDyslexic;
+  src:url('chrome-extension://__MSG_@@extension_id__/scripts/OpenDyslexic-Regular.otf');
+  font-style:normal;
+  font-weight:normal;
+}
 /* body */
 body{
   background-color:#D8D8D8;
@@ -39,6 +45,7 @@ table{
    width:460px;
 }
 .themes span{
+  font-weight:bold;
   cursor:pointer;
   padding-left:5px;
   padding-right:5px;

@@ -13,7 +13,8 @@
   ],
   "web_accessible_resources":[
     "scripts/emojiDict.json",
-    "scripts/textDict.json"
+    "scripts/textDict.json",
+    "scripts/OpenDyslexic-Regular.otf"
   ],
   "content_scripts":[
     {

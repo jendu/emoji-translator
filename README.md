@@ -11,6 +11,7 @@ A chrome extension to translate emoji unicode to their textual descriptions.
 * [Unicode](https://unicode.org/emoji/charts/full-emoji-list.html) - Unicode database
 * [JQuery](https://jquery.com/) - Expanded JS library
 * [jscolor](http://jscolor.com/) - Colour picker
+* [OpenDyslexic](https://opendyslexic.org/) - Font Typeface
 
 ## Authors
 * [JenDu](https://github.com/jendu)

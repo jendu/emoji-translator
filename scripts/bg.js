@@ -82,6 +82,9 @@ chrome.runtime.onMessage.addListener(function(message){
     },_=>chrome.runtime.lastError);
   }else if(message.fontStyle){
     chrome.storage.local.set({'fontStyle':message.fontStyle},function(){});
+    if(message.fontStyle=='OpenDyslexic'){
+          chrome.tabs.executeScript({file:'/scripts/OpenDyslexic.js'},_=>chrome.runtime.lastError);
+    }
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'fontStyle\',function(value){if(value.fontStyle){$(\'*\').css(\'font-family\',value.fontStyle);}});'
     },_=>chrome.runtime.lastError);

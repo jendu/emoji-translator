@@ -55,6 +55,14 @@ $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText
 
         //font style/family:
         chrome.storage.local.get('fontStyle',function(value){
+          if(value.fontStyle=='OpenDyslexic'){
+            var style=document.createElement('style');
+            style.type='text/css';
+            style.textContent='@font-face{font-family:OpenDyslexic;src:url("'
+            +chrome.extension.getURL('scripts/OpenDyslexic-Regular.otf')+'");}';
+            document.head.appendChild(style);
+            $('*').css('font-family','OpenDyslexic');
+          }
           $('*').css('font-family',value.fontStyle);
         });
 
