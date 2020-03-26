@@ -1,4 +1,4 @@
-//this script replaces emoji text descriptions with original char
+//Script replaces emoji text descriptions with their original unicode characters
 //basically reverts replace.js
 
 //get all elements in webpage

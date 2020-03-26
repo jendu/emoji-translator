@@ -1,6 +1,6 @@
-//runs every page load
-//parse json emojis into variable
-//accessed via: emojis[char].name or textEmojis[name].char
+//Runs on page load/tab update.
+//Parse json emojis into variable, accessed via: emojis[char].name or textEmojis[name].char
+//Checks current variable values and executes if set.
 var emojis;
 var textEmojis;
 $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText) {

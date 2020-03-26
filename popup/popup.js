@@ -1,5 +1,4 @@
-//this script controls what happens when popup is interacted with
-//whenever popup loads up...
+//popup.html
 window.onload=function(){
   //for novelty, displays random emoji and its corresponding description!
   $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText) {

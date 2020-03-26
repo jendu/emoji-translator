@@ -1,4 +1,4 @@
-//script runs in background
+//Runs in background, runs once on browser launch
 chrome.runtime.onInstalled.addListener(function(){
   //check that the page it is being used on is an actual web page (http/https)
   var checkPageValid={
@@ -17,6 +17,7 @@ chrome.runtime.onInstalled.addListener(function(){
 //when tab is updated:
 chrome.tabs.onUpdated.addListener(function(tabId,changeInfo,tab){
   if(changeInfo.status=='complete'&&tab.active){
+    //check if auto-translate on:
     chrome.storage.local.get('autoTranslate',function(value){
       if(typeof value.autoTranslate!='undefined'){
         if(value.autoTranslate==true){
@@ -24,6 +25,7 @@ chrome.tabs.onUpdated.addListener(function(tabId,changeInfo,tab){
         }
       }
     });
+    //check if background changed
     chrome.storage.local.get('bgColour',function(value){
       if(typeof value.bgColour!='undefined'){
         var bgColour=value.bgColour;
@@ -35,23 +37,30 @@ chrome.tabs.onUpdated.addListener(function(tabId,changeInfo,tab){
 
 //when bg script receives action message:
 chrome.runtime.onMessage.addListener(function(message){
+  //auto-translate:
   if(message.action=='translate'){
     chrome.tabs.executeScript({file:'/scripts/replace.js'},_=>chrome.runtime.lastError);
     chrome.storage.local.set({'autoTranslate':true},function(){});
   }else if(message.action=='revert'){
     chrome.tabs.executeScript({file:'/scripts/revert.js'},_=>chrome.runtime.lastError);
     chrome.storage.local.set({'autoTranslate':false},function(){});
-  }else if(message.bgColour){
+  }
+  //background colour:
+  else if(message.bgColour){
     chrome.storage.local.set({'bgColour':message.bgColour},function(){});
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'bgColour\',function(value){$(\'body\').css(\'background-color\',value.bgColour);});'
     },_=>chrome.runtime.lastError);
-  }else if(message.fontColour){
+  }
+  //font colour:
+  else if(message.fontColour){
     chrome.storage.local.set({'fontColour':message.fontColour},function(){});
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'fontColour\',function(value){$(\'*\').css(\'color\',value.fontColour);});'
     },_=>chrome.runtime.lastError);
-  }else if(message.theme){
+  }
+  //preset themes:
+  else if(message.theme){
     switch(message.theme){
       case 'themeA':
         chrome.storage.local.set({'bgColour':'#FFFFFF'},function(){});
@@ -80,7 +89,9 @@ chrome.runtime.onMessage.addListener(function(message){
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'fontColour\',function(value){$(\'*\').css(\'color\',value.fontColour);});'
     },_=>chrome.runtime.lastError);
-  }else if(message.fontStyle){
+  }
+  //font family/style:
+  else if(message.fontStyle){
     chrome.storage.local.set({'fontStyle':message.fontStyle},function(){});
     if(message.fontStyle=='OpenDyslexic'){
           chrome.tabs.executeScript({file:'/scripts/OpenDyslexic.js'},_=>chrome.runtime.lastError);
@@ -88,7 +99,9 @@ chrome.runtime.onMessage.addListener(function(message){
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'fontStyle\',function(value){if(value.fontStyle){$(\'*\').css(\'font-family\',value.fontStyle);}});'
     },_=>chrome.runtime.lastError);
-  }else if(message.fontAction){
+  }
+  //font size:
+  else if(message.fontAction){
     chrome.storage.local.get('fontSize',function(value){
       var newSize=parseInt(value.fontSize)+parseInt(message.fontAction);
       if(newSize<8){newSize=8}

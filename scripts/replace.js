@@ -1,4 +1,4 @@
-//this script replaces emojis with text description
+//Replaces emojis with their offical text descriptions.
 
 //get all elements in webpage
 var elements=document.getElementsByTagName('*');
