@@ -24,9 +24,7 @@ h1{
   color:#873A00;
   font-size:30px;
 }
-#main{
-  padding:10px;
-}
+#main{padding:10px;}
 .resetAll{
   position:relative;
   float:right;
@@ -40,7 +38,7 @@ table{
    margin:0 auto;
    width:460px;
 }
-#theme{
+.themes span{
   cursor:pointer;
   padding-left:5px;
   padding-right:5px;
@@ -97,17 +95,9 @@ input:checked+.switch.manual{background-color:#AE0204;}
   -webkit-user-select:none;
   font-size:0px;
 }
-/* reset */
-.resetAll,.resetBGColour,.resetFontColour,.resetTheme,.resetFontFamily,.resetFontSize{
-  cursor:pointer;
-  font-size:20px;
-  right:0px;
-}
-.resetBGColour,.resetFontColour,.resetTheme,.resetFontFamily,.resetFontSize{float:right;}
-.fontStyle,.decreaseFontSize,.increaseFontSize{
-  cursor:pointer;
-}
+/* font options */
 .fontStyle{
+  width:180px;
   font-size:15px;
   border-radius:30px;
   height:38px;
@@ -125,4 +115,28 @@ option{
 .fontSize{
   width:120px;
   font-size:20px;
+}
+.fontStyle,.decreaseFontSize,.increaseFontSize{cursor:pointer;}
+/* reset */
+.resetAll:after,.resetBGColour:after,.resetFontColour:after,.resetTheme:after,
+.resetFontFamily:after,.resetFontSize:after{
+  content:'';
+  width:0px;
+  height:3px;
+  display:block;
+  background:#000000;
+  transition:0.3s;
+}
+.resetAll:hover:after,.resetBGColour:hover:after,.resetFontColour:hover:after,
+.resetTheme:hover:after,.resetFontFamily:hover:after,
+.resetFontSize:hover:after{
+  width: 100%;
+}
+.resetAll,.resetBGColour,.resetFontColour,.resetTheme,.resetFontFamily,
+.resetFontSize{
+  float:right;
+  text-decoration:none;
+  cursor:pointer;
+  font-size:20px;
+  right:0px;
 }

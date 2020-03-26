@@ -51,6 +51,35 @@ chrome.runtime.onMessage.addListener(function(message){
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'fontColour\',function(value){$(\'*\').css(\'color\',value.fontColour);});'
     },_=>chrome.runtime.lastError);
+  }else if(message.theme){
+    switch(message.theme){
+      case 'themeA':
+        chrome.storage.local.set({'bgColour':'#FFFFFF'},function(){});
+        chrome.storage.local.set({'fontColour':'#000000'},function(){});
+        break;
+      case 'themeB':
+        chrome.storage.local.set({'bgColour':'#000000'},function(){});
+        chrome.storage.local.set({'fontColour':'#FFFFFF'},function(){});
+        break;
+      case 'themeC':
+        chrome.storage.local.set({'bgColour':'#F3E4C9'},function(){});
+        chrome.storage.local.set({'fontColour':'#3A539B'},function(){});
+        break;
+      case 'themeD':
+        chrome.storage.local.set({'bgColour':'#829356'},function(){});
+        chrome.storage.local.set({'fontColour':'#F2F3F4'},function(){});
+        break;
+      case 'themeE':
+        chrome.storage.local.set({'bgColour':'#093145'},function(){});
+        chrome.storage.local.set({'fontColour':'#EFD469'},function(){});
+        break;
+    }
+    chrome.tabs.executeScript({code:
+      'chrome.storage.local.get(\'bgColour\',function(value){$(\'body\').css(\'background-color\',value.bgColour);});'
+    },_=>chrome.runtime.lastError);
+    chrome.tabs.executeScript({code:
+      'chrome.storage.local.get(\'fontColour\',function(value){$(\'*\').css(\'color\',value.fontColour);});'
+    },_=>chrome.runtime.lastError);
   }else if(message.fontStyle){
     chrome.storage.local.set({'fontStyle':message.fontStyle},function(){});
     chrome.tabs.executeScript({code:

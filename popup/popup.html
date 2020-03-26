@@ -51,25 +51,27 @@
           <td style="width:190px;">Background Colour:</td>
           <td style="text-align:center;">
             <input type="text" id="bgColour" class="jscolor" value="FFFFFF">
-            <span class="resetBGColour" title="Reset">❌</span>
+            <span class="resetBGColour" title="Reset Background Colour">❌</span>
           </td>
         </tr>
         <tr>
           <td>Font Colour:</td>
           <td style="text-align:center;">
             <input type="text" id="fontColour" class="jscolor" value="000000">
-            <span class="resetFontColour" title="Reset">❌</span>
+            <span class="resetFontColour" title="Reset Font Colour">❌</span>
           </td>
         </tr>
         <tr>
           <td>Preset:</td>
           <td style="text-align:center;">
-            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
-            <span id="theme" style="background-color:#000;color:#FFF;">Aa</span>
-            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
-            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
-            <span id="theme" style="background-color:#FFF;color:#000;">Aa</span>
-            <span class="resetTheme" title="Reset">❌</span>
+            <span class="themes">
+              <span id="themeA" style="background-color:#FFFFFF;color:#000000;">Aa</span>
+              <span id="themeB" style="background-color:#000000;color:#FFFFFF;">Aa</span>
+              <span id="themeC" style="background-color:#F3E4C9;color:#3A539B;">Aa</span>
+              <span id="themeD" style="background-color:#829356;color:#F2F3F4;">Aa</span>
+              <span id="themeE" style="background-color:#093145;color:#EFD469;">Aa</span>
+            </span>
+            <span class="resetTheme" title="Reset Theme">❌</span>
           </td>
         </tr>
       </table>
@@ -91,7 +93,7 @@
             <option value="'Times New Roman',Times, serif" style="font-family:'Times New Roman',Times, serif">Times New Roman</option>
             <option value="'Trebuchet MS',Helvetica,sans-serif" style="font-family:'Trebuchet MS',Helvetica,sans-serif">Trebuchet</option>
             <option value="Verdana,Geneva,sans-serif" style="font-family:Verdana,Geneva,sans-serif">Verdana</option>
-          </select><span class="resetFontFamily" title="Reset">❌</span>
+          </select><span class="resetFontFamily" title="Reset Font Style">❌</span>
           </td>
         </tr>
         <tr>
@@ -100,7 +102,7 @@
             <span class="decreaseFontSize" title="Smaller">➖</span>
             <span class="fontSize"></span>
             <span class="increaseFontSize" title="Bigger">➕</span>
-            <label class="resetFontSize" title="Reset">❌</label>
+            <label class="resetFontSize" title="Reset Font Size">❌</label>
           </td>
         </tr>
       </table>

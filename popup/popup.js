@@ -54,8 +54,34 @@ window.onload=function(){
   });
 
   //theme:
+  $('#themeA').on('click',function(){
+    chrome.runtime.sendMessage({theme:'themeA'},function(){});
+    $('#bgColour').css('background-color','#FFFFFF');
+    $('#fontColour').css('background-color','#000000');
+  });
+  $('#themeB').on('click',function(){
+    chrome.runtime.sendMessage({theme:'themeB'},function(){});
+    $('#bgColour').css('background-color','#000000');
+    $('#fontColour').css('background-color','#FFFFFF');
+  });
+  $('#themeC').on('click',function(){
+    chrome.runtime.sendMessage({theme:'themeC'},function(){});
+    $('#bgColour').css('background-color','#F3E4C9');
+    $('#fontColour').css('background-color','#3A539B');
+  });
+  $('#themeD').on('click',function(){
+    chrome.runtime.sendMessage({theme:'themeD'},function(){});
+    $('#bgColour').css('background-color','#829356');
+    $('#fontColour').css('background-color','#F2F3F4');
+  });
+  $('#themeE').on('click',function(){
+    chrome.runtime.sendMessage({theme:'themeE'},function(){});
+    $('#bgColour').css('background-color','#093145');
+    $('#fontColour').css('background-color','#EFD469');
+  });
   $('.resetTheme').on('click',function(){
-    chrome.storage.local.remove('theme',function(){});
+    chrome.storage.local.remove('bgColour',function(){});
+    chrome.storage.local.remove('fontColour',function(){});
     chrome.tabs.reload();
     window.location.reload();
   });
@@ -136,6 +162,8 @@ function changeFontColour(){
   var fontColour="#"+$('#fontColour').val();
   chrome.runtime.sendMessage({fontColour:fontColour},function(){});
 }
+
+//changes theme
 
 //updates font size shown
 function updateFontSizeVal(){
