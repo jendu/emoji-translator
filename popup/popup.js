@@ -168,11 +168,7 @@ function changeFontColour(){
 function updateFontSizeVal(){
   chrome.storage.local.get('fontSize',function(value){
     if(isNaN(value.fontSize)){
-      $('.fontSize').text('Default');
       chrome.storage.local.set({'fontSize':0},function(){});
-    }
-    else{
-      $('.fontSize').text('Modified');
     }
   });
 }
