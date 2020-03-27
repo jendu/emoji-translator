@@ -94,7 +94,9 @@ chrome.runtime.onMessage.addListener(function(message){
   else if(message.fontStyle){
     chrome.storage.local.set({'fontStyle':message.fontStyle},function(){});
     if(message.fontStyle=='OpenDyslexic'){
-          chrome.tabs.executeScript({file:'/scripts/OpenDyslexic.js'},_=>chrome.runtime.lastError);
+      chrome.tabs.executeScript({file:'/scripts/OpenDyslexic.js'},_=>chrome.runtime.lastError);
+    }else if(message.fontStyle=='Sylexiad'){
+      chrome.tabs.executeScript({file:'/scripts/Sylexiad.js'},_=>chrome.runtime.lastError);
     }
     chrome.tabs.executeScript({code:
       'chrome.storage.local.get(\'fontStyle\',function(value){if(value.fontStyle){$(\'*\').css(\'font-family\',value.fontStyle);}});'
@@ -104,12 +106,9 @@ chrome.runtime.onMessage.addListener(function(message){
   else if(message.fontAction){
     chrome.storage.local.get('fontSize',function(value){
       var newSize=parseInt(value.fontSize)+parseInt(message.fontAction);
-      if(newSize<8){newSize=8}
       chrome.storage.local.set({'fontSize':newSize},function(){
         chrome.storage.local.get('fontSize',function(value){
-          chrome.tabs.executeScript({code:
-            'chrome.storage.local.get(\'fontSize\',function(value){$(\'*\').css(\'font-size\',value.fontSize);});'
-          },_=>chrome.runtime.lastError)
+          chrome.tabs.executeScript({file:'/scripts/fontSize.js'},_=>chrome.runtime.lastError)
         });
       });
     });

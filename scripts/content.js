@@ -62,20 +62,25 @@ $.getJSON(chrome.runtime.getURL('/scripts/emojiDict.json'),function(responseText
             +chrome.extension.getURL('scripts/OpenDyslexic-Regular.otf')+'");}';
             document.head.appendChild(style);
             $('*').css('font-family','OpenDyslexic');
+          }else if(value.fontStyle=='Sylexiad'){
+            var style=document.createElement('style');
+            style.type='text/css';
+            style.textContent='@font-face{font-family:Sylexiad;src:url("'
+            +chrome.extension.getURL('scripts/SylexiadSerifMedium.otf')+'");}';
+            document.head.appendChild(style);
+            $('*').css('font-family','Sylexiad');
           }
           $('*').css('font-family',value.fontStyle);
         });
 
         //font size:
         chrome.storage.local.get('fontSize',function(value){
-          if(typeof value.fontSize=='undefined'){
-            var fSize=($('body').css('font-size')).slice(0,-2);
-            chrome.storage.local.set({'fontSize':fSize},function(){});
-            console.log('set font size');
-          }
+          $('*').each(function(){
+            var k=parseInt($(this).css('font-size'));
+            var resize = k+value.fontSize;
+            $(this).css('font-size',resize);
+          });
         });
-        chrome.storage.local.get('fontSize',function(value){
-          $('*').css('font-size',value.fontSize);
-        });
+
     });
 });

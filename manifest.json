@@ -14,7 +14,8 @@
   "web_accessible_resources":[
     "scripts/emojiDict.json",
     "scripts/textDict.json",
-    "scripts/OpenDyslexic-Regular.otf"
+    "scripts/OpenDyslexic-Regular.otf",
+    "scripts/SylexiadSerifMedium.otf"
   ],
   "content_scripts":[
     {
