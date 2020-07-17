@@ -1,6 +1,8 @@
 # Emoji Translator + Accessibility
 A Google Chrome extension to translate emoji unicode to their textual descriptions. Includes some accessibility features.
 
+![Popup panel user interface](/img/ui.gif) ![Translation functionality demo on getemoji.com](/img/demo.gif)
+
 ## Built with
 * [Python](https://www.python.org/) - Used for web scraping Unicode Database into /scripts/emojiDict.json & textDict.json
 ```
